@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Functions/Function Hoisting.md",
+                "file": "Javascript/Comparison/Logical Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Hoisting"
+              "title": "Logical Operators"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "javascript input",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,8 @@
   },
   "active": "cec06fbb771ca1f7",
   "lastOpenFiles": [
-    "Javascript/Functions/Functions.md",
     "Javascript/Functions/Function Hoisting.md",
+    "Javascript/Functions/Functions.md",
     "Javascript/Comparison/Nullish Coalescing.md",
     "Javascript/Functions",
     "Javascript/Comparison/Functions.md",
