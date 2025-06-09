@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Functions/Functions.md",
+                "file": "Javascript/Functions/Function Hoisting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions"
+              "title": "Function Hoisting"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "cec06fbb771ca1f7",
   "lastOpenFiles": [
-    "Javascript/Comparison/Nullish Coalescing.md",
     "Javascript/Functions/Functions.md",
+    "Javascript/Functions/Function Hoisting.md",
+    "Javascript/Comparison/Nullish Coalescing.md",
     "Javascript/Functions",
     "Javascript/Comparison/Functions.md",
     "Javascript/Comparison/Truthy and Falsy.md",
@@ -214,7 +215,6 @@
     "Javascript/Variables",
     "Javascript/Variables/Why JavaScript?.md",
     "Javascript/Variables/Comments.md",
-    "_better_ ways.md",
     "Javascript",
     "Machine_Learning/images/Pasted image 20250609111421.png",
     "Machine_Learning/Google_Machine_Learning",
