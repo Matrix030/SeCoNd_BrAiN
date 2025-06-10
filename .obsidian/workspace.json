@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d8223e43b86bdd",
+        "id": "4f1d5198eb151df8",
         "type": "tabs",
         "children": [
           {
-            "id": "cec06fbb771ca1f7",
+            "id": "e9e7a55c35419a76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Comparison/Logical Operators.md",
+                "file": "Machine_Learning/Udemy_ML/Regression/Regression (Content).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logical Operators"
+              "title": "Regression (Content)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "49ec209bdeecdd33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c48cfe1f347bf1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,12 +90,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 360.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -185,52 +200,52 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "cec06fbb771ca1f7",
+  "active": "03c48cfe1f347bf1",
   "lastOpenFiles": [
-    "Javascript/Functions/Function Hoisting.md",
-    "Javascript/Functions/Functions.md",
-    "Javascript/Comparison/Nullish Coalescing.md",
-    "Javascript/Functions",
-    "Javascript/Comparison/Functions.md",
-    "Javascript/Comparison/Truthy and Falsy.md",
-    "Javascript/Comparison/Ternary Operator.md",
-    "Javascript/Comparison/Switch.md",
-    "Javascript/Comparison/Logical Operators.md",
-    "Javascript/Comparison/Comparison Operators.md",
-    "Javascript/Comparison/Conditionals.md",
-    "Javascript/Variables/JavaScript (Starter Point).md",
-    "Javascript/Variables/0. Variables.md",
-    "Javascript/Variables/Template Literals.md",
-    "Javascript/Comparison",
-    "Javascript/Variables/Strings.md",
-    "Javascript/Variables/JavaScript's Speed.md",
-    "Javascript/Variables/Undefined vs. Undeclared.md",
-    "Javascript/Variables/Same Line Declarations.md",
-    "Javascript/Variables/Dynamic and Weak.md",
-    "Javascript/Variables/Null vs. Undefined.md",
-    "Javascript/Variables/Increment and Decrement.md",
+    "Machine_Learning/Udemy_ML/Regression/Regression (Content).md",
+    "Machine_Learning/Udemy_ML/Regression/Random Forest Regression/Random Forest Regression.md",
+    "Pasted image 20250610104227.png",
+    "Machine_Learning/images/Pasted image 20250610103316.png",
+    "Machine_Learning/Udemy_ML/Regression/Random Forest Regression",
+    "Machine_Learning/Udemy_ML/Regression/Decision Tree Regression/Decision Tree Regression.md",
+    "Machine_Learning/images/Pasted image 20250610103259.png",
+    "Machine_Learning/images/Pasted image 20250610103255.png",
+    "Machine_Learning/images/Pasted image 20250610103243.png",
+    "Machine_Learning/images/Pasted image 20250610103234.png",
+    "Machine_Learning/images/Pasted image 20250610103220.png",
+    "Machine_Learning/images/Pasted image 20250610103207.png",
+    "Machine_Learning/images/Pasted image 20250610103146.png",
+    "Machine_Learning/images/Pasted image 20250610102857.png",
+    "Machine_Learning/Udemy_ML/Regression/Support Vector Regression (SVR)/Support Vector Regression Intuition.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Linear Regression (Content).md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Building a Model (Step-by-Step).md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Polynomial Linear Regression/Polynomial Linear Regression (Content).md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Polynomial Linear Regression/Polynomial Linear Regression.md",
+    "Machine_Learning/Udemy_ML/Regression/Support Vector Regression (SVR)/Support Vector Regression (Content).md",
+    "Machine_Learning/Udemy_ML/Regression/Decision Tree Regression",
+    "Machine_Learning/Udemy_ML/Udemy Machine Learning.md",
+    "Machine_Learning/Udemy_ML/Regression/Support Vector Regression (SVR)",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Multiple Linear Regression.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model/Bidirectional Elimination.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model/Score Comparison.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Multiple Linear Regression (Content).md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Dummy Variables.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Simple Linear Regression/Simple Linear Regression.md",
     "Numbers in JS.md",
-    "Javascript/Variables/Basic Types.md",
-    "Javascript/Variables/Declaring Variables.md",
-    "Numbers Review.md",
-    "Javascript/Variables",
-    "Javascript/Variables/Why JavaScript?.md",
-    "Javascript/Variables/Comments.md",
-    "Javascript",
-    "Machine_Learning/images/Pasted image 20250609111421.png",
-    "Machine_Learning/Google_Machine_Learning",
-    "Machine_Learning/images/Pasted image 20250609104800.png",
-    "Machine_Learning/images/Pasted image 20250609103847.png",
-    "Machine_Learning/images/Pasted image 20250609094406.png",
-    "Machine_Learning/images/Pasted image 20250609094216.png",
-    "Machine_Learning/images/Pasted image 20250609093352.png",
-    "Machine_Learning/images/Pasted image 20250609093349.png",
-    "Machine_Learning/images/Pasted image 20250609093248.png",
-    "Machine_Learning/images/Pasted image 20250609093125.png",
-    "Machine_Learning/images/Pasted image 20250609093122.png",
-    "Machine_Learning/Udemy_ML/Multiple Linear Regression",
-    "Machine_Learning/Udemy_ML/Simple Linear Regression",
-    "Syntax",
-    "Trial"
+    "Machine_Learning/Udemy_ML/Regression",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Polynomial Linear Regression",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model/Forward Selection.md",
+    "Javascript/JavaScript (Starter Point).md",
+    "Javascript/Variables/Variables (Content).md",
+    "Javascript/Functions/Functions.md",
+    "Javascript/Functions/Functions (Content).md",
+    "Javascript/Comparison/comparison (Content).md",
+    "Javascript/Functions/Function Hoisting.md",
+    "Javascript/Functions",
+    "Javascript/Comparison",
+    "Javascript/Variables"
   ]
 }

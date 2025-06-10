@@ -1,4 +1,4 @@
-# Learn JavaScript (for Developers)
+# Learn JavaScript
 
 ![javascript logo](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/JXkHUaI.png)
 
@@ -12,5 +12,8 @@ For most of this course you'll be writing code in your browser, but we will occa
 
 We'll be building parts of a make-believe software project: **Textio**! A [SaaS](https://www.salesforce.com/saas/) app for sending SMS (text messages) to customers.
 
-[[0. Variables]]
+[[Variables (Content) | Variables]]
+[[Functions (Content) | Functions]]
+[[comparison (Content) | Comparison]]
+
 

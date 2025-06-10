@@ -6,7 +6,7 @@ Approach - Create Dummy Variables ![[Pasted image 20250609094406.png]]
 
 A **dummy variable** is a binary (0/1) column used to represent categorical values numerically.
 
-- Since "State" has 2 values (New York and California), we can create **1 dummy variable per category**, but we **only use (k – 1)** dummy variables to avoid **[[Multiple Linear Regression#^87246a | Multicollinearity]]** (a trap called the _[[Multiple Linear Regression#Dummy Variable Trap | Dummy Variable Trap]]_). ^ef3e1a
+- Since "State" has 2 values (New York and California), we can create **1 dummy variable per category**, but we **only use (k – 1)** dummy variables to avoid **Multicollinearity** (a trap called the _Dummy Variable Trap_). ^ef3e1a
 
 Here, we represent "State" using two dummies:
 - **New York → 1 or 0**

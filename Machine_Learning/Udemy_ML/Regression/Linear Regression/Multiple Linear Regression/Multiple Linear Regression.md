@@ -20,9 +20,4 @@ Where:
 
 ![[Pasted image 20250609091824.png]]
 
-# Next Content
-#### [[Assumptions of Linear Regressions]]
-#### [[Dummy Variables]]
-#### [[P-Values and Statistical Significance in Hypothesis Testing]]
-#### [[Building a Model (Step-by-Step)]]
 
