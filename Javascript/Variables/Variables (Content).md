@@ -9,3 +9,6 @@
 [[Null vs. Undefined]]
 [[Dynamic and Weak]]
 [[Same Line Declarations]]
+[[JavaScript's Speed]]
+[[Strings]]
+[[Template Literals]]
