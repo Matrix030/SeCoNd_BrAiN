@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "49ec209bdeecdd33",
+        "id": "9f3a298b8e447293",
         "type": "tabs",
         "children": [
           {
-            "id": "03c48cfe1f347bf1",
+            "id": "f0c41e4bb8b13622",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "resume stuff for later use.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resume stuff for later use"
+            }
+          },
+          {
+            "id": "c967aeb6df064fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/> Frameworks for AI Agents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "> Frameworks for AI Agents"
+            }
+          },
+          {
+            "id": "177f7d679d12d357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to smolagents"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,8 +82,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "javascript input",
-                "matchingCase": false,
+                "query": "acting",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5086555480957
+    "width": 296.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -177,56 +210,57 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "03c48cfe1f347bf1",
+  "active": "177f7d679d12d357",
   "lastOpenFiles": [
-    "What is an Agent, and how does it work?.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/Introduction to Agents.md",
-    "step1.jpg",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/When to Use an Agentic Framework.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/> Frameworks for AI Agents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Untitled.md",
+    "AI Agent Course/> AI Agent Course.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework",
     "AI Agent Course/bookmarks and issues.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents",
-    "share.png",
-    "Gen-AI-For-Beginners/Bookmarks.md",
-    "Javascript/Functions/Anonymous Functions.md",
-    "Gen-AI-For-Beginners",
-    "AI Agent Course",
-    "Untitled.md",
-    "Javascript/Functions/Scope.md",
-    "Javascript/Functions/Functions As Values.md",
-    "Javascript/Functions/Multiple Return Values.md",
-    "Javascript/Variables/Numbers Review.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents",
+    "resume stuff for later use.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/> Introduction to Agents.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/10) Create Our First Agent Using smolagents/Let's Build Our Agent!.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/10) Create Our First Agent Using smolagents/> Create Our First Agent Using smolagents.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library/Dummy Agent.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/10) Create Our First Agent Using smolagents",
+    "AI Agent Course/Unit 1 - Introduction to Agents/5) Understanding AI Agents through the Thought-Action-Observation Cycle/The Thought-Action-Observation Cycle.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library/> Dummy Agent Library.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/8)  Observe - Integrating Feedback to Reflect and Adapt/> Observe - Integrating Feedback to Reflect and Adapt.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/> Actions - Enabling the Agent to Engage with Its Environment.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/5) Understanding AI Agents through the Thought-Action-Observation Cycle/> Understanding AI Agents through the Thought-Action-Observation Cycle.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/4) What are Tools?/> What are Tools.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library/Serverless API.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library",
+    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/Types of Agent Actions.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/Code Agents.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/The Stop and Parse Approach.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/8)  Observe - Integrating Feedback to Reflect and Adapt",
+    "AI Agent Course/Unit 1 - Introduction to Agents/6) Thought - Internal Reasoning and the ReAct Approach/The ReAct Approach.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/Action -  Enabling the Agent to Engage with Its Environment/Action -  Enabling the Agent to Engage with Its Environment.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment",
+    "AI Agent Course/Unit 1 - Introduction to Agents/6) Thought - Internal Reasoning and the ReAct Approach/> Thought - Internal Reasoning and the ReAct Approach.md",
     "Javascript/Variables/Variables (Content).md",
-    "Javascript/JavaScript (Starter Point).md",
-    "Javascript/Variables/Numbers in JS.md",
-    "Machine_Learning/Udemy_ML/Regression/Regression (Content).md",
-    "Machine_Learning/Udemy_ML/Regression/Random Forest Regression/Random Forest Regression.md",
+    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Building a Model (Step-by-Step).md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/6) Thought - Internal Reasoning and the ReAct Approach",
+    "AI Agent Course/Unit 1 - Introduction to Agents/5) Understanding AI Agents through the Thought-Action-Observation Cycle",
+    "AI Agent Course/Unit 1 - Introduction to Agents/4) What are Tools?/How do we give tools to an LLM?",
+    "AI Agent Course/images/step1.jpg",
+    "AI Agent Course/images/share.png",
     "Pasted image 20250610104227.png",
     "Machine_Learning/images/Pasted image 20250610103316.png",
-    "Machine_Learning/Udemy_ML/Regression/Random Forest Regression",
-    "Machine_Learning/Udemy_ML/Regression/Decision Tree Regression/Decision Tree Regression.md",
     "Machine_Learning/images/Pasted image 20250610103259.png",
     "Machine_Learning/images/Pasted image 20250610103255.png",
     "Machine_Learning/images/Pasted image 20250610103243.png",
     "Machine_Learning/images/Pasted image 20250610103234.png",
     "Machine_Learning/images/Pasted image 20250610103220.png",
-    "Machine_Learning/images/Pasted image 20250610103207.png",
-    "Machine_Learning/Udemy_ML/Regression/Support Vector Regression (SVR)/Support Vector Regression Intuition.md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Linear Regression (Content).md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Building a Model (Step-by-Step).md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Polynomial Linear Regression/Polynomial Linear Regression (Content).md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Polynomial Linear Regression/Polynomial Linear Regression.md",
-    "Machine_Learning/Udemy_ML/Regression/Support Vector Regression (SVR)/Support Vector Regression (Content).md",
-    "Machine_Learning/Udemy_ML/Regression/Decision Tree Regression",
-    "Machine_Learning/Udemy_ML/Udemy Machine Learning.md",
-    "Machine_Learning/Udemy_ML/Regression/Support Vector Regression (SVR)",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Multiple Linear Regression.md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model/Bidirectional Elimination.md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model/Score Comparison.md",
-    "Machine_Learning/Udemy_ML/Regression",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Polynomial Linear Regression",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/5 Methods to Build a Model"
+    "Machine_Learning/images/Pasted image 20250610103207.png"
   ]
 }

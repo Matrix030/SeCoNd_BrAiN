@@ -1,7 +1,0 @@
-[[Comparison Operators]]
-[[Conditionals]]
-[[Logical Operators]]
-[[Nullish Coalescing]]
-[[Switch]]
-[[Ternary Operator]]
-[[Truthy and Falsy]]
