@@ -59,3 +59,6 @@ Let’s compare this to building a **robot butler** who takes care of tasks:
 |**Error handling**|Safety mechanism|Prevents the agent from getting stuck or making repeated mistakes|
 
 
+
+
+[[> Introduction to smolagents]]

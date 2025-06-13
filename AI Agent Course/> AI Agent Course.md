@@ -1,2 +1,2 @@
 [[> Introduction to Agents]]
-[[> Frameworks for AI Agents]]
+[[> Introduction to Agentic Frameworks]]

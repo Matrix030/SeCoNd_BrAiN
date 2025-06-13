@@ -1,7 +1,7 @@
 ## To gain a solid foundation in the fundamentals of AI Agents.
 
 ### Understanding Agents:
-- [[What is an Agent, and how does it work?]]
+- [[> What is an Agent, and how does it work?]]
 - How do Agents make decisions using reasoning and planning?
 
 ### The Role of [[> What are LLMs | What are LLMs]] in Agents:

@@ -8,49 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0c41e4bb8b13622",
+            "id": "6e49f4d798578364",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume stuff for later use.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "resume stuff for later use"
-            }
-          },
-          {
-            "id": "c967aeb6df064fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/> Frameworks for AI Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "> Frameworks for AI Agents"
-            }
-          },
-          {
-            "id": "177f7d679d12d357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to smolagents"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acting",
+                "query": "Understanding Chat Templates",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 397.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -214,44 +182,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "177f7d679d12d357",
+  "active": "6e49f4d798578364",
   "lastOpenFiles": [
-    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents.md",
-    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/When to Use an Agentic Framework.md",
-    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/> Frameworks for AI Agents.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/3) Messages and Special Tokens/What Are Chat Templates?.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/3) Messages and Special Tokens/Messages to Prompt.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/3) Messages and Special Tokens/> Messages and Special Tokens.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/2) What are LLMs/> What are LLMs.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/3) Messages and Special Tokens/Messages - The Underlying System of LLMs.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/3) Messages and Special Tokens/System Messages.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/3) Messages and Special Tokens/Conversations - User and Assistant Messages.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/> Introduction to Agentic Frameworks.md",
+    "cache/resume stuff for later use.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/> What is an Agent, and how does it work?.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/> Introduction to smolagents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents/> When to Use an Agentic Framework.md",
+    "AI Agent Course/bookmarks and issues.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Why use smolagents?/> Why use smolagents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/CodeAgents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Why use smolagents?",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Multi-Agent Systems.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents",
+    "AI Agent Course/> AI Agent Course.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/The spectrum of “Agency”.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Vision and Browser Agents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Retrieval Agents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Tools.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/ToolCallingAgents.md",
+    "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Why Use smolagents.md",
+    "cache/TO-DOs.md",
+    "cache",
     "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.0 - Frameworks for AI Agents",
     "AI Agent Course/Unit 2 - Frameworks for AI Agents/Untitled.md",
-    "AI Agent Course/> AI Agent Course.md",
     "AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework",
-    "AI Agent Course/bookmarks and issues.md",
     "AI Agent Course/Unit 2 - Frameworks for AI Agents",
-    "resume stuff for later use.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/> Introduction to Agents.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/10) Create Our First Agent Using smolagents/Let's Build Our Agent!.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/10) Create Our First Agent Using smolagents/> Create Our First Agent Using smolagents.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library/Dummy Agent.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/10) Create Our First Agent Using smolagents",
-    "AI Agent Course/Unit 1 - Introduction to Agents/5) Understanding AI Agents through the Thought-Action-Observation Cycle/The Thought-Action-Observation Cycle.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library/> Dummy Agent Library.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/8)  Observe - Integrating Feedback to Reflect and Adapt/> Observe - Integrating Feedback to Reflect and Adapt.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/> Actions - Enabling the Agent to Engage with Its Environment.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/5) Understanding AI Agents through the Thought-Action-Observation Cycle/> Understanding AI Agents through the Thought-Action-Observation Cycle.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/4) What are Tools?/> What are Tools.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library/Serverless API.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/9) Dummy Agent Library",
-    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/Types of Agent Actions.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/Code Agents.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment/The Stop and Parse Approach.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/8)  Observe - Integrating Feedback to Reflect and Adapt",
-    "AI Agent Course/Unit 1 - Introduction to Agents/6) Thought - Internal Reasoning and the ReAct Approach/The ReAct Approach.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/Action -  Enabling the Agent to Engage with Its Environment/Action -  Enabling the Agent to Engage with Its Environment.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/7) Action -  Enabling the Agent to Engage with Its Environment",
-    "AI Agent Course/Unit 1 - Introduction to Agents/6) Thought - Internal Reasoning and the ReAct Approach/> Thought - Internal Reasoning and the ReAct Approach.md",
-    "Javascript/Variables/Variables (Content).md",
-    "Machine_Learning/Udemy_ML/Regression/Linear Regression/Multiple Linear Regression/Building a Model (Step-by-Step).md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/6) Thought - Internal Reasoning and the ReAct Approach",
-    "AI Agent Course/Unit 1 - Introduction to Agents/5) Understanding AI Agents through the Thought-Action-Observation Cycle",
-    "AI Agent Course/Unit 1 - Introduction to Agents/4) What are Tools?/How do we give tools to an LLM?",
     "AI Agent Course/images/step1.jpg",
     "AI Agent Course/images/share.png",
     "Pasted image 20250610104227.png",
