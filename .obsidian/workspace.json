@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b53c55e222dc7b",
+        "id": "e0b8fb306e8ad0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "100723f7be78b690",
+            "id": "8a924c5dce08ad0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Currying (Return Here).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Currying (Return Here)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 310.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -185,45 +181,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "100723f7be78b690",
+  "active": "8a924c5dce08ad0a",
   "lastOpenFiles": [
-    "zGOGOGOGO/Functions/> Functions.md",
-    "Currying (Return Here).md",
-    "zGOGOGOGO/> Go Starter.md",
-    "Anonymous Functions (GO).md",
+    "Bootdev/>BootDev.md",
+    "Bootdev/Javascript/>JavaScript.md",
+    "Bootdev",
+    "Bootdev/zGOGOGOGO/Functions/> Functions.md",
+    "Bootdev/zGOGOGOGO/> Go Starter.md",
+    "Bootdev/zGOGOGOGO/Functions/Anonymous Functions (GO).md",
+    "Bootdev/zGOGOGOGO/Functions/Passing Variables by Value.md",
+    "Bootdev/zGOGOGOGO/Functions/Currying (Return Here).md",
     "zTO-DOs.md",
-    "Javascript/Functions/Anonymous Functions.md",
-    "Closure.md",
-    "Function as Values.md",
-    "Ignoring Return Values.md",
-    "Early Returns.md",
+    "Bootdev/Javascript/Functions/Anonymous Functions.md",
+    "Bootdev/zGOGOGOGO/Functions/Closure.md",
+    "Bootdev/zGOGOGOGO/Functions/Function as Values.md",
+    "Bootdev/zGOGOGOGO/Functions/Ignoring Return Values.md",
+    "Bootdev/zGOGOGOGO/Functions/Early Returns.md",
     "Processing Orders.md",
-    "Block Scope.md",
-    "zGOGOGOGO/Variables/The Compilation Process.md",
-    "Defer.md",
-    "Explicit Returns.md",
-    "Named Return Values.md",
-    "Passing Variables by Value.md",
-    "Declaration Syntax (GO).md",
-    "Multiple Parameters.md",
-    "Javascript/Comparison/Switch.md",
+    "Bootdev/zGOGOGOGO/Functions/Block Scope.md",
+    "Bootdev/zGOGOGOGO/Variables/The Compilation Process.md",
+    "Bootdev/zGOGOGOGO/Functions/Defer.md",
+    "Bootdev/zGOGOGOGO/Functions/Explicit Returns.md",
+    "Bootdev/zGOGOGOGO/Functions/Named Return Values.md",
+    "Bootdev/zGOGOGOGO/Functions/Declaration Syntax (GO).md",
+    "Bootdev/zGOGOGOGO/Functions/Multiple Parameters.md",
+    "Bootdev/Javascript/Comparison/Switch.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/4) What are Tools?/How do we give tools to an LLM?/Model Context Protocol.md",
-    "zGOGOGOGO/Conditionals/Switch (GO).md",
-    "L1. Functions.md",
-    "zGOGOGOGO/Conditionals/> Conditionals (GO).md",
-    "zGOGOGOGO/Functions",
-    "zGOGOGOGO/Conditionals/L1. Conditionals.md",
-    "zGOGOGOGO/Conditionals/The Initial Statement of an if Block.md",
-    "zGOGOGOGO/Conditionals",
-    "zGOGOGOGO/images/Pasted image 20250616124604.png",
-    "zGOGOGOGO/images",
-    "zGOGOGOGO/Variables",
-    "zGOGOGOGO",
+    "Bootdev/zGOGOGOGO/Conditionals/Switch (GO).md",
+    "Bootdev/zGOGOGOGO/Functions/L1. Functions.md",
+    "Bootdev/zGOGOGOGO/Conditionals/> Conditionals (GO).md",
+    "Bootdev/zGOGOGOGO/Functions",
+    "Bootdev/zGOGOGOGO/Conditionals",
+    "Bootdev/zGOGOGOGO/images/Pasted image 20250616124604.png",
+    "Bootdev/zGOGOGOGO/images",
+    "Bootdev/zGOGOGOGO/Variables",
+    "Bootdev/zGOGOGOGO",
     "Leetcode/Arrays and Hashing",
     "Leetcode",
     "Paper Review/Cross-impact of order flow imbalance in equity markets",
     "Paper Review",
-    "stop using gpt for this",
     "AI Agent Course/images/step1.jpg",
     "AI Agent Course/images/share.png",
     "Pasted image 20250610104227.png",
