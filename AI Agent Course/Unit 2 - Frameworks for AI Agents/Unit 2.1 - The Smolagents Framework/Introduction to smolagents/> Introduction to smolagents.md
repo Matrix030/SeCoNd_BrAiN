@@ -21,7 +21,7 @@ In this unit, Alfred, the agent from Unit 1, makes his return. This time, he’s
 
 ## Contents
 
-[[AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Why Use smolagents]]
+[[AI Agent Course/Unit 2 - Frameworks for AI Agents/Unit 2.1 - The Smolagents Framework/Introduction to smolagents/Contents/Why Use smolagents | Why Use smolagents]]
 [[CodeAgents]]
 [[ToolCallingAgents]]
 [[Tools]]

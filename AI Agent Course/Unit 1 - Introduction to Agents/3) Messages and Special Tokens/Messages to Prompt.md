@@ -26,4 +26,3 @@ We’ll discuss messages again in upcoming units, but if you want a deeper dive 
 
 - [Hugging Face Chat Templating Guide](https://huggingface.co/docs/transformers/main/en/chat_templating)
 - [Transformers Documentation](https://huggingface.co/docs/transformers)
-- 

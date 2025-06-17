@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"AI Agent Course\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:Javascript  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 1.04427083333333,
+  "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 1.96302083333333,
   "collapse-forces": false,
   "centerStrength": 0.244791666666667,
   "repelStrength": 20,
   "linkStrength": 0.932291666666667,
   "linkDistance": 30,
-  "scale": 0.1387322393266599,
+  "scale": 0.061658773034070836,
   "close": true
 }

@@ -1,3 +1,7 @@
+## Chat-Templates
+
+As mentioned, chat templates are essential for **structuring conversations between language models and users**. They guide how message exchanges are formatted into a single prompt.
+
 Think of **chat templates** like special formats for how messages are written down before giving them to the robot. Different robots like messages in different "styles."
 
 #### 💬 Example 1: SmolLM Style (like writing a play)
@@ -37,4 +41,7 @@ The `transformers` library will take care of chat templates for you as part of t
 
 You can experiment with the following Space to see how the same conversation would be formatted for different models using their corresponding chat templates: [https://huggingface.co/learn/agents-course/unit1/messages-and-special-tokens#chat-templates]
 
+## [[Base Models vs. Instruct Models]]
+
+## [[Understanding Chat Templates]]
 ## [[Messages to Prompt]]

@@ -1,0 +1,5 @@
+- **Simplicity:** Minimal code complexity and abstractions, to make the framework easy to understand, adopt and extend
+- **Flexible LLM Support:** Works with any LLM through integration with Hugging Face tools and external APIs
+- **Code-First Approach:** First-class support for Code Agents that write their actions directly in code, removing the need for parsing and simplifying tool calling
+- **HF Hub Integration:** Seamless integration with the Hugging Face Hub, allowing the use of Gradio Spaces as tools
+- 
