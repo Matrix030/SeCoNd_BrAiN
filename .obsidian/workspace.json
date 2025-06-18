@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mutual Struct.md",
+                "file": "Bootdev/C for Memory  Management/Pointers/Array  Decay to Pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutual Struct"
+              "title": "Array  Decay to Pointers"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "padding",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -187,25 +185,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f9134f88453ae24f",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
+    "Bootdev/C for Memory  Management/> C for Memory Management.md",
     "Bootdev/C for Memory  Management/Pointers/>Pointers.md",
-    "Mutual Struct.md",
-    "Forward Declaration.md",
-    "C String Library.md",
-    "C Strings.md",
-    "Array  Decay to Pointers.md",
-    "Pointer Size.md",
-    "Multibyte Arrays.md",
+    "Bootdev/C for Memory  Management/Pointers/Mutual Struct.md",
+    "Bootdev/C for Memory  Management/Pointers/Forward Declaration.md",
+    "Bootdev/C for Memory  Management/Pointers/C String Library.md",
+    "Bootdev/C for Memory  Management/Pointers/C Strings.md",
+    "Bootdev/C for Memory  Management/Pointers/Array  Decay to Pointers.md",
+    "Bootdev/C for Memory  Management/Pointers/Pointer Size.md",
+    "Bootdev/C for Memory  Management/Pointers/Multibyte Arrays.md",
     "Bootdev/C for Memory  Management/Structs/Sizeof (C) - 2.md",
     "Bootdev/C for Memory  Management/Structs/Struct Padding.md",
-    "Array Casting.md",
+    "Bootdev/C for Memory  Management/Pointers/Array Casting.md",
     "Excalidraw/Drawing 2025-06-18 07.58.07.excalidraw.md",
-    "Arrays As Pointers in C.md",
-    "C Arrays.md",
+    "Bootdev/C for Memory  Management/Pointers/Arrays As Pointers in C.md",
+    "Bootdev/C for Memory  Management/Pointers/C Arrays.md",
     "Excalidraw",
     "Bootdev/C for Memory  Management/Pointers/Pointer to Structs.md",
-    "Bootdev/C for Memory  Management/> C for Memory Management.md",
     "Bootdev/C for Memory  Management/Pointers/Pointer Basics.md",
     "Bootdev/zGOGOGOGO/> Go Starter.md",
     "Closure WTF.md",
