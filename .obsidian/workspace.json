@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a924c5dce08ad0a",
+            "id": "f9134f88453ae24f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mutual Struct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mutual Struct"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "padding",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -181,45 +187,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a924c5dce08ad0a",
+  "active": "f9134f88453ae24f",
   "lastOpenFiles": [
-    "Bootdev/>BootDev.md",
-    "Bootdev/Javascript/>JavaScript.md",
-    "Bootdev",
-    "Bootdev/zGOGOGOGO/Functions/> Functions.md",
+    "Bootdev/C for Memory  Management/Pointers/>Pointers.md",
+    "Mutual Struct.md",
+    "Forward Declaration.md",
+    "C String Library.md",
+    "C Strings.md",
+    "Array  Decay to Pointers.md",
+    "Pointer Size.md",
+    "Multibyte Arrays.md",
+    "Bootdev/C for Memory  Management/Structs/Sizeof (C) - 2.md",
+    "Bootdev/C for Memory  Management/Structs/Struct Padding.md",
+    "Array Casting.md",
+    "Excalidraw/Drawing 2025-06-18 07.58.07.excalidraw.md",
+    "Arrays As Pointers in C.md",
+    "C Arrays.md",
+    "Excalidraw",
+    "Bootdev/C for Memory  Management/Pointers/Pointer to Structs.md",
+    "Bootdev/C for Memory  Management/> C for Memory Management.md",
+    "Bootdev/C for Memory  Management/Pointers/Pointer Basics.md",
     "Bootdev/zGOGOGOGO/> Go Starter.md",
-    "Bootdev/zGOGOGOGO/Functions/Anonymous Functions (GO).md",
-    "Bootdev/zGOGOGOGO/Functions/Passing Variables by Value.md",
+    "Closure WTF.md",
+    "Bootdev/zGOGOGOGO/Functions/> Functions.md",
     "Bootdev/zGOGOGOGO/Functions/Currying (Return Here).md",
-    "zTO-DOs.md",
-    "Bootdev/Javascript/Functions/Anonymous Functions.md",
-    "Bootdev/zGOGOGOGO/Functions/Closure.md",
+    "Bootdev/zGOGOGOGO/Functions/Closure WTF.md",
+    "Bootdev/zGOGOGOGO/Functions/Anonymous Functions (GO).md",
     "Bootdev/zGOGOGOGO/Functions/Function as Values.md",
-    "Bootdev/zGOGOGOGO/Functions/Ignoring Return Values.md",
-    "Bootdev/zGOGOGOGO/Functions/Early Returns.md",
-    "Processing Orders.md",
-    "Bootdev/zGOGOGOGO/Functions/Block Scope.md",
-    "Bootdev/zGOGOGOGO/Variables/The Compilation Process.md",
-    "Bootdev/zGOGOGOGO/Functions/Defer.md",
+    "Bootdev/zGOGOGOGO/Functions/Early Returns (Guard Clauses).md",
     "Bootdev/zGOGOGOGO/Functions/Explicit Returns.md",
-    "Bootdev/zGOGOGOGO/Functions/Named Return Values.md",
-    "Bootdev/zGOGOGOGO/Functions/Declaration Syntax (GO).md",
-    "Bootdev/zGOGOGOGO/Functions/Multiple Parameters.md",
-    "Bootdev/Javascript/Comparison/Switch.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/4) What are Tools?/How do we give tools to an LLM?/Model Context Protocol.md",
-    "Bootdev/zGOGOGOGO/Conditionals/Switch (GO).md",
-    "Bootdev/zGOGOGOGO/Functions/L1. Functions.md",
-    "Bootdev/zGOGOGOGO/Conditionals/> Conditionals (GO).md",
+    "Bootdev/C for Memory  Management/Pointers",
+    "Bootdev/C for Memory  Management/Structs",
+    "Bootdev/C for Memory  Management/C Basics",
+    "Bootdev/C for Memory  Management",
+    "Bootdev",
     "Bootdev/zGOGOGOGO/Functions",
     "Bootdev/zGOGOGOGO/Conditionals",
     "Bootdev/zGOGOGOGO/images/Pasted image 20250616124604.png",
     "Bootdev/zGOGOGOGO/images",
     "Bootdev/zGOGOGOGO/Variables",
-    "Bootdev/zGOGOGOGO",
-    "Leetcode/Arrays and Hashing",
-    "Leetcode",
-    "Paper Review/Cross-impact of order flow imbalance in equity markets",
-    "Paper Review",
     "AI Agent Course/images/step1.jpg",
     "AI Agent Course/images/share.png",
     "Pasted image 20250610104227.png",
