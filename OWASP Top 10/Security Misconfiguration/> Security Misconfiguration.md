@@ -1,0 +1,7 @@
+[[Factors (Security Misconfiguration)]]
+[[Overview (Security Misconfiguration)]]
+[[Description (Security Misconfiguration)]]
+[[How to Prevent (Security Misconfiguration)]]
+[[Example Attack Scenarios (Security Misconfiguration)]]
+[[References (Security Misconfiguration)]]
+[[List of Mapped CWEs (Security Misconfiguration)]]

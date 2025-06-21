@@ -11,27 +11,34 @@
       "query": "path:\"AI Agent Course\"  ",
       "color": {
         "a": 1,
-        "rgb": 5399264
+        "rgb": 10092288
       }
     },
     {
-      "query": "path:Javascript  ",
+      "query": "path:\"OWASP Top 10\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 8127492
+      }
+    },
+    {
+      "query": "path:Bootdev  ",
+      "color": {
+        "a": 1,
+        "rgb": 34483
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 1.96302083333333,
   "collapse-forces": false,
-  "centerStrength": 0.244791666666667,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.932291666666667,
-  "linkDistance": 30,
-  "scale": 0.02740389912625367,
+  "linkStrength": 0.619791666666667,
+  "linkDistance": 179,
+  "scale": 0.018269266084169015,
   "close": true
 }

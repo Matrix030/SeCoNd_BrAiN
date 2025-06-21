@@ -1,0 +1,7 @@
+[[Factors (Broken Access Control)]]
+[[Overview (Broken Access Control)]]
+[[Description (Broken Access Control)]]
+[[How to Prevent (Broken Access Control)]]
+[[Example Attack Scenarios (Broken Access Control)]]
+[[References (Broken Access Control)]]
+[[List of Mapped CWEs (Broken Access Control)]]

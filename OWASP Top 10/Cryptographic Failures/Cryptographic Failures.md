@@ -1,0 +1,7 @@
+[[Factors (Cryptographic Failures)]]
+[[Overview (Cryptographic Failures)]]
+[[Description (Cryptographic Failures)]]
+[[How to Prevent (Cryptographic Failures)]]
+[[Example Attack Scenarios (Cryptographic Failures)]]
+[[References (Cryptographic Failures)]]
+[[List of Mapped CWEs (Cryptographic Failures)]]

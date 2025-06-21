@@ -1,0 +1,7 @@
+[[Factors (Software and Data Integrity Failures)]]
+[[Overview (Software and Data Integrity Failures)]]
+[[Description (Software and Data Integrity Failures)]]
+[[How to Prevent (Software and Data Integrity Failures)]]
+[[Example Attack Scenarios (Software and Data Integrity Failures)]]
+[[References (Software and Data Integrity Failures)]]
+[[List of Mapped CWEs (Software and Data Integrity Failures)]]

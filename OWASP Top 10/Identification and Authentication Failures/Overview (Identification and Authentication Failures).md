@@ -1,0 +1,1 @@
+Previously known as _Broken Authentication_, this category slid down from the second position and now includes Common Weakness Enumerations (CWEs) related to identification failures. Notable CWEs included are _CWE-297: Improper Validation of Certificate with Host Mismatch_, _CWE-287: Improper Authentication_, and _CWE-384: Session Fixation_.

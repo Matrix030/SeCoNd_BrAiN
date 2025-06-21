@@ -1,0 +1,1 @@
+Injection slides down to the third position. 94% of the applications were tested for some form of injection with a max incidence rate of 19%, an average incidence rate of 3%, and 274k occurrences. Notable Common Weakness Enumerations (CWEs) included are _CWE-79: Cross-site Scripting_, _CWE-89: SQL Injection_, and _CWE-73: External Control of File Name or Path_.

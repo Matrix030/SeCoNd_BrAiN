@@ -1,0 +1,7 @@
+[[Factors (Vulnerable and Outdated Components)]]
+[[Overview (Vulnerable and Outdated Components)]]
+[[Description (Vulnerable and Outdated Components)]]
+[[How to Prevent ((Vulnerable and Outdated Components))]]
+[[Example Attack Scenario (Vulnerable and Outdated Components)]]
+[[References (Vulnerable and Outdated Components)]]
+[[List of Mapped CWEs (Vulnerable and Outdated Components)]]

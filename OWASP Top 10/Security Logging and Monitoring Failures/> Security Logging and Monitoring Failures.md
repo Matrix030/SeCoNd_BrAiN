@@ -1,0 +1,7 @@
+[[Factors (Security Logging and Monitoring Failures)]]
+[[Overview (Security Logging and Monitoring Failures)]]
+[[Description (Security Logging and Monitoring Failures)]]
+[[How to Prevent (Security Logging and Monitoring Failures)]]
+[[Example Attack Scenarios (Security Logging and Monitoring Failures)]]
+[[References (Security Logging and Monitoring Failures)]]
+[[List of Mapped CWEs (Security Logging and Monitoring Failures)]]

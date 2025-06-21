@@ -1,0 +1,7 @@
+[[Factors (Identification and Authentication Failures)]]
+[[Overview (Identification and Authentication Failures)]]
+[[Description (Identification and Authentication Failures)]]
+[[How to Prevent (Identification and Authentication Failures)]]
+[[Example Attack Scenarios (Identification and Authentication Failures)]]
+[[References (Identification and Authentication Failures)]]
+[[List of Mapped CWEs (Identification and Authentication Failures)]]

@@ -1,0 +1,7 @@
+[[Factors (Server Side Request Forgery)]]
+[[Overview (Server Side Request Forgery)]]
+[[Description (Server Side Request Forgery)]]
+[[How to Prevent (Server Side Request Forgery)]]
+[[Example  Attack Scenarios (Server Side Request Forgery)]]
+[[References (Server Side Request Forgery)]]
+[[List of Mapped CWEs (Server Side Request Forgery)]]

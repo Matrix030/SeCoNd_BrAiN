@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b8fb306e8ad0ac",
+        "id": "aed910cecfaedc3d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9134f88453ae24f",
+            "id": "8d9e68582899ab5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootdev/C for Memory  Management/Pointers/Array  Decay to Pointers.md",
+                "file": "The Heap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array  Decay to Pointers"
+              "title": "The Heap"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "print",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -149,8 +150,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e9b3bb80bc6bcbf8",
@@ -185,53 +185,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4da63a3b69125fa",
+  "active": "8d9e68582899ab5f",
   "lastOpenFiles": [
+    "The Heap.md",
+    "Bootdev/C for Memory  Management/The Stack/> The Stack and Heap.md",
+    "Pointer to the Stack.md",
+    "Stack Overflow.md",
+    "Why a Stack?.md",
+    "Bootdev/C for Memory  Management/The Stack/L1. The Stack.md",
     "Bootdev/C for Memory  Management/> C for Memory Management.md",
-    "Bootdev/C for Memory  Management/Pointers/>Pointers.md",
-    "Bootdev/C for Memory  Management/Pointers/Mutual Struct.md",
-    "Bootdev/C for Memory  Management/Pointers/Forward Declaration.md",
-    "Bootdev/C for Memory  Management/Pointers/C String Library.md",
-    "Bootdev/C for Memory  Management/Pointers/C Strings.md",
-    "Bootdev/C for Memory  Management/Pointers/Array  Decay to Pointers.md",
-    "Bootdev/C for Memory  Management/Pointers/Pointer Size.md",
-    "Bootdev/C for Memory  Management/Pointers/Multibyte Arrays.md",
-    "Bootdev/C for Memory  Management/Structs/Sizeof (C) - 2.md",
-    "Bootdev/C for Memory  Management/Structs/Struct Padding.md",
-    "Bootdev/C for Memory  Management/Pointers/Array Casting.md",
-    "Excalidraw/Drawing 2025-06-18 07.58.07.excalidraw.md",
-    "Bootdev/C for Memory  Management/Pointers/Arrays As Pointers in C.md",
-    "Bootdev/C for Memory  Management/Pointers/C Arrays.md",
-    "Excalidraw",
-    "Bootdev/C for Memory  Management/Pointers/Pointer to Structs.md",
-    "Bootdev/C for Memory  Management/Pointers/Pointer Basics.md",
-    "Bootdev/zGOGOGOGO/> Go Starter.md",
-    "Closure WTF.md",
-    "Bootdev/zGOGOGOGO/Functions/> Functions.md",
-    "Bootdev/zGOGOGOGO/Functions/Currying (Return Here).md",
-    "Bootdev/zGOGOGOGO/Functions/Closure WTF.md",
-    "Bootdev/zGOGOGOGO/Functions/Anonymous Functions (GO).md",
-    "Bootdev/zGOGOGOGO/Functions/Function as Values.md",
-    "Bootdev/zGOGOGOGO/Functions/Early Returns (Guard Clauses).md",
-    "Bootdev/zGOGOGOGO/Functions/Explicit Returns.md",
-    "Bootdev/C for Memory  Management/Pointers",
-    "Bootdev/C for Memory  Management/Structs",
-    "Bootdev/C for Memory  Management/C Basics",
-    "Bootdev/C for Memory  Management",
-    "Bootdev",
-    "Bootdev/zGOGOGOGO/Functions",
-    "Bootdev/zGOGOGOGO/Conditionals",
+    "Bootdev/C for Memory  Management/Union/Helper Fields ???.md",
+    "Bootdev/C for Memory  Management/C Basics/> C Basics.md",
+    "Bootdev/>BootDev.md",
+    "Bootdev/C for Memory  Management/Enums/> Enums.md",
+    "Bootdev/C for Memory  Management/The Stack",
+    "Bootdev/C for Memory  Management/Enums/L1. Enums.md",
+    "Bootdev/C for Memory  Management/Union/> Unions.md",
+    "Bootdev/C for Memory  Management/Union/Union Size.md",
+    "Bootdev/C for Memory  Management/Union/Memory Layout.md",
+    "Bootdev/C for Memory  Management/Union/L1. Union.md",
+    "Bootdev/C for Memory  Management/Union",
+    "Bootdev/C for Memory  Management/Enums/Sizeof Enum.md",
+    "Bootdev/C for Memory  Management/Enums/Switch Case (C).md",
+    "Bootdev/C for Memory  Management/Enums/Non-Default Values.md",
+    "cache/ABOUT ME.md",
+    "cache/Validia - RC.md",
+    "Bootdev/C for Memory  Management/Enums",
+    "cache/chatgpt response.md",
+    "cache/to ask.md",
+    "zTO-DOs.md",
+    "learn vim/vim.md",
+    "cache/Pasted image 20250619110718.png",
+    "cache/Pasted image 20250619110912.png",
+    "OWASP Top 10/> OWASP TOP 10.md",
+    "learn vim",
+    "Network Security",
+    "ISP",
+    "OWASP Top 10/Server Side Request Forgery/How to Prevent",
+    "OWASP Top 10/Server Side Request Forgery",
+    "OWASP Top 10/Security Logging and Monitoring Failures",
+    "OWASP Top 10/Security and Data Integrity",
     "Bootdev/zGOGOGOGO/images/Pasted image 20250616124604.png",
-    "Bootdev/zGOGOGOGO/images",
-    "Bootdev/zGOGOGOGO/Variables",
     "AI Agent Course/images/step1.jpg",
     "AI Agent Course/images/share.png",
     "Pasted image 20250610104227.png",
     "Machine_Learning/images/Pasted image 20250610103316.png",
     "Machine_Learning/images/Pasted image 20250610103259.png",
     "Machine_Learning/images/Pasted image 20250610103255.png",
-    "Machine_Learning/images/Pasted image 20250610103243.png",
-    "Machine_Learning/images/Pasted image 20250610103234.png",
-    "Machine_Learning/images/Pasted image 20250610103220.png"
+    "Machine_Learning/images/Pasted image 20250610103243.png"
   ]
 }
