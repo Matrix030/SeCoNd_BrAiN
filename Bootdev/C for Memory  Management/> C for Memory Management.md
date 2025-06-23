@@ -5,4 +5,5 @@
 [[> Enums]]
 [[> Unions]]
 [[> The Stack and Heap]]
+[[> Advanced Pointers]]
 

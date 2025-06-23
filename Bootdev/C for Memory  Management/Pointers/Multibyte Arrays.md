@@ -11,7 +11,6 @@ typedef struct Coordinate {
 ```
 
 We can declare an array of 3 `Coordinate` structs like so:
-
 ```c
 coordinate_t points[3] = {
   {1, 2, 3},

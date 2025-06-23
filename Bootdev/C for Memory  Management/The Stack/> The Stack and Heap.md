@@ -3,3 +3,6 @@
 [[Stack Overflow]]
 [[Pointer to the Stack]]
 [[The Heap]]
+[[Malloc]]
+[[Free]]
+[[Big Endian and Little Endian]]

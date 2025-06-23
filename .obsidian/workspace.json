@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Heap.md",
+                "file": "cache/to ask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Heap"
+              "title": "to ask"
+            }
+          },
+          {
+            "id": "dd795c354bbf4625",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-22 13.32.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-22 13.32.37.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,46 +198,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d9e68582899ab5f",
+  "active": "dd795c354bbf4625",
   "lastOpenFiles": [
-    "The Heap.md",
-    "Bootdev/C for Memory  Management/The Stack/> The Stack and Heap.md",
-    "Pointer to the Stack.md",
-    "Stack Overflow.md",
-    "Why a Stack?.md",
-    "Bootdev/C for Memory  Management/The Stack/L1. The Stack.md",
-    "Bootdev/C for Memory  Management/> C for Memory Management.md",
-    "Bootdev/C for Memory  Management/Union/Helper Fields ???.md",
-    "Bootdev/C for Memory  Management/C Basics/> C Basics.md",
-    "Bootdev/>BootDev.md",
-    "Bootdev/C for Memory  Management/Enums/> Enums.md",
-    "Bootdev/C for Memory  Management/The Stack",
-    "Bootdev/C for Memory  Management/Enums/L1. Enums.md",
-    "Bootdev/C for Memory  Management/Union/> Unions.md",
-    "Bootdev/C for Memory  Management/Union/Union Size.md",
-    "Bootdev/C for Memory  Management/Union/Memory Layout.md",
-    "Bootdev/C for Memory  Management/Union/L1. Union.md",
-    "Bootdev/C for Memory  Management/Union",
-    "Bootdev/C for Memory  Management/Enums/Sizeof Enum.md",
-    "Bootdev/C for Memory  Management/Enums/Switch Case (C).md",
-    "Bootdev/C for Memory  Management/Enums/Non-Default Values.md",
-    "cache/ABOUT ME.md",
-    "cache/Validia - RC.md",
-    "Bootdev/C for Memory  Management/Enums",
-    "cache/chatgpt response.md",
     "cache/to ask.md",
+    "Excalidraw/Drawing 2025-06-22 13.32.37.excalidraw.md",
+    "Bootdev/C for Memory  Management/Pointers/Array  Decay to Pointers.md",
+    "Bootdev/C for Memory  Management/Pointers/>Pointers.md",
+    "Bootdev/C for Memory  Management/Pointers/C Strings.md",
+    "Bootdev/C for Memory  Management/Pointers/Pointer Size.md",
+    "Bootdev/C for Memory  Management/Pointers/Array Casting.md",
+    "Bootdev/C for Memory  Management/Pointers/Multibyte Arrays.md",
+    "Bootdev/C for Memory  Management/Pointers/Arrays As Pointers in C.md",
+    "Bootdev/C for Memory  Management/Pointers/C Arrays.md",
+    "Bootdev/C for Memory  Management/Pointers/Pointer to Structs.md",
+    "Bootdev/C for Memory  Management/Pointers/Pointer Basics.md",
+    "Bootdev/C for Memory  Management/Pointers/Why Pointers.md",
+    "Bootdev/C for Memory  Management/Pointers/Pointers.md",
+    "Bootdev/C for Memory  Management/Pointers/Virtual Memory.md",
+    "Bootdev/C for Memory  Management/Pointers/What is an Address?.md",
+    "Bootdev/C for Memory  Management/Advanced Pointers/Arrays of Pointers.md",
     "zTO-DOs.md",
+    "Bootdev/C for Memory  Management/Advanced Pointers/> Advanced Pointers.md",
+    "Bootdev/C for Memory  Management/Advanced Pointers/L1. Pointer-Pointers.md",
     "learn vim/vim.md",
+    "Bootdev/C for Memory  Management/Advanced Pointers",
+    "Bootdev/C for Memory  Management/> C for Memory Management.md",
+    "Bootdev/C for Memory  Management/The Stack/Big Endian and Little Endian.md",
+    "Bootdev/C for Memory  Management/The Stack/> The Stack and Heap.md",
+    "Bootdev/C for Memory  Management/The Stack/Free.md",
+    "Bootdev/C for Memory  Management/The Stack/Malloc.md",
+    "Bootdev/C for Memory  Management/The Stack",
+    "Bootdev/C for Memory  Management/Union",
+    "Bootdev/C for Memory  Management/Enums",
     "cache/Pasted image 20250619110718.png",
     "cache/Pasted image 20250619110912.png",
-    "OWASP Top 10/> OWASP TOP 10.md",
     "learn vim",
     "Network Security",
     "ISP",
     "OWASP Top 10/Server Side Request Forgery/How to Prevent",
     "OWASP Top 10/Server Side Request Forgery",
     "OWASP Top 10/Security Logging and Monitoring Failures",
-    "OWASP Top 10/Security and Data Integrity",
     "Bootdev/zGOGOGOGO/images/Pasted image 20250616124604.png",
     "AI Agent Course/images/step1.jpg",
     "AI Agent Course/images/share.png",
