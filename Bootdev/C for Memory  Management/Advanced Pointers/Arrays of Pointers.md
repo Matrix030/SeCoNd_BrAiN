@@ -7,7 +7,7 @@ int_array[1] = 2;
 int_array[2] = 3;
 ```
 
-But we can also make an array of pointers! It's quite common to do this in C, especially considering that strings are just pointers to `char`s:
+But we can also make an arrFay of pointers! It's quite common to do this in C, especially considering that strings are just pointers to `char`s:
 
 ```c
 char **string_array = malloc(sizeof(char *) * 3);

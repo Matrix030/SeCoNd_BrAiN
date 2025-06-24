@@ -10,5 +10,5 @@
 [[Anonymous Functions (GO)]]
 [[Defer]]
 [[Block Scope]]
-[[Bootdev/zGOGOGOGO/Functions/Closure WTF]]
+[[Closure WTF]]
 [[Currying (Return Here)]]

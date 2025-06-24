@@ -1,0 +1,6 @@
+[[SnekObjects]]
+[[Integer]]
+[[Float]]
+[[Strings]]
+[[Vector3]]
+[[Arrays]]

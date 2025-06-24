@@ -1,0 +1,3 @@
+If you've taken our data structures course, you've already implemented a [stack](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\)). We're going to implement a stack again, but this time we're going to do it while manually managing the memory of generic pointers!
+
+We'll get to have our first deeper exploration of "generics" in C (remember, that just means `void *`) as well as creating a data structure we will later use in our mark-and-sweep garbage collector.

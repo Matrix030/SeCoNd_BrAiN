@@ -1,0 +1,1 @@
+Let's add a dynamically sized array to Sneklang. We'll do it in two parts. First, we'll just create an empty array. In a later lesson, we'll make it useful.

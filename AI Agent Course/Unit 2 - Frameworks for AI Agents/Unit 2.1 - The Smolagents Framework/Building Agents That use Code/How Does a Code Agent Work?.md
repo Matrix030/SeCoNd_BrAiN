@@ -1,6 +1,6 @@
 ![From https://huggingface.co/docs/smolagents/conceptual_guides/react](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/codeagent_docs.png)
 
-The diagram above illustrates how `CodeAgent.run()` operates, following the ReAct framework we mentioned in Unit 1. The main abstraction for agents in `smolagents` is a `MultiStepAgent`, which serves as the core building block. `CodeAgent` is a special kind of `MultiStepAgent`, as we will see in an example below.
+The diagram above illustrates how `CodeAgent.run()` operates, following the [[The ReAct Approach | ReAct]] framework we mentioned in Unit 1. The main abstraction for agents in `smolagents` is a `MultiStepAgent`, which serves as the core building block. `CodeAgent` is a special kind of `MultiStepAgent`, as we will see in an example below.
 
 A `CodeAgent` performs actions through a cycle of steps, with existing variables and knowledge being incorporated into the agent’s context, which is kept in an execution log:
 1. The system prompt is stored in a `SystemPromptStep`, and the user query is logged in a `TaskStep`.

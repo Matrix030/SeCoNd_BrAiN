@@ -30,3 +30,5 @@ func selfMath(mathFunc func(int, int) int) func (int) int {
 ```
 
 In the example above, the `selfMath` function takes in a function as its parameter and returns a function that itself returns the value of running that input function on its parameter.
+
+func selfMath(mathFunc func(int, int) //initialized the math func with two ints,) int //mathFunc returns an int) func (int) int //selfMath returns a function, this returned function takes a single int argument which itself returns an int value.

@@ -1,3 +1,5 @@
 [[> Variables (GO)]]
 [[> Conditionals (GO)]]
 [[> Functions]]
+[[> Structs in Go]]
+[[> Interfaces in Go]]
