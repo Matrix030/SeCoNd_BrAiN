@@ -1,0 +1,1 @@
+A type can implement any number of interfaces in Go. For example, the [empty interface](https://go.dev/tour/methods/14), `interface{}`, is _always_ implemented by every type because it has no requirements.
