@@ -3,3 +3,5 @@
 [[> Functions]]
 [[> Structs in Go]]
 [[> Interfaces in Go]]
+[[>Loops In Go]]
+[[>Slices]]
