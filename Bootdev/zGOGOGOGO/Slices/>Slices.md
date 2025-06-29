@@ -1,2 +1,10 @@
 [[Arrays in Go]]
 [[Slices in Go]]
+[[Make]]
+[[Len and Cap Review]]
+[[Variadic]]
+[[Append]]
+[[Range]]
+[[Slice of Slices]]
+[[Tricky Slices]]
+
