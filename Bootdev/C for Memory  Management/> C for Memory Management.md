@@ -2,7 +2,7 @@
 [[> Structs]]
 [[>Pointers]]
 [[> Structs]]
-[[> Enums]]
+[[Bootdev/C for Memory  Management/Enums/> Enums]]
 [[> Unions]]
 [[> The Stack and Heap]]
 [[> Advanced Pointers]]

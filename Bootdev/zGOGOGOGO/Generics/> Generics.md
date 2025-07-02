@@ -1,0 +1,6 @@
+[[Generics in Go]]
+[[Why Generics]]
+[[Constraints]]
+[[Interface Type Lists]]
+[[Parametric Constraints]]
+[[Naming Generic Types]]

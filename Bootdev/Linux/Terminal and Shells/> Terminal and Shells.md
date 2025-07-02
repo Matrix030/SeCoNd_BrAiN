@@ -1,0 +1,8 @@
+[[Welcome to Linux]]
+[[Command Line vs GUI]]
+[[What is Terminal]]
+[[What is a Shell]]
+[[Variables (Linux)]]
+[[History]]
+[[Navigate History]]
+[[Terminal Alternatives]]
