@@ -1,3 +1,3 @@
-[[> Introduction to Agentic Frameworks]]
+[[> Frameworks for AI Agents]]
 [[> The smolagent Framework (Unit 2.1 Connector)]]
 

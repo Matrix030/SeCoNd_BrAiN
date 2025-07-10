@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d8df9d7d7d23eac1",
+        "id": "dced879f407be276",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfb1afd4709f012",
+            "id": "5f26fa220316a0cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sections of a URL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sections of a URL"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slice",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Middleware"
             }
           },
           {
@@ -109,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Middleware"
             }
           },
           {
@@ -158,8 +165,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -180,53 +187,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dbfb1afd4709f012",
+  "active": "5f26fa220316a0cc",
   "lastOpenFiles": [
-    "Bootdev/Linux/Programs/> Programs.md",
-    "Bootdev/Linux/Programs",
-    "Bootdev/>BootDev.md",
-    "Bootdev/Linux/Programs/Compiled vs Interpreted.md",
-    "Bootdev/Linux/> Linux Starter.md",
-    "Bootdev/Linux/Permissions/> Permissions.md",
-    "Bootdev/Linux/Permissions/Changing Permissions.md",
-    "Bootdev/Linux/Permissions/Using sudo.md",
-    "Bootdev/Linux/Permissions/Chown.md",
-    "Bootdev/Linux/Permissions/Root User.md",
-    "Bootdev/Linux/Permissions/Executables.md",
-    "Bootdev/Linux/Permissions/Permissions.md",
-    "Bootdev/Linux/Permissions/L1. Users.md",
-    "Bootdev/Linux/Permissions",
-    "Bootdev/Linux/FileSystems/Absolute vs Relative Paths.md",
-    "Bootdev/Linux/FileSystems/> FileSystems.md",
-    "Bootdev/Linux/FileSystems/Find.md",
-    "Bootdev/Linux/FileSystems/Grep Multiple Files.md",
-    "Bootdev/Linux/FileSystems/Grep.md",
-    "Bootdev/Linux/FileSystems/Home.md",
-    "Bootdev/Linux/FileSystems/Copy.md",
-    "Bootdev/Linux/FileSystems/Remove.md",
-    "Bootdev/Linux/FileSystems/Move.md",
-    "Bootdev/Linux/FileSystems/Directories.md",
-    "Bootdev/Linux/FileSystems/Touch.md",
-    "Bootdev/Linux/FileSystems/More and Less.md",
-    "Bootdev/Linux/FileSystems/head and tail.md",
-    "Bootdev/Linux/FileSystems",
-    "Bootdev/Linux/Terminal and Shells",
-    "Bootdev/Linux",
-    "Bootdev/zGOGOGOGO/Enums",
-    "Bootdev/zGOGOGOGO/Generics",
-    "Read ",
-    "Read",
-    "Bootdev/zGOGOGOGO/Mutexes",
+    "Bootdev/GOLANG/Projects/HTTP Clients/URLs/> URLs.md",
+    "Sections of a URL.md",
+    "Uniform Resource Indentifiers.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/> HTTP Clients.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS/DNS.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/URLs",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS/> DNS.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS/Subdomains.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS/What is a Domain Name System.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS/Web Addresses Quiz.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/> JSON (Clients).md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/Unmarshal JSON.md",
+    "zTO-DOs.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/map[string]interface{}.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS/Web Addresses.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/DNS",
+    "Bootdev/GOLANG/Projects/HTTP Clients/Why HTTP?/> Why HTTP?.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/Why use XML.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/Decoding JSON.md",
+    "cache/ABOUT ME.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/XML.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/Marshal JSON.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/JSON Review.md",
+    "cache/to ask.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON/JSON syntax.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/JSON",
+    "Bootdev/GOLANG/Projects/HTTP Clients/Why HTTP?/HTTP Power Websites.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/Why HTTP?/Using URLs in HTTP.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/Why HTTP?/Web Clients.md",
+    "Bootdev/GOLANG/Projects/HTTP Clients/Why HTTP?",
+    "Bootdev/GOLANG/Projects/HTTP Clients",
+    "Bootdev/GOLANG/Projects/HTTP Severs/Architecture",
+    "Bootdev/GOLANG/Projects/HTTP Severs/JSON",
+    "Bootdev/GOLANG/Projects/HTTP Severs/Routing",
+    "Books/Programming Massively Parallel Processors/images/Pasted image 20250707234141.png",
+    "Books/Programming Massively Parallel Processors/images",
+    "Books/Programming Massively Parallel Processors/images/Pasted image 20250708001122.png",
+    "Books/Programming Massively Parallel Processors/images/Pasted image 20250707234358.png",
+    "Books/Programming Massively Parallel Processors/Introduction",
+    "cache/Pasted image 20250619110718.png",
     "Bootdev/zGOGOGOGO/Untitled.canvas",
     "Leetcode/images/Pasted image 20250624153026.png",
     "Leetcode/images/Pasted image 20250624155951.png",
     "Leetcode/images/Pasted image 20250624155524.png",
     "Leetcode/images/Pasted image 20250624153620.png",
     "Leetcode/images/Pasted image 20250624153130.png",
-    "cache/Pasted image 20250619110718.png",
-    "cache/Pasted image 20250619110912.png",
-    "Bootdev/zGOGOGOGO/images/Pasted image 20250616124604.png",
-    "AI Agent Course/images/step1.jpg",
-    "AI Agent Course/images/share.png"
+    "cache/Pasted image 20250619110912.png"
   ]
 }

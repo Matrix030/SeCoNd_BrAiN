@@ -1,0 +1,3 @@
+In the last lesson, you changed your `PATH` variable for your current shell session. Trouble is, the next time you restart your shell, it will be reset to its default value. You won't be able to use the `worldbanc.sh` CLI Tool from anywhere unless you change your `PATH` variable _permanently_.
+
+The most common way to do this is to add the same `export` command that you used in the last lesson to your shell's configuration file.

@@ -14,4 +14,8 @@ vim start of  line:
 0
 vim white - space skip:
  ^
- 
+ jump to new line insert mode:
+ o
+
+jump to previous line insert mode:
+O
