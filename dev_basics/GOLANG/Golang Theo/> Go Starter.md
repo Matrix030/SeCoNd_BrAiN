@@ -12,7 +12,7 @@
 [[> Channels]]
 [[> Mutexes]]
 [[> Generics]]
-[[> Enums]]
+[[dev_basics/GOLANG/Golang Theo/Enums/> Enums]]
 
 
 

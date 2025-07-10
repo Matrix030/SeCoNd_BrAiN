@@ -1,6 +1,6 @@
 [[SnekObjects]]
 [[Integer]]
 [[Float]]
-[[Strings]]
+[[dev_basics/C for Memory  Management/Objects/Strings]]
 [[Vector3]]
 [[Arrays]]
