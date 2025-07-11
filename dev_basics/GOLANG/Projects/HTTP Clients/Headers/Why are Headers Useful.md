@@ -1,0 +1,3 @@
+Headers are useful for several reasons from design to security, but most often headers are used for [metadata](https://en.wikipedia.org/wiki/Metadata) _about_ the request or response itself. For example, let's say we wanted to ask for a player's level from the Jello server. We need to send that player's ID to the server so it knows which player to send back the information for. That ID _is my request_, it's not information _about my request_.
+
+[Authentication](https://auth0.com/intro-to-iam/what-is-authentication/) is a common use case for headers. If I ask Jello to complete a project, I need to provide authentication information that I'm logged in, but that auth info isn't the request itself, it's just _additional information_ about the request.

@@ -1,0 +1,8 @@
+[[HTTP Methods - GET]]
+[[Why Use HTTP Methods]]
+[[POST Request]]
+[[Status Code]]
+[[Status Code Property]]
+[[HTTP PUT]]
+[[Patch vs PUT]]
+[[DELETE]]
