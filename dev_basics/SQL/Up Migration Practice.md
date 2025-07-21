@@ -1,0 +1,1 @@
+When writing _reversible_ migrations, we use the terms "up" and "down" migrations. An "up" migration is simply the set of changes you want to make, like altering/removing/adding/editing a table in some way. A "down" migration includes the changes that would _revert_ any of the "up" migration's changes.

@@ -1,0 +1,5 @@
+[[What are Aggregations]]
+[[SQL SUM]]
+[[SQL MAX]]
+[[SQL MIN]]
+[[SQL GROUP BY]]

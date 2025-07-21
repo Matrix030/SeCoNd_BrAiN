@@ -1,0 +1,1 @@
+When using both `ORDER BY` and `LIMIT`, the `ORDER BY` clause must come _first_.
