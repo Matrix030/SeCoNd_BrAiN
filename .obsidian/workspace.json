@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev_basics/GOLANG/Projects/HTTP Clients/> HTTP Clients.md",
+                "file": "Coursera/AWS/Serverless and AWS Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "> HTTP Clients"
+              "title": "Serverless and AWS Lambda"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "method declaration",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 292.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -186,54 +186,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f26fa220316a0cc",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
-    "dev_basics/GOLANG/Projects/HTTP Clients/cURL/cURL Basics.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/cURL/jq Basics.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/cURL/> cURL.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/cURL/Install jq.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/cURL/cURL POST Request.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/cURL/Install cURL.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/> HTTP Clients.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods/Why Use HTTP Methods.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Errors/Bugs vs. Errors.md",
+    "Coursera/AWS/AWS Compute.md",
+    "Coursera/AWS/Serverless and AWS Lambda.md",
+    "Coursera/AWS/Module 2.md",
+    "Coursera/AWS/AWS.md",
+    "Coursera/AWS/Container Services on AWS.md",
+    "Coursera/AWS/Amazon EC2 Instance Lifecycle.md",
+    "Coursera/AWS/Compute as  a Service on AWS.md",
+    "Coursera/AWS/What is AWS?.md",
+    "dev_basics/SQL/Aggregations.md",
+    "dev_basics/SQL/Between.md",
+    "dev_basics/SQL/SQL GROUP BY.md",
+    "dev_basics/SQL/SQL MIN.md",
+    "dev_basics/SQL/SQL MAX.md",
+    "dev_basics/SQL/SQL SUM.md",
+    "dev_basics/SQL/What are Aggregations.md",
+    "dev_basics/SQL/SQL.md",
+    "dev_basics/SQL/Basic Queries.md",
+    "dev_basics/SQL/SQL IN.md",
+    "dev_basics/SQL/SQL Structuring.md",
+    "dev_basics/SQL/ORDER BY AND LIMIT.md",
+    "dev_basics/SQL/ORDER BY.md",
+    "dev_basics/SQL/SQL LIMIT.md",
+    "dev_basics/SQL/SQL Functions.md",
+    "dev_basics/SQL/Underscore Operator.md",
+    "dev_basics/SQL/SQL Like.md",
+    "dev_basics/SQL/CRUD.md",
+    "dev_basics/SQL",
+    "Coursera/AWS/Pasted image 20250717131708.png",
+    "Coursera/AWS/Pasted image 20250717131559.png",
+    "Coursera/AWS/Pasted image 20250717130700.png",
+    "Coursera/AWS/Pasted image 20250717130646.png",
+    "Coursera/AWS/Pasted image 20250717130632.png",
+    "Coursera/AWS/Pasted image 20250717130622.png",
+    "Coursera/AWS/Pasted image 20250717125952.png",
+    "Coursera/AWS/Pasted image 20250717125438.png",
+    "Coursera/AWS/Pasted image 20250717124944.png",
+    "Coursera/AWS/Pasted image 20250717124931.png",
+    "Coursera/AWS",
+    "Coursera",
     "dev_basics/GOLANG/Projects/HTTP Clients/cURL",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Errors/> Errors GOLANG HTTP.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Errors/Handling Errors.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/HTTPS/Security and Encryption.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/HTTPS/> HTTPS.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/HTTPS/L1. HTTPS.md",
     "dev_basics/GOLANG/Projects/HTTP Clients/Errors",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Paths/L1. URL Paths.md",
     "dev_basics/GOLANG/Projects/HTTP Clients/HTTPS",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Paths/>Paths.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Paths/Multiple Query Parameters.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Paths/The Documentation of an HTTP Server.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Paths/URL Query Parameters.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Paths/RESTFUL APIs.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/URLs/URL Paths.md",
     "dev_basics/GOLANG/Projects/HTTP Clients/Paths",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods/> Methods.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods/DELETE.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods/Patch vs PUT.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods/POST Request.md",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods/HTTP PUT.md",
     "dev_basics/GOLANG/Projects/HTTP Clients/Methods",
     "dev_basics/GOLANG/Projects/HTTP Clients/Headers",
     "dev_basics/GOLANG/Projects/HTTP Clients/URLs",
-    "dev_basics/GOLANG/Projects/HTTP Clients/DNS",
-    "dev_basics/GOLANG/Projects/HTTP Clients/JSON",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Why HTTP?",
-    "Books/Programming Massively Parallel Processors/images/Pasted image 20250707234141.png",
-    "Books/Programming Massively Parallel Processors/images/Pasted image 20250708001122.png",
-    "Books/Programming Massively Parallel Processors/images/Pasted image 20250707234358.png",
-    "cache/Pasted image 20250619110718.png",
-    "Bootdev/zGOGOGOGO/Untitled.canvas",
-    "Leetcode/images/Pasted image 20250624153026.png",
-    "Leetcode/images/Pasted image 20250624155951.png",
-    "Leetcode/images/Pasted image 20250624155524.png",
-    "Leetcode/images/Pasted image 20250624153620.png",
-    "Leetcode/images/Pasted image 20250624153130.png",
-    "cache/Pasted image 20250619110912.png"
+    "Bootdev/zGOGOGOGO/Untitled.canvas"
   ]
 }
