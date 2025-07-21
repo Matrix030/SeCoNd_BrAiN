@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera/AWS/Serverless and AWS Lambda.md",
+                "file": "AWS Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serverless and AWS Lambda"
+              "title": "AWS Networking"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -186,11 +187,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4da63a3b69125fa",
+  "active": "5f26fa220316a0cc",
   "lastOpenFiles": [
+    "Introduction to Amazon VPC.md",
+    "AWS Networking.md",
+    "Networking on AWS.md",
+    "Coursera/AWS/Module 2.md",
     "Coursera/AWS/AWS Compute.md",
     "Coursera/AWS/Serverless and AWS Lambda.md",
-    "Coursera/AWS/Module 2.md",
     "Coursera/AWS/AWS.md",
     "Coursera/AWS/Container Services on AWS.md",
     "Coursera/AWS/Amazon EC2 Instance Lifecycle.md",
@@ -211,9 +215,6 @@
     "dev_basics/SQL/ORDER BY.md",
     "dev_basics/SQL/SQL LIMIT.md",
     "dev_basics/SQL/SQL Functions.md",
-    "dev_basics/SQL/Underscore Operator.md",
-    "dev_basics/SQL/SQL Like.md",
-    "dev_basics/SQL/CRUD.md",
     "dev_basics/SQL",
     "Coursera/AWS/Pasted image 20250717131708.png",
     "Coursera/AWS/Pasted image 20250717131559.png",
