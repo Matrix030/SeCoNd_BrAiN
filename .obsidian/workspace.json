@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dced879f407be276",
+        "id": "3742f45bd28dbf2f",
         "type": "tabs",
         "children": [
           {
-            "id": "5f26fa220316a0cc",
+            "id": "46be0399034a670f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Networking.md",
+                "file": "Coursera/AWS/Amazon VPC Routing and Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Networking"
+              "title": "Amazon VPC Routing and Security"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -187,45 +186,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f26fa220316a0cc",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
-    "Introduction to Amazon VPC.md",
-    "AWS Networking.md",
-    "Networking on AWS.md",
+    "Coursera/AWS/Storage Types on AWS.md",
+    "Coursera/AWS/Storage on AWS.md",
+    "Coursera/AWS/Module 3.md",
+    "Coursera/AWS/> AWS.md",
     "Coursera/AWS/Module 2.md",
+    "Coursera/AWS/AWS Networking.md",
+    "Coursera/AWS/Lab Creating a VPC.md",
+    "Coursera/AWS/Pasted image 20250722111247.png",
+    "Coursera/AWS/Pasted image 20250722110736.png",
+    "Coursera/AWS/Pasted image 20250722110730.png",
+    "Coursera/AWS/Pasted image 20250722105106.png",
+    "Coursera/AWS/Pasted image 20250722104934.png",
+    "Coursera/AWS/Pasted image 20250722104919.png",
+    "Coursera/AWS/Pasted image 20250722104523.png",
+    "Coursera/AWS/Pasted image 20250722104150.png",
+    "Coursera/AWS/Pasted image 20250722103454.png",
+    "Coursera/AWS/Pasted image 20250722102754.png",
+    "Coursera/AWS/Network Troubleshooting steps for Amazon VPC.md",
+    "Coursera/AWS/Amazon VPC Routing and Security.md",
+    "Evolution of Graphics Pipelines.md",
+    "Books/Programming Massively Parallel Processors/Programming Massively Parallel Processors.md",
+    "Books/Programming Massively Parallel Processors/History of GPU Computing/History of GPU Computing.md",
+    "Books/Programming Massively Parallel Processors/History of GPU Computing",
+    "Books/Programming Massively Parallel Processors/Introduction/Overarching Goals.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Parallel Programming Languages and Models.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Introduction (CUDA).md",
+    "Books/Programming Massively Parallel Processors/Introduction/Why more Speed or Parallelism.md",
+    "Books/Programming Massively Parallel Processors/Introduction/GPUs as Parallel Computers.md",
+    "Books/Programming Massively Parallel Processors/Interestings.md",
+    "Coursera/AWS/Introduction to Amazon VPC.md",
+    "Coursera/AWS/Networking on AWS.md",
     "Coursera/AWS/AWS Compute.md",
     "Coursera/AWS/Serverless and AWS Lambda.md",
-    "Coursera/AWS/AWS.md",
     "Coursera/AWS/Container Services on AWS.md",
     "Coursera/AWS/Amazon EC2 Instance Lifecycle.md",
     "Coursera/AWS/Compute as  a Service on AWS.md",
     "Coursera/AWS/What is AWS?.md",
-    "dev_basics/SQL/Aggregations.md",
-    "dev_basics/SQL/Between.md",
-    "dev_basics/SQL/SQL GROUP BY.md",
-    "dev_basics/SQL/SQL MIN.md",
-    "dev_basics/SQL/SQL MAX.md",
-    "dev_basics/SQL/SQL SUM.md",
-    "dev_basics/SQL/What are Aggregations.md",
-    "dev_basics/SQL/SQL.md",
-    "dev_basics/SQL/Basic Queries.md",
-    "dev_basics/SQL/SQL IN.md",
-    "dev_basics/SQL/SQL Structuring.md",
-    "dev_basics/SQL/ORDER BY AND LIMIT.md",
-    "dev_basics/SQL/ORDER BY.md",
-    "dev_basics/SQL/SQL LIMIT.md",
-    "dev_basics/SQL/SQL Functions.md",
     "dev_basics/SQL",
-    "Coursera/AWS/Pasted image 20250717131708.png",
-    "Coursera/AWS/Pasted image 20250717131559.png",
-    "Coursera/AWS/Pasted image 20250717130700.png",
-    "Coursera/AWS/Pasted image 20250717130646.png",
-    "Coursera/AWS/Pasted image 20250717130632.png",
-    "Coursera/AWS/Pasted image 20250717130622.png",
-    "Coursera/AWS/Pasted image 20250717125952.png",
-    "Coursera/AWS/Pasted image 20250717125438.png",
-    "Coursera/AWS/Pasted image 20250717124944.png",
-    "Coursera/AWS/Pasted image 20250717124931.png",
     "Coursera/AWS",
     "Coursera",
     "dev_basics/GOLANG/Projects/HTTP Clients/cURL",
@@ -234,7 +234,6 @@
     "dev_basics/GOLANG/Projects/HTTP Clients/Paths",
     "dev_basics/GOLANG/Projects/HTTP Clients/Methods",
     "dev_basics/GOLANG/Projects/HTTP Clients/Headers",
-    "dev_basics/GOLANG/Projects/HTTP Clients/URLs",
     "Bootdev/zGOGOGOGO/Untitled.canvas"
   ]
 }
