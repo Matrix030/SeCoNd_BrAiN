@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera/AWS/Amazon VPC Routing and Security.md",
+                "file": "Object Storage  with Amazon S3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon VPC Routing and Security"
+              "title": "Object Storage  with Amazon S3"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -186,12 +187,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4da63a3b69125fa",
+  "active": "46be0399034a670f",
   "lastOpenFiles": [
-    "Coursera/AWS/Storage Types on AWS.md",
     "Coursera/AWS/Storage on AWS.md",
+    "Object Storage  with Amazon S3.md",
+    "Amazon EC2 Instance Storage and Amazon Elastic Block Store.md",
+    "Pasted image 20250723134833.png",
     "Coursera/AWS/Module 3.md",
     "Coursera/AWS/> AWS.md",
+    "Coursera/AWS/Storage Types on AWS.md",
+    "cache/ABOUT ME.md",
+    "Coursera/AWS/Amazon VPC Routing and Security.md",
     "Coursera/AWS/Module 2.md",
     "Coursera/AWS/AWS Networking.md",
     "Coursera/AWS/Lab Creating a VPC.md",
@@ -204,9 +210,7 @@
     "Coursera/AWS/Pasted image 20250722104523.png",
     "Coursera/AWS/Pasted image 20250722104150.png",
     "Coursera/AWS/Pasted image 20250722103454.png",
-    "Coursera/AWS/Pasted image 20250722102754.png",
     "Coursera/AWS/Network Troubleshooting steps for Amazon VPC.md",
-    "Coursera/AWS/Amazon VPC Routing and Security.md",
     "Evolution of Graphics Pipelines.md",
     "Books/Programming Massively Parallel Processors/Programming Massively Parallel Processors.md",
     "Books/Programming Massively Parallel Processors/History of GPU Computing/History of GPU Computing.md",
@@ -222,9 +226,6 @@
     "Coursera/AWS/AWS Compute.md",
     "Coursera/AWS/Serverless and AWS Lambda.md",
     "Coursera/AWS/Container Services on AWS.md",
-    "Coursera/AWS/Amazon EC2 Instance Lifecycle.md",
-    "Coursera/AWS/Compute as  a Service on AWS.md",
-    "Coursera/AWS/What is AWS?.md",
     "dev_basics/SQL",
     "Coursera/AWS",
     "Coursera",
