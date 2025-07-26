@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3742f45bd28dbf2f",
+        "id": "ceb4e8d95dbf79ff",
         "type": "tabs",
         "children": [
           {
-            "id": "46be0399034a670f",
+            "id": "5f36fd2752de9c3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "End to End Machine Learning Project.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "End to End Machine Learning Project"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 239.5124969482422
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -187,27 +182,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "46be0399034a670f",
+  "active": "5f36fd2752de9c3d",
   "lastOpenFiles": [
+    "cache/ABOUT ME.md",
+    "dev_basics/git/>Git.md",
+    "Internals.md",
+    "Second Commit.md",
+    "Trees and Blobs.md",
+    "Cat File.md",
+    "the Object File.md",
+    "The Plumbing.md",
+    "Different Hashes.md",
+    "Repositories.md",
+    "Git Log.md",
+    "Half of Git.md",
+    "Commit.md",
+    "Staging.md",
+    "dev_basics/git/Setup.md",
+    "Status.md",
+    "Books/Machine Learning/End to End Machine Learning Project.md",
+    "Books/Machine Learning/Pasted image 20250724174619.png",
+    "dev_basics/git/Porcelain and Plumbing.md",
+    "dev_basics/git/RTFM GIT.md",
+    "dev_basics/git",
     "Books/Machine Learning/The Fundamentals of machine Learning.md",
-    "End to End Machine Learning Project.md",
     "Books/Machine Learning/The Machine Learning landscape.md",
-    "Pasted image 20250724174619.png",
     "Coursera/AWS/AWS Optimization.md",
     "Books/Machine Learning/Machine Learning.md",
     "Coursera/AWS/Optimizing Solutions on AWS.md",
     "Books/Machine Learning",
     "Coursera/AWS/Module 4.md",
     "Coursera/AWS/Monitoring of AWS.md",
-    "Coursera/AWS/Introduction to AWS CloudWatch.md",
-    "Coursera/AWS/Reading - Monitoring on AWS.md",
-    "Coursera/AWS/> AWS.md",
-    "Coursera/AWS/Module 3.md",
-    "Coursera/AWS/Databases on AWS.md",
-    "Coursera/AWS/Lab 3 - Configuring a Web Application.md",
-    "Coursera/AWS/Amazon Relational Database Service.md",
-    "Coursera/AWS/Choose the Right Storage Service.md",
-    "cache/ABOUT ME.md",
     "Coursera/AWS/Pasted image 20250724110730.png",
     "Coursera/AWS/Pasted image 20250724110112.png",
     "Coursera/AWS/Pasted image 20250724110005.png",
@@ -217,15 +222,6 @@
     "Coursera/AWS/Pasted image 20250724104750.png",
     "Coursera/AWS/Pasted image 20250724104612.png",
     "Coursera/AWS/Pasted image 20250724104457.png",
-    "Coursera/AWS/Choose the Right AWS Databse Service.md",
-    "Coursera/AWS/Introduction to Amazon DynamoDB.md",
-    "Coursera/AWS/Storage on AWS.md",
-    "Coursera/AWS/Amazon EC2 Instance Storage and Amazon Elastic Block Store.md",
-    "Coursera/AWS/Explore Databases on AWS.md",
-    "Coursera/AWS/Object Storage  with Amazon S3.md",
-    "Coursera/AWS/Storage Types on AWS.md",
-    "Coursera/AWS/Amazon VPC Routing and Security.md",
-    "Coursera/AWS/Module 2.md",
     "Books/Programming Massively Parallel Processors/History of GPU Computing",
     "dev_basics/SQL",
     "Coursera/AWS",
@@ -234,7 +230,6 @@
     "dev_basics/GOLANG/Projects/HTTP Clients/Errors",
     "dev_basics/GOLANG/Projects/HTTP Clients/HTTPS",
     "dev_basics/GOLANG/Projects/HTTP Clients/Paths",
-    "dev_basics/GOLANG/Projects/HTTP Clients/Methods",
     "Bootdev/zGOGOGOGO/Untitled.canvas"
   ]
 }
