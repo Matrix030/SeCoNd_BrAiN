@@ -9,7 +9,7 @@ ML systems fall into one or more of the following categories based on how they l
 - Generative AI
 
 [[Linear_Regression]]
-[[Logistic Regression]]
+[[Machine_Learning/Coursera/Logistic Regression]]
 [[Supervised_Learning]]
 
 

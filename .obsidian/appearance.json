@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidianite",
-  "baseFontSize": 17,
-  "baseFontSizeAction": true
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }

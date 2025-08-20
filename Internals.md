@@ -1,6 +1,0 @@
-[[Different Hashes]]
-[[The Plumbing]]
-[[the Object File]]
-[[Cat File]]
-[[Trees and Blobs]]
-[[Second Commit]]

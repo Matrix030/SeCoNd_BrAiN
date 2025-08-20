@@ -1,5 +1,0 @@
-[[Status]]
-[[Staging]]
-[[Commit]]
-[[Half of Git]]
-[[Git Log]]
