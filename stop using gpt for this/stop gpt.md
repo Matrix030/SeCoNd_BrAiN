@@ -63,7 +63,7 @@ Ctrl+b }
 Use `d` with **t** (till) or **f** (find):
 
 - `dtx` → delete **up to (but not including)** the first occurrence of `x`.
-- `dfx` → delete **through (including)** the first occurrence of `x`.
+- `dfx` → delete **through (including)** the firstc occurrence of `x`.
 
 
 Comment selected text (visual mode):
@@ -74,3 +74,8 @@ gcc
 
 check what a function does (normal mode):
 K  (while cursor is on the function)
+
+## Tmux
+2. Step Resize with Prefix + Ctrl + Arrow
+rename a window:
+control + b + ,

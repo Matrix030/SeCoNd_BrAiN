@@ -39,3 +39,5 @@ If service fails → check logs, remove leftover `postmaster.pid`, or re-init `/
 ```
 sudo -u postgres psql
 ```
+
+
