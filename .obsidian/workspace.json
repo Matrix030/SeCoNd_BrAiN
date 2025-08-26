@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "method declaration",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -202,15 +202,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98247977de910136",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
-    "stop using gpt for this/iwctl.md",
+    "stop using gpt for this/go get issue.md",
+    "stop using gpt for this/VIM.md",
     "stop using gpt for this/Update Arch.md",
     "stop using gpt for this/Tmux.md",
     "stop using gpt for this/stop gpt.md",
-    "stop using gpt for this/GIT.md",
-    "stop using gpt for this/VIM.md",
     "stop using gpt for this/postgres on arch.md",
+    "stop using gpt for this/iwctl.md",
+    "stop using gpt for this/GIT.md",
     "stop using gpt for this/Untitled",
     "Machine_Learning/Coursera/Overfitting.md",
     "Machine_Learning/Coursera/Pasted image 20250820105725.png",
@@ -241,7 +242,6 @@
     "Machine_Learning/Coursera/Feature Engineering and Polynomial Regression.md",
     "Machine_Learning/Coursera/Feature Scaling and Learning Rate (Multi-variable).md",
     "Machine_Learning/Coursera/Multi Variable Linear Regression.md",
-    "Machine_Learning/Coursera/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.md",
     "Machine_Learning/Coursera/Untitled",
     "Machine_Learning/Coursera",
     "dev_basics/git",
