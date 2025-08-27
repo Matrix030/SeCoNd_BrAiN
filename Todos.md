@@ -1,2 +1,0 @@
-- [ ] Software Engineering at google
-- [ ] 
