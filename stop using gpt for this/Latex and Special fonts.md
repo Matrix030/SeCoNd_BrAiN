@@ -1,10 +1,4 @@
-Ah, that explains it 🙂 — a Nerd Font like **Cascadia Code NF** (or "Caskaydia Cove NF") is great for terminals, icons, and coding ligatures, but it **doesn’t include full Unicode coverage** (Chinese, Japanese, Korean, emojis, math symbols, etc.).
-
-That’s why you’re seeing broken characters — the system has no fallback font for those ranges.
-
----
-
-### ✅ What you should do
+###  What you should do
 
 Keep your Nerd Font for coding, but also install **fallback fonts** for everything else:
 
@@ -31,15 +25,9 @@ fc-cache -fv
 Browsers like Zen/Firefox will automatically pick fallback fonts if the current font doesn’t support a character. With the above installed:
 
 - Code → will use your Nerd Font
-    
 - Chinese/Japanese/Korean → will fall back to `Noto Sans CJK`
-    
 - Emojis → will fall back to `Noto Color Emoji`
-    
 - Math symbols, arrows → from `Noto Extra`
-    
-
----
 
 ### 🔍 Next step
 

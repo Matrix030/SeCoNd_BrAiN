@@ -9,7 +9,7 @@ Ctrl+b ,
 ```
 
 (hold `Ctrl`, press `b`, then press the comma `,`)  
-👉 This opens a prompt at the bottom where you can type the new window name. Press **Enter** to confirm.
+This opens a prompt at the bottom where you can type the new window name. Press **Enter** to confirm.
 
 ---
 
@@ -147,8 +147,7 @@ swap-window -t 2
 ```
 
 ---
-
-👉 Difference recap:
+Difference recap:
 
 - `move-window` = move a window to a new index (replacing if needed).
     

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stop using gpt for this/iwctl (clean arch install).md",
+                "file": "stop using gpt for this/VIM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iwctl (clean arch install)"
+              "title": "VIM"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 274.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -204,10 +204,17 @@
   },
   "active": "98247977de910136",
   "lastOpenFiles": [
+    "stop using gpt for this/iwctl (clean arch install).md",
+    "stop using gpt for this/VIM.md",
+    "stop using gpt for this/Update Arch.md",
+    "stop using gpt for this/Tmux.md",
+    "stop using gpt for this/stop gpt.md",
+    "stop using gpt for this/Latex and Special fonts.md",
+    "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
+    "stop using gpt for this/post_iwctl_dns_broken.md",
     "Machine_Learning/Coursera/Pasted image 20250826200907.png",
     "Machine_Learning/Coursera/Neural Networks Practice Lab.md",
     "Machine_Learning/Coursera/> 2. Advanced Learning Algorithms.md",
-    "stop using gpt for this/Latex and Special fonts.md",
     "Machine_Learning/Coursera/output_74_0.png",
     "Machine_Learning/Coursera/output_72_0.png",
     "Machine_Learning/Coursera/output_53_0.png",
@@ -225,13 +232,7 @@
     "Machine_Learning/Coursera/> Introduction to Machine Learning.md",
     "Machine_Learning/Coursera/Classification.md",
     "bubble_tea_basics/bubble tea starter.md",
-    "stop using gpt for this/Update Arch.md",
-    "stop using gpt for this/go get issue.md",
-    "stop using gpt for this/VIM.md",
-    "stop using gpt for this/Tmux.md",
-    "stop using gpt for this/stop gpt.md",
     "stop using gpt for this/postgres on arch.md",
-    "stop using gpt for this/iwctl (clean arch install).md",
     "stop using gpt for this/GIT.md",
     "stop using gpt for this/Untitled",
     "Machine_Learning/Coursera/Overfitting.md",
