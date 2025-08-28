@@ -1,1 +1,2 @@
 [[RelU Activation]]
+[[SoftMax]]
