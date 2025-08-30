@@ -1,4 +1,3 @@
-# Optional Lab - Multi-class Classification
 
 
 ## 1.1 Goals

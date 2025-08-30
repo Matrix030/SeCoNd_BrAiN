@@ -1,4 +1,4 @@
-## 📝 Fixing “DNS lookup failed on ::1:53” in Arch (quick run-down)
+ss## 📝 Fixing “DNS lookup failed on ::1:53” in Arch (quick run-down)
 
 1. **Enable systemd-resolved** (DNS service in systemd):
 

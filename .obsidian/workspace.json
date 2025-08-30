@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2_W2_Multiclass_TF.md",
+                "file": "Machine_Learning/Coursera/Multiclass Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C2_W2_Multiclass_TF"
+              "title": "Multiclass Classification"
             }
           }
         ]
@@ -187,24 +187,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a6514292ec4a98df",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
-    "Pasted image 20250828095701.png",
-    "Pasted image 20250828095643.png",
-    "Pasted image 20250828095635.png",
-    "Pasted image 20250828095621.png",
-    "Pasted image 20250828095546.png",
-    "Pasted image 20250828095536.png",
-    "Pasted image 20250828095515.png",
-    "Pasted image 20250828095505.png",
-    "Pasted image 20250828095447.png",
-    "Machine_Learning/Coursera/Pasted image 20250828094012.png",
-    "C2_W2_Multiclass_TF.md",
-    "Machine_Learning/Coursera/SoftMax.md",
     "Machine_Learning/Coursera/Neural Network Training.md",
     "Machine_Learning/Coursera/> 2. Advanced Learning Algorithms.md",
+    "Machine_Learning/Coursera/Multiclass Classification.md",
+    "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
+    "stop using gpt for this/iwctl (clean arch install).md",
+    "Machine_Learning/Coursera/Pasted image 20250828095701.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095643.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095635.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095621.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095546.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095536.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095515.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095505.png",
+    "Machine_Learning/Coursera/Pasted image 20250828095447.png",
+    "Machine_Learning/Coursera/Pasted image 20250828094012.png",
+    "Machine_Learning/Coursera/SoftMax.md",
     "Softmax.md",
-    "Machine_Learning/Coursera/Pasted image 20250828094541.png",
     "Machine_Learning/Coursera/> 1. Supervised Machine Learning.md",
     "Machine_Learning/Coursera/> Introduction to Machine Learning.md",
     "Machine_Learning/Coursera/> Regression with multiple input variables.md",
@@ -221,10 +222,8 @@
     "Machine_Learning/Coursera/Neural Networks.md",
     "Machine_Learning/Coursera/Neurons and Layers.md",
     "stop using gpt for this/VIM.md",
-    "stop using gpt for this/iwctl (clean arch install).md",
     "stop using gpt for this/Update Arch.md",
     "stop using gpt for this/Latex and Special fonts.md",
-    "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
     "stop using gpt for this/post_iwctl_dns_broken.md",
     "Machine_Learning/Coursera/Neural Networks Practice Lab.md",
     "Machine_Learning/Coursera/Coffee Roasting.md",
