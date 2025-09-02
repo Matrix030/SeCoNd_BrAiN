@@ -20,18 +20,14 @@ yay -Syu
 ```
 
 - Updates both repo + AUR packages.
-    
 - Use this after pacman update to keep everything in sync.
-    
 
 ---
-
 ### 3. Check Arch news before updating
 
 Open [archlinux.org/news](https://archlinux.org/news/) to see if there are **manual steps** (e.g., big `openssl`, `glibc`, or `python` bumps).
 
 - This is the #1 way to avoid breakage.
-    
 
 ---
 
@@ -42,7 +38,6 @@ sudo pacman -Qtdq | sudo pacman -Rns -
 ```
 
 - Removes unused dependencies to keep system tidy.
-    
 
 ---
 

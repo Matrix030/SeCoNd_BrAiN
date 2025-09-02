@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning/Coursera/Multiclass Classification.md",
+                "file": "stop using gpt for this/Update Arch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiclass Classification"
+              "title": "Update Arch"
             }
           }
         ]
@@ -187,11 +187,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4da63a3b69125fa",
+  "active": "a6514292ec4a98df",
   "lastOpenFiles": [
+    "Machine_Learning/Coursera/Multiclass Classification.md",
     "Machine_Learning/Coursera/Neural Network Training.md",
     "Machine_Learning/Coursera/> 2. Advanced Learning Algorithms.md",
-    "Machine_Learning/Coursera/Multiclass Classification.md",
     "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
     "stop using gpt for this/iwctl (clean arch install).md",
     "Machine_Learning/Coursera/Pasted image 20250828095701.png",
