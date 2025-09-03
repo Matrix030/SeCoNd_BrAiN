@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "tabSize": 4,
+  "showLineNumber": false,
+  "showIndentGuide": true
 }
