@@ -11,14 +11,12 @@
             "id": "a6514292ec4a98df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Books/Modern C++ for Finance/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Essential Scrum/Pasted image 20250907125223.png"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250907125223"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 419.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -187,49 +185,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a6514292ec4a98df",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
-    "Books/Essential Scrum/words.md",
+    "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
+    "Books/Essential Scrum/Pasted image 20250907132943.png",
+    "Books/Essential Scrum/Pasted image 20250907132155.png",
+    "Books/Essential Scrum/Pasted image 20250907131011.png",
+    "Books/Essential Scrum/Pasted image 20250907130453.png",
+    "Books/Essential Scrum/Pasted image 20250907130006.png",
+    "Books/Essential Scrum/Pasted image 20250907125223.png",
+    "Books/Essential Scrum/Chapters.md",
+    "stop using gpt for this/iwctl (clean arch install).md",
+    "stop using gpt for this/GIT.md",
+    "stop using gpt for this/post_iwctl_dns_broken.md",
+    "stop using gpt for this/Latex and Special fonts.md",
+    "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
+    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
+    "Books/Software Engineering at Google/Chapter 1 - What is Software Engineering?.md",
     "Books/Modern C++ for Finance/Untitled.md",
+    "stop using gpt for this/stop gpt.md",
+    "learn vim/vim.md",
+    "Books/Essential Scrum/words.md",
     "Books/Modern C++ for Finance",
     "Books/Essential Scrum/Pasted image 20250903094036.png",
-    "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
     "Books/Essential Scrum/Pasted image 20250903105428.png",
     "Books/Essential Scrum/Pasted image 20250903105331.png",
-    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
-    "Books/Essential Scrum/Chapters.md",
     "Books/Essential Scrum/Pasted image 20250903100930.png",
-    "Books/Essential Scrum/Pasted image 20250903093942.png",
-    "Books/Essential Scrum/Pasted image 20250903090423.png",
-    "Books/Essential Scrum/Pasted image 20250903085337.png",
-    "Books/Software Engineering at Google/Chapter 1 - What is Software Engineering?.md",
     "Books/Machine Learning/Machine Learning.md",
     "Books/Machine Learning/End to End Machine Learning Project.md",
     "Books/Essential Scrum",
-    "Books/Machine Learning/Pasted image 20250724174619.png",
     "stop using gpt for this/Update Arch.md",
     "Machine_Learning/Coursera/Multiclass Classification.md",
     "Machine_Learning/Coursera/Neural Network Training.md",
     "Machine_Learning/Coursera/> 2. Advanced Learning Algorithms.md",
-    "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
-    "stop using gpt for this/iwctl (clean arch install).md",
-    "Machine_Learning/Coursera/Pasted image 20250828095701.png",
-    "Machine_Learning/Coursera/Pasted image 20250828095643.png",
     "Machine_Learning/Coursera/SoftMax.md",
     "Softmax.md",
     "Machine_Learning/Coursera/> 1. Supervised Machine Learning.md",
     "Machine_Learning/Coursera/> Introduction to Machine Learning.md",
     "Machine_Learning/Coursera/> Regression with multiple input variables.md",
     "Machine_Learning/Coursera/> Classification.md",
-    "Todos.md",
-    "stop using gpt for this/stop gpt.md",
-    "stop using gpt for this/Tmux.md",
-    "Epoch/Starter.md",
     "Books/Software Engineering at Google",
     "Untitled 1",
     "Epoch",
-    "Machine_Learning/Coursera/RelU Activation.md",
-    "Machine_Learning/Coursera/Neural Networks.md",
     "stop using gpt for this/Untitled",
     "bubble_tea_basics",
     "Machine_Learning/Coursera/Untitled",
