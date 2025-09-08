@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "227b7bc98800c18c",
+        "id": "9d775d2cbd45a1ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a6514292ec4a98df",
+            "id": "63cb9f41191e69ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Books/Essential Scrum/Pasted image 20250907125223.png"
+                "file": "personal/Personal Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250907125223"
+              "icon": "lucide-file",
+              "title": "Personal Notes"
             }
           }
         ]
@@ -185,15 +187,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4da63a3b69125fa",
+  "active": "63cb9f41191e69ed",
   "lastOpenFiles": [
+    "personal/Personal Notes.md",
+    "Books/Essential Scrum/Pasted image 20250907125223.png",
+    "personal",
     "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
     "Books/Essential Scrum/Pasted image 20250907132943.png",
     "Books/Essential Scrum/Pasted image 20250907132155.png",
     "Books/Essential Scrum/Pasted image 20250907131011.png",
     "Books/Essential Scrum/Pasted image 20250907130453.png",
     "Books/Essential Scrum/Pasted image 20250907130006.png",
-    "Books/Essential Scrum/Pasted image 20250907125223.png",
     "Books/Essential Scrum/Chapters.md",
     "stop using gpt for this/iwctl (clean arch install).md",
     "stop using gpt for this/GIT.md",
@@ -223,7 +227,6 @@
     "Machine_Learning/Coursera/> 1. Supervised Machine Learning.md",
     "Machine_Learning/Coursera/> Introduction to Machine Learning.md",
     "Machine_Learning/Coursera/> Regression with multiple input variables.md",
-    "Machine_Learning/Coursera/> Classification.md",
     "Books/Software Engineering at Google",
     "Untitled 1",
     "Epoch",
@@ -231,7 +234,6 @@
     "bubble_tea_basics",
     "Machine_Learning/Coursera/Untitled",
     "Machine_Learning/Coursera",
-    "dev_basics/git",
     "Bootdev/zGOGOGOGO/Untitled.canvas"
   ]
 }
