@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a665aadbf4626437",
+    "id": "1c0f444008a52cdf",
     "type": "split",
     "children": [
       {
-        "id": "9d775d2cbd45a1ef",
+        "id": "8e81053d56493427",
         "type": "tabs",
         "children": [
           {
-            "id": "63cb9f41191e69ed",
+            "id": "3374d0a98b0f36aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Database System Concepts/Chapter 1 - Introduction.md",
+                "file": "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Introduction"
+              "title": "iwctl_dns_issue_uni_wifi"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "372f6f8b860998b2",
+    "id": "ec7d9733ebf6b453",
     "type": "split",
     "children": [
       {
-        "id": "2bc6d5106488ff4d",
+        "id": "8a1d0df97354a642",
         "type": "tabs",
         "children": [
           {
-            "id": "b4da63a3b69125fa",
+            "id": "dfb0cd0cdb5b801e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +48,13 @@
             }
           },
           {
-            "id": "7a9f77dc3d87d893",
+            "id": "5aff83ac75398693",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "029b2dcb80f5acb4",
+            "id": "6ac9eafa51274e4d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 300
   },
   "right": {
-    "id": "aecde13b1e31842d",
+    "id": "34d6bdc9abad0155",
     "type": "split",
     "children": [
       {
-        "id": "fbd3d1ec6543170d",
+        "id": "e44abc0b5011d1d3",
         "type": "tabs",
-        "dimension": 74.52966714905934,
         "children": [
           {
-            "id": "d3a026f7fe4899a0",
+            "id": "72315029b6cce2a7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Middleware.md",
+                "file": "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Middleware"
+              "title": "Backlinks for iwctl_dns_issue_uni_wifi"
             }
           },
           {
-            "id": "a3ef61af84bb5da9",
+            "id": "7cc60ea07e19808d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Middleware.md",
+                "file": "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Middleware"
+              "title": "Outgoing links from iwctl_dns_issue_uni_wifi"
             }
           },
           {
-            "id": "9f8d32d8ac54d58e",
+            "id": "f5480fbb592c1e4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,34 +137,28 @@
             }
           },
           {
-            "id": "efc029805210c062",
+            "id": "d0d24a78e087d82e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of iwctl_dns_issue_uni_wifi"
             }
-          }
-        ]
-      },
-      {
-        "id": "e9b3bb80bc6bcbf8",
-        "type": "tabs",
-        "dimension": 25.470332850940665,
-        "children": [
+          },
           {
-            "id": "70078c623dc3b9b6",
+            "id": "2618a4ea55826eeb",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -177,64 +170,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4da63a3b69125fa",
-  "lastOpenFiles": [
-    "Books/Machine Learning/The Machine Learning landscape.md",
-    "Machine_Learning/Google_Machine_Learning/ML Models/Logistic Regression/Logistic Regression.md",
-    "Books/Database System Concepts/View of Data.md",
-    "Books/Database System Concepts/Chapter 1 - Introduction.md",
-    "Books/Database System Concepts/Purpose of Database Systems.md",
-    "Books/Database System Concepts/Database System Applications.md",
-    "Books/Database System Concepts/Chapters.md",
-    "personal/Personal Notes.md",
-    "Books/Database System Concepts",
-    "Books/Essential Scrum/Pasted image 20250907125223.png",
-    "personal",
-    "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
-    "Books/Essential Scrum/Pasted image 20250907132943.png",
-    "Books/Essential Scrum/Pasted image 20250907132155.png",
-    "Books/Essential Scrum/Pasted image 20250907131011.png",
-    "Books/Essential Scrum/Pasted image 20250907130453.png",
-    "Books/Essential Scrum/Pasted image 20250907130006.png",
-    "Books/Essential Scrum/Chapters.md",
-    "stop using gpt for this/iwctl (clean arch install).md",
-    "stop using gpt for this/GIT.md",
-    "stop using gpt for this/post_iwctl_dns_broken.md",
-    "stop using gpt for this/Latex and Special fonts.md",
-    "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
-    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
-    "Books/Software Engineering at Google/Chapter 1 - What is Software Engineering?.md",
-    "Books/Modern C++ for Finance/Untitled.md",
-    "stop using gpt for this/stop gpt.md",
-    "learn vim/vim.md",
-    "Books/Essential Scrum/words.md",
-    "Books/Modern C++ for Finance",
-    "Books/Essential Scrum/Pasted image 20250903094036.png",
-    "Books/Essential Scrum/Pasted image 20250903105428.png",
-    "Books/Essential Scrum/Pasted image 20250903105331.png",
-    "Books/Essential Scrum/Pasted image 20250903100930.png",
-    "Books/Machine Learning/Machine Learning.md",
-    "Books/Machine Learning/End to End Machine Learning Project.md",
-    "Books/Essential Scrum",
-    "stop using gpt for this/Update Arch.md",
-    "Machine_Learning/Coursera/Multiclass Classification.md",
-    "Machine_Learning/Coursera/Neural Network Training.md",
-    "Books/Software Engineering at Google",
-    "Untitled 1",
-    "Epoch",
-    "stop using gpt for this/Untitled",
-    "bubble_tea_basics",
-    "Machine_Learning/Coursera/Untitled",
-    "Bootdev/zGOGOGOGO/Untitled.canvas"
-  ]
+  "active": "3374d0a98b0f36aa",
+  "lastOpenFiles": []
 }
