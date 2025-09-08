@@ -1,0 +1,3 @@
+there are two modes in which databases are used.
+- The first mode is to support online transaction processing , where a large number of users use the database, with each user retrieving relatively small amounts of data, and performing small updates. This is the primary mode of use for the vast majority of users of database applications.
+- The second mode is to support data analytics , that is, the processing of data to draw conclusions, and infer rules or decision procedures, which are then used to drive business decisions.

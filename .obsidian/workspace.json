@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Personal Notes.md",
+                "file": "Books/Machine Learning/The Machine Learning landscape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Notes"
+              "title": "The Machine Learning landscape"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 284.5
   },
   "right": {
     "id": "aecde13b1e31842d",
@@ -189,7 +189,15 @@
   },
   "active": "63cb9f41191e69ed",
   "lastOpenFiles": [
+    "Machine_Learning/Google_Machine_Learning/ML Models/Logistic Regression/Logistic Regression.md",
+    "Books/Machine Learning/The Machine Learning landscape.md",
+    "View of Data.md",
+    "Chapter 1 - Introduction.md",
+    "Purpose of Database Systems.md",
+    "Database System Applications.md",
+    "Books/Database System Concepts/Chapters.md",
     "personal/Personal Notes.md",
+    "Books/Database System Concepts",
     "Books/Essential Scrum/Pasted image 20250907125223.png",
     "personal",
     "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
@@ -221,19 +229,12 @@
     "stop using gpt for this/Update Arch.md",
     "Machine_Learning/Coursera/Multiclass Classification.md",
     "Machine_Learning/Coursera/Neural Network Training.md",
-    "Machine_Learning/Coursera/> 2. Advanced Learning Algorithms.md",
-    "Machine_Learning/Coursera/SoftMax.md",
-    "Softmax.md",
-    "Machine_Learning/Coursera/> 1. Supervised Machine Learning.md",
-    "Machine_Learning/Coursera/> Introduction to Machine Learning.md",
-    "Machine_Learning/Coursera/> Regression with multiple input variables.md",
     "Books/Software Engineering at Google",
     "Untitled 1",
     "Epoch",
     "stop using gpt for this/Untitled",
     "bubble_tea_basics",
     "Machine_Learning/Coursera/Untitled",
-    "Machine_Learning/Coursera",
     "Bootdev/zGOGOGOGO/Untitled.canvas"
   ]
 }
