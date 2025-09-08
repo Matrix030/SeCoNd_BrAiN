@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Machine Learning/The Machine Learning landscape.md",
+                "file": "Books/Database System Concepts/Chapter 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Machine Learning landscape"
+              "title": "Chapter 1 - Introduction"
             }
           }
         ]
@@ -187,14 +187,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "63cb9f41191e69ed",
+  "active": "b4da63a3b69125fa",
   "lastOpenFiles": [
-    "Machine_Learning/Google_Machine_Learning/ML Models/Logistic Regression/Logistic Regression.md",
     "Books/Machine Learning/The Machine Learning landscape.md",
-    "View of Data.md",
-    "Chapter 1 - Introduction.md",
-    "Purpose of Database Systems.md",
-    "Database System Applications.md",
+    "Machine_Learning/Google_Machine_Learning/ML Models/Logistic Regression/Logistic Regression.md",
+    "Books/Database System Concepts/View of Data.md",
+    "Books/Database System Concepts/Chapter 1 - Introduction.md",
+    "Books/Database System Concepts/Purpose of Database Systems.md",
+    "Books/Database System Concepts/Database System Applications.md",
     "Books/Database System Concepts/Chapters.md",
     "personal/Personal Notes.md",
     "Books/Database System Concepts",
