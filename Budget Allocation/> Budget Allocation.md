@@ -1,3 +1,0 @@
-- [ ] change the columns to the appropriate types
-- [ ] divide debits and credits
-- [ ] 

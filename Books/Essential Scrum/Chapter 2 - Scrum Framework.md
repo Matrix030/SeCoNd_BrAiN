@@ -1,3 +1,27 @@
+**Scrum in a Nutshell**
+- Scrum is a framework for managing work through small, iterative cycles called _sprints_ (usually 1–4 weeks).
+- Each sprint delivers a potentially shippable product increment.
+
+**Key Roles**
+- **Product Owner** → Defines what to build and in what order; owns product vision and backlog.
+- **ScrumMaster** → Coaches the team, ensures Scrum is followed, removes impediments, protects from outside interference.
+- **Development Team** → Cross-functional, self-organizing group that decides _how_ to build the product.
+
+**Core Activities & Artifacts**
+
+- **Product Backlog** → Prioritized list of features and tasks, constantly evolving.
+- **Sprint Planning** → Team selects backlog items to work on, forms a _sprint backlog_ with detailed tasks, and sets a sprint goal.
+- **Sprint Execution** → Team does the work, self-organizing.
+- **Daily Scrum** → 15-min stand-up to sync progress and identify impediments.
+- **Definition of Done** → Shared criteria ensuring work is complete and shippable.
+- **Sprint Review** → Inspect and adapt the _product_.
+- **Sprint Retrospective** → Inspect and adapt the _process_.
+
+**Cycle**  
+This loop (planning → execution → review/retro) repeats until the product vision is fulfilled.
+
+
+## More text
 Scrum is a **[framework](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_072)** for organizing and managing work.
 ![[Pasted image 20250903093942.png]]
 ### Scrum Roles

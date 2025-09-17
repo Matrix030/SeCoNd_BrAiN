@@ -1,3 +1,18 @@
+**Scrum Overview**
+- Scrum is an _agile_ approach for building innovative, fast-changing products and services.
+- Work is guided by a **product backlog** (prioritized list of features), always tackling the most important items first.
+
+**Why Scrum?**
+- Supports rapid exploration of new ideas without heavy up-front planning or big design phases.
+- Encourages cross-functional teams, daily synchronization, and frequent delivery of working, tested features.
+- Provides feedback every few weeks, helping teams quickly learn what works and adapt.
+
+**Benefits**
+- Fits well in complex, uncertain environments where quick adaptation to competitors, users, and regulations is key.
+- Increases customer satisfaction _and_ team enjoyment through frequent collaboration, trust, and meaningful progress.
+- Emphasizes probe → sense → respond cycles for continuous learning and improvement.
+
+## More Text
 **[Scrum](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_160)** is an **[agile](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_007)** approach for developing innovative products and services. [Figure 1.1](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch01.html#ch01fig01) shows a simple, generic, agile development approach.
 
 With an agile approach, you begin by creating a [[words#**product backlog.**| product backlog]]—a prioritized list of the features and other capabilities needed to develop a successful product. Guided by the product backlog, you always work on the most important or highest-priority items first. When you run out of resources (such as time), any work that didn’t get completed will be of lower priority than the completed work.
