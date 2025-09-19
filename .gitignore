@@ -1,4 +1,4 @@
 images/
 cache
-personal
+**/personal/
 prep
