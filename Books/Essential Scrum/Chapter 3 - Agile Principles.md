@@ -126,4 +126,43 @@ Unfortunately, being excessively predictive in early-activity phases often has t
 - Regardless of which product development approach we use, we want the following relationship to be true: a small change in requirements should yield a proportionally small change in implementation and therefore in cost
 - Another desirable property of this relationship is that we want it to be true regardless of _when_ the change request is made.
 - With Scrum, we produce many work products (such as detailed requirements, designs, and test cases) in a just-in-time fashion, avoiding the creation of potentially unnecessary artifacts.
-- 
+
+#### Balance Predictive Up-Front Work with Adaptive Just-in-Time Work
+- In Scrum, we believe that up-front work should be helpful without being excessive.
+- Scrum is about finding balance—balance between predictive up-front work and adaptive just-in-time work
+- ![[Pasted image 20250925135233.png]]
+- When developing a product, the balance point should be set in an economically sensible way to maximize the amount of ongoing adaptation based on fast feedback and minimize the amount of up-front prediction, while still meeting compliance, regulatory, and/or corporate objectives.
+- Exactly how that balance is achieved is driven in part by the type of product being built, the degree of uncertainty that exists in both what we want to build (end uncertainty) and how we want to build it (means uncertainty), and the constraints placed on the development.
+- balance point should be set in an economically sensible way to maximize the amount of ongoing adaptation based on fast feedback and minimize the amount of up-front prediction, while still meeting compliance, regulatory, and/or corporate objectives.
+- Exactly how that balance is achieved is driven in part by the type of product being built, the degree of uncertainty that exists in both what we want to build (end uncertainty) and how we want to build it (means uncertainty), and the constraints placed on the development.
+- To rapidly develop innovative products we need to operate in a space where adaptability is counterbalanced by just enough prediction to keep us from sliding into chaos.
+
+### Validated Learning
+- When using Scrum, we organize the work to quickly create **[validated learning](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_218)** (a term proposed by [Ries 2011](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/bib01.html#bib01_045)). We acquire validated learning when we obtain knowledge that confirms or refutes an assumption that we have made.
+	• [Validate important assumptions fast](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec10).
+	• [Leverage multiple concurrent learning loops](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec11).
+	• [Organize workflow for fast feedback](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec12).
+
+
+#### Validate Important Assumptions Fast
+- In Scrum, we try to minimize the number of important assumptions that exist at any time.
+- We also don’t want to let important assumptions exist without validation for very long.
+- The combination of iterative and incremental development along with a focus on low-cost exploration can be used to validate assumptions fast.
+- In Scrum, we understand that constant learning is a key to our success. When using Scrum, we identify and exploit feedback loops to increase learning.
+- ![[Pasted image 20250925145316.png]]
+- Scrum leverages several predefined **[learning loops](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_102)**. For example, the daily scrum is a daily loop and the sprint review is an iteration-level loop.
+- The Scrum framework is also flexible enough to embrace many other learning loops. For example, although not specified by Scrum, technical practice feedback loops, such as pair programming (feedback in seconds) and test-driven development (feedback in minutes), are frequently used with Scrum development.
+#### Organize Workflow for Fast Feedback
+- With Scrum, we strive for fast feedback, because it is critical for helping truncate wrong paths sooner and is vital for quickly uncovering and exploiting time-sensitive, emergent opportunities.
+- The longer we wait to validate the original design assumption, the greater the number of dependent decisions.
+- If we later determine (via feedback during the integration phase) that the original assumption was wrong, we’ll have a large, compounded mess on our hands. Not only will we have many bad decisions that have to be reworked; we’ll also have to do it after a great deal of time has passed. Because people’s memories will have faded, they will spend time getting back up to speed on the work they did earlier.
+
+### Work in Process (WIP)
+- **[Work in process](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_228)** (or **[WIP](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/gloss01.html#gloss01_226)**) refers to the work that has been started but not yet finished. During product development WIP must be recognized and properly managed. I describe four agile principles related to this topic:
+
+	• [Use economically sensible batch sizes](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec13).
+	• [Recognize inventory and manage it for good flow](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec14).
+	• [Focus on idle work, not idle workers](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec15).
+	• [Consider cost of delay](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/essential-scrum-a/9780321700407/ch03.html#ch03lev2sec16).
+
+#### Use Economically Sensible Batch Sizes
