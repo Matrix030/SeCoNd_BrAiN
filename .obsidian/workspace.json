@@ -183,6 +183,10 @@
   },
   "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
+    "System Design/> Concurrency.md",
+    "System Design/> Concurrency.md.tmp.56174.1775413144300",
+    "System Design/> LLD Design Patterns.md",
+    "System Design/> LLD Design Patterns.md.tmp.56174.1775412386553",
     "System Design/> LLD Delivery Framework.md",
     "System Design/CLAUDE.md",
     "System Design/LLD.md",
@@ -201,9 +205,7 @@
     "System Design/LLD - Requirements.md",
     "System Design/LLD - Class Design.md",
     "System Design/LLD - Extensibility.md",
-    "System Design/LLD - Extensibility.md.tmp.56174.1775409428638",
     "System Design/LLD - Implementation.md",
-    "System Design/LLD - Implementation.md.tmp.56174.1775409419875",
     "OPT ToDos.md",
     "Todos.md",
     "Pasted image 20260320122014.png",
@@ -226,8 +228,6 @@
     "personal/to_dos/06_oct_25.md",
     "personal/to_dos/05_oct_25.md",
     "personal/to_dos/03_oct_25.md",
-    "personal/to_dos/02_oct_25.md",
-    "personal/to_dos/01_oct_25.md",
-    "stop using gpt for this/VIM.md"
+    "personal/to_dos/02_oct_25.md"
   ]
 }
