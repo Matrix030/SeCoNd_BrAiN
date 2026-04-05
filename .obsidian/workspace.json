@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c97e3ed2daae9514",
+        "id": "46e78ed0c7eb36e8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c266b739d4eccc2",
+            "id": "dff970fb7f860c6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stop using gpt for this/GIT.md",
+                "file": "personal/aboutme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "aboutme"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 245.50260543823242
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stop using gpt for this/iwctl_dns_issue_uni_wifi.md",
+                "file": "Untitled/HCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iwctl_dns_issue_uni_wifi"
+              "title": "Backlinks for HCI"
             }
           },
           {
@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -177,55 +177,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2c266b739d4eccc2",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
-    "personal/user_stories.md",
-    "Books/Essential Scrum/Pasted image 20250925135231.png",
-    "Books/Database System Concepts/Chapter 1 - Introduction.md",
-    "().md",
-    "personal/software_engineering/Sprints/Sprint_4/Sprint_4.md",
-    "stop using gpt for this/GIT.md",
-    "stop using gpt for this/stop gpt.md",
-    "personal/to_dos/01_oct_25.md",
-    "personal/to_dos/02_oct_25.md",
-    "personal/to_dos",
-    "personal/software_engineering/Sprints/Sprint_3/discuss_the_design.md",
-    "personal/software_engineering/Sprints/Sprint_4",
-    "personal/software_engineering/Sprints/Sprint_3/Sprint_3.md",
-    "personal/software_engineering/Sprints/Sprint_3",
-    "personal/software_engineering/Sprints/Sprint_2",
-    "personal/software_engineering/Sprints/Sprint_1",
-    "personal/software_engineering/Sprints/Sprint 3.md",
-    "personal/no_context_switch/no_context_switch.md",
-    "personal/no_context_switch/notes_for_project.md",
+    "System Design/> LLD Delivery Framework.md",
+    "System Design/CLAUDE.md",
+    "System Design/LLD.md",
+    "System Design/> LLD Design Principles.md",
+    "System Design/> LLD OOP Concepts.md",
+    "System Design/> LLD OOP Concepts.md.tmp.56174.1775410826142",
+    "System Design/> LLD Design Principles.md.tmp.56174.1775410774452",
+    "System Design/LLD - Entities and Relationships.md",
+    "System Design/CLAUDE.md.tmp.56174.1775409582057",
+    "System Design/LLD - Extensibility.md.tmp.56174.1775409573306",
+    "System Design/LLD - Implementation.md.tmp.56174.1775409572596",
+    "System Design/LLD - Class Design.md.tmp.56174.1775409571560",
+    "System Design/LLD - Entities and Relationships.md.tmp.56174.1775409570680",
+    "System Design/LLD - Requirements.md.tmp.56174.1775409569859",
+    "System Design/LLD Delivery Framework.md",
+    "System Design/LLD - Requirements.md",
+    "System Design/LLD - Class Design.md",
+    "System Design/LLD - Extensibility.md",
+    "System Design/LLD - Extensibility.md.tmp.56174.1775409428638",
+    "System Design/LLD - Implementation.md",
+    "System Design/LLD - Implementation.md.tmp.56174.1775409419875",
+    "OPT ToDos.md",
+    "Todos.md",
+    "Pasted image 20260320122014.png",
+    "Pasted image 20260320150232.png",
+    "Pasted image 20260320150217.png",
+    "Pasted image 20260320150209.png",
+    "Pasted image 20260320150157.png",
+    "Pasted image 20260320150140.png",
+    "Pasted image 20260320150126.png",
+    "Pasted image 20260320150112.png",
+    "Pasted image 20260320150024.png",
+    "Pasted image 20260320122153.png",
+    "AI Agent Course/The @tool Decorator.md",
+    "personal/aboutme.md",
+    "personal/todos for todaa.md",
     "personal/CampusNest/requirements.md",
-    "prep/interview prep.md",
     "personal/Django/Models.md",
-    "personal/Excalidraw/Untitled-2025-09-19-1307(5).excalidraw",
-    "personal/software_engineering/lecture_4.md",
-    "personal/software_engineering/lecture_3_use_case_modeling.md",
-    "personal/no_context_switch/no_context_switch.md~",
-    "personal/Django",
-    "personal/software_engineering/Requirements.md",
-    "personal/software_engineering/Sprints",
-    "personal/CampusNest",
-    "personal/software_engineering/Deep Research.md",
-    "Books/Essential Scrum/Chapter 3 - Agile Principles.md",
-    "Books/Essential Scrum/Pasted image 20250925145316.png",
-    "Books/Essential Scrum/Pasted image 20250925135233.png",
-    "Books/Essential Scrum/Chapters.md",
-    "personal/software_engineering/Pasted image 20250916184034.png",
-    "stop using gpt for this/VIM.md",
-    "personal/software_engineering/Pasted image 20250924134350.png",
-    "personal/software_engineering/Pasted image 20250924122109.png",
-    "personal/software_engineering/Pasted image 20250924122031.png",
-    "personal/Software Engineering stuff/Personal Notes.md",
-    "Lecture notes?/PDS.md",
-    "personal/software_engineering/Pasted image 20250916184639.png",
-    "personal/software_engineering/Pasted image 20250916184508.png",
-    "personal/software_engineering/Pasted image 20250916184042.png"
+    "personal/no_context_switch/no_context_switch.md",
+    "personal/to_dos/all of them.md",
+    "personal/to_dos/06_oct_25.md",
+    "personal/to_dos/05_oct_25.md",
+    "personal/to_dos/03_oct_25.md",
+    "personal/to_dos/02_oct_25.md",
+    "personal/to_dos/01_oct_25.md",
+    "stop using gpt for this/VIM.md"
   ]
 }

@@ -4,5 +4,6 @@
   "strictLineBreaks": false,
   "tabSize": 4,
   "showLineNumber": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "promptDelete": false
 }
