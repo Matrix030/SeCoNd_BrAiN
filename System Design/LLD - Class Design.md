@@ -39,6 +39,25 @@ Ask: *What operations does the outside world need from this class?*
 | Check game state | `getGameState() -> GameState` |
 | See who won | `getWinner() -> Player?` |
 
+## Make Invalid States Unrepresentable
+
+When modeling state, the type structure should match the domain — so impossible states can't exist.
+
+**Bad — boolean flags:**
+Three booleans (`isOver`, `hasWinner`, `isDraw`) allow 8 combinations, but the domain only has 3 valid states. Nothing stops `isOver=false, hasWinner=true`.
+
+**Good — enum:**
+```
+enum GameState: IN_PROGRESS | WON | DRAW
+```
+One field, three values, no invalid combinations. When you add a new state, you add one enum value — not a new flag and a pile of synchronization logic.
+
+> [!tip] The ideal (in languages that support it)
+> Rust, Swift, Kotlin (sealed classes), and TypeScript (discriminated unions) let you embed data inside enum variants: `WON(winner: Player)`. If the state is `WON`, a winner is guaranteed. If it's `DRAW`, there's no winner field to corrupt.
+> Java/Python don't support this elegantly — a nullable `winner` field alongside the enum is the right call there. Just be aware you're trusting yourself to keep them in sync.
+
+---
+
 ## Encapsulation Principle
 
 > [!warning] Tell, Don't Ask
