@@ -8,7 +8,7 @@ This is Rishi's personal Obsidian knowledge vault. It covers AI/ML, software eng
 
 ```
 SeCoNd_BrAiN/
-├── 🏠 Home.md                        ← Start here — master dashboard linking everything
+├── Home.md                           ← Start here — master dashboard linking everything
 ├── AI Agent Course/                  ← HuggingFace AI Agents course (Units 1–2)
 ├── Machine_Learning/
 │   ├── Udemy_ML/                     ← Udemy ML course (regression, classification)
@@ -40,7 +40,7 @@ Notes prefixed with `> ` (e.g. `> Introduction to Agents.md`) are **Maps of Cont
 
 | Section | MOC Note |
 |---------|----------|
-| Full vault | `🏠 Home.md` |
+| Full vault | `Home.md` |
 | AI Agent Course | `AI Agent Course/> AI Agent Course (Main Unit Connector).md` |
 | Unit 1 — Agents | `AI Agent Course/Unit 1.../> Introduction to Agents (Unit 1 - Connector).md` |
 | Unit 2 — smolagents | `AI Agent Course/Unit 2.../> Unit 2 - Connector.md` |
