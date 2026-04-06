@@ -59,12 +59,6 @@ Welcome. This is your knowledge hub. Use this note as the jumping-off point for 
 
 ---
 
-## 🗂️ Scratch / Unsorted
-
-- [[Untitled]] — partition k subsets algorithm (needs filing)
-
----
-
 ## 📌 Quick Reference
 
 > [!info] Tag taxonomy
