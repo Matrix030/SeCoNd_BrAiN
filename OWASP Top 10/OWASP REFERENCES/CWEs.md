@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 # Common Weakness Enumeration
 
 In **layman's terms**, it's like a **catalog of common coding mistakes** that can lead to security problems in software.

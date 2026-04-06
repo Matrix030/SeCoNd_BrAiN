@@ -1,1 +1,4 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents, tools]
+---
 As we saw in Unit 1, tools are functions that an LLM can use within an agentic system, and they act as the essential building blocks for agent behavior. This module covers how to create tools, their structure, and different implementation methods using the `Tool` class or the `@tool` decorator. You’ll also learn about the default toolbox, how to share tools with the community, and how to load community-contributed tools for use in your agents.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Making an array of integers on the heap is pretty simple:
 
 ```c

@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang, http]
+aliases: ["Why HTTP?"]
+---
 [[Communication of the Web]]
 [[HTTP Requests and Responses]]
 [[HTTP Power Websites]]

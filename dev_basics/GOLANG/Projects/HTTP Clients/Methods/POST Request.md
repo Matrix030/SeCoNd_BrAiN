@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, http-methods]
+---
 An [HTTP POST request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) _sends_ data to a server, typically to _create_ a new resource.
 
 ## Adding a Body

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Remember, pointers are just an address (read: value) that tells the computer where to look for _other_ values. Just like how the address to your house is not actually your house, but points you to where your house **is**.
 
 ## Syntax Review

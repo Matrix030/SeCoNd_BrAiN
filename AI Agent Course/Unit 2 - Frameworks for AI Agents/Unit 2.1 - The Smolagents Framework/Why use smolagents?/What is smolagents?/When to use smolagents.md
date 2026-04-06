@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 With these advantages in mind, when should we use smolagents over other frameworks?
 
 smolagents is ideal when:

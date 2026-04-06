@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 A [closure](https://en.wikipedia.org/wiki/Closure_\(computer_programming\)) is a function that references variables from outside its own function body. The function may access and _assign_ to the referenced variables.
 
 In this example, the `concatter()` function returns a function that has reference to an _enclosed_ `doc` value. Each successive call to `harryPotterAggregator` mutates that same `doc` variable.

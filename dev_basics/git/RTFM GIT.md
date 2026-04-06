@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 One of the best parts of using [Git](https://git-scm.com/) is that all the [documentation](https://git-scm.com/doc) is fantastic, but that wasn't always the case.
 
 Git was known as being the most obtusely documented tool of all time, but alas, _times have changed_.

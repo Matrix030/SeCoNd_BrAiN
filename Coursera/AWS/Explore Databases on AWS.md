@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 # Explore Databases on AWS
 
 ## UNDERSTANDING THE HISTORY BEHIND ENTERPRISE DATABASES

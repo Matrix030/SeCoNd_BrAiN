@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, logging]
+---
 [CWE-117 Improper Output Neutralization for Logs](https://cwe.mitre.org/data/definitions/117.html)
 
 [CWE-223 Omission of Security-relevant Information](https://cwe.mitre.org/data/definitions/223.html)

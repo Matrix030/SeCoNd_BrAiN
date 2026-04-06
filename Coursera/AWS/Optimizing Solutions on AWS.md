@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 ## What Is Availability?
 
 The availability of a system is typically expressed as a percentage of uptime in a given year or as a number of nines. Below, you can see a list of the percentages of availability based on the downtime per year, as well as its notation in nines.

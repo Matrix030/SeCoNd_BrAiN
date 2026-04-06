@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The [move command](https://www.ibm.com/docs/en/aix/7.3?topic=files-moving-renaming-mv-command) moves a file or directory from one location to another. You can use it to rename a file or to move it to a different directory altogether. Your working directory can't be the directory you're moving.
 
 Renaming a file:

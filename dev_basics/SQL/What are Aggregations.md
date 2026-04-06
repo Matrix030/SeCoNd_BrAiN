@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 An "aggregation" is a _single_ value that's derived by combining _several_ other values. We performed an aggregation earlier when we used the `COUNT` statement to count the number of records in a table.
 
 ## Why Aggregations?

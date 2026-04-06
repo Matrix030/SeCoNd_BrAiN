@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 ## Anscombe's Quartet
 ![[Pasted image 20250609092342.png]]
 

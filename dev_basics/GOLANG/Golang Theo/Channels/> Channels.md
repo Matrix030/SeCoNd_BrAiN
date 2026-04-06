@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Channels"]
+---
 [[Concurrency]]
 [[Channels]]
 [[Channels 2]]

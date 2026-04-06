@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+aliases: ["Actions - Enabling the Agent to Engage with Its Environment"]
+---
 > In this section, we explore the concrete steps an AI agent takes to interact with its environment.
 > We’ll cover how actions are represented (using JSON or code), the importance of the stop and parse approach, and introduce different types of agents.
 

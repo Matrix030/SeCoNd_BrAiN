@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 We can't talk about JSON without mentioning [XML](https://en.wikipedia.org/wiki/XML#:~:text=Extensible%20Markup%20Language%20\(XML\)%20is,%2Dreadable%20and%20machine%2Dreadable.). `XML`, or "Extensible Markup Language" is a text-based format for representing structured information, like JSON - but different (and a bit more verbose).
 
 ## XML Syntax

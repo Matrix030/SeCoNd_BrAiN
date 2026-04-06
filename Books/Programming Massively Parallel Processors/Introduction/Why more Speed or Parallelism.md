@@ -1,3 +1,6 @@
+---
+tags: [book, gpu, cuda, parallel-computing, book-pmpp]
+---
 when an application is suitable for parallel execution, a good implementa-
 tion on a GPU can achieve more than 100 times (100) speedup over
 sequential execution. If the application includes what we call data parallel-

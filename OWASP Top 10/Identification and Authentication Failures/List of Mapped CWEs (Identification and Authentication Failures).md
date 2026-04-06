@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, authentication]
+---
 [CWE-255 Credentials Management Errors](https://cwe.mitre.org/data/definitions/255.html)
 
 [CWE-259 Use of Hard-coded Password](https://cwe.mitre.org/data/definitions/259.html)

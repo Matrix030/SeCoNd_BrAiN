@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 Agents work in a continuous cycle of: **thinking (Thought) → acting (Act) and observing (Observe)**.
 
 Let’s break down these actions together:

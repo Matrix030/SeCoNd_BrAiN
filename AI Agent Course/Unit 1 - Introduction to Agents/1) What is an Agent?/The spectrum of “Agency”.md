@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 Following this definition, Agents exist on a continuous spectrum of increasing agency:
 
 |Agency Level|Description|What that’s called|Example pattern|

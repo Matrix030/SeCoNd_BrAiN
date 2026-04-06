@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Now that we understand some of our plumbing equipment, let's get into the pipes. Here are some terms to know:
 
 - `tree`: git's way of storing a directory

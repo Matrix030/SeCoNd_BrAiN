@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security, logging]
+aliases: ["Security Logging and Monitoring Failures"]
+---
 [[Factors (Security Logging and Monitoring Failures)]]
 [[Overview (Security Logging and Monitoring Failures)]]
 [[Description (Security Logging and Monitoring Failures)]]

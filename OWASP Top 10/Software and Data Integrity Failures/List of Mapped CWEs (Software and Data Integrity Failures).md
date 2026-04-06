@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 [CWE-345 Insufficient Verification of Data Authenticity](https://cwe.mitre.org/data/definitions/345.html)
 
 [CWE-353 Missing Support for Integrity Check](https://cwe.mitre.org/data/definitions/353.html)

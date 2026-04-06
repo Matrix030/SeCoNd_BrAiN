@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A common problem you'll run into in the future is that you install a new program on your machine, but when you try to run it from your terminal, you get an error like:
 
 ```bash

@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang, http]
+aliases: ["HTTP Clients"]
+---
 [[> Why HTTP?]]
 [[> JSON (Clients)]]
 [[> DNS]]

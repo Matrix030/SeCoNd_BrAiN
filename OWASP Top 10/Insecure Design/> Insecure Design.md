@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security]
+aliases: ["Insecure Design"]
+---
 [[Factors (Insecure Design)]]
 [[Overview (Insecure Design)]]
 [[> Description (Insecure Design)]]

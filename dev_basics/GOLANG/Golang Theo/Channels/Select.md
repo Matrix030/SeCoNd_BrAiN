@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Sometimes we have a single goroutine listening to multiple channels and want to process data in the order it comes through each channel.
 
 A `select` statement is used to listen to multiple channels at the same time. It is similar to a `switch` statement but for channels.

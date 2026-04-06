@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The `find` command is a powerful tool for finding files and directories by name, not by their contents.
 
 ## Find a File by Name

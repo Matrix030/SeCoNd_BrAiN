@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 To illustrate the usefulness of pointers, let's pretend we want to pass a collection of data into a function. Within that function, we want to modify the data. In Python, we could use a class to store the data, and pass an instance of that class into the function:
 
 ```python

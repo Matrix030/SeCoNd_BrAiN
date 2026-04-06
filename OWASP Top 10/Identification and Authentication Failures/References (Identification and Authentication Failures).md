@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, authentication]
+---
 - [OWASP Proactive Controls: Implement Digital Identity](https://owasp.org/www-project-proactive-controls/v3/en/c6-digital-identity)
     
 - [OWASP Application Security Verification Standard: V2 authentication](https://owasp.org/www-project-application-security-verification-standard)

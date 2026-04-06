@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In a Unix-like operating system, permissions control who can do what to which files and directories. The permissions of an individual file or directory are visually represented as a 10-character string:
 
 ```

@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, ssrf]
+---
 - Segment remote resource access functionality in separate networks to reduce the impact of SSRF
     
 - Enforce “deny by default” firewall policies or network access control rules to block all but essential intranet traffic.  

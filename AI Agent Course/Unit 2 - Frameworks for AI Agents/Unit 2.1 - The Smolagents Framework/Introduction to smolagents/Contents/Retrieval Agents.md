@@ -1,1 +1,4 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 Retrieval agents allow models access to knowledge bases, making it possible to search, synthesize, and retrieve information from multiple sources. They leverage vector stores for efficient retrieval and implement **Retrieval-Augmented Generation (RAG)** patterns. These agents are particularly useful for integrating web search with custom knowledge bases while maintaining conversation context through memory systems. This module explores implementation strategies, including fallback mechanisms for robust information retrieval.

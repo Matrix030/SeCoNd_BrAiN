@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Let's add an "admin" namespace. This is where we'll put endpoints intended for internal administrative use. Note: there's nothing inherently more secure about this namespace, it's just an organizational structure.
 
 ## Assignment

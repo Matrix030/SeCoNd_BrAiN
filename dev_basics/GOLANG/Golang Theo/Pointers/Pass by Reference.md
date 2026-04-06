@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Functions in Go generally pass variables by value, meaning that functions receive a copy of most non-composite types:
 
 ```go

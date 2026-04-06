@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Generally speaking, languages that [compile](https://en.wikipedia.org/wiki/Compiled_language) directly to [machine code](https://simple.wikipedia.org/wiki/Machine_code) produce programs that are faster than [interpreted](https://en.wikipedia.org/wiki/Interpreter_\(computing\)) programs.
 
 _Go is one of the fastest programming languages_, beating JavaScript, Python, and Ruby handily in most benchmarks.

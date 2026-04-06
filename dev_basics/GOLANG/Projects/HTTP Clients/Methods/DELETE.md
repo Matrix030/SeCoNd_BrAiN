@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, http-methods]
+---
 The `DELETE` method does exactly what you expect: it deletes a specified resource.
 
 ## Example

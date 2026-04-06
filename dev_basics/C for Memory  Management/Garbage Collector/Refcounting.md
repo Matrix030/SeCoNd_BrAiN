@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 One of the simplest ways to implement a garbage collector is to use a [reference counting](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)#Reference_counting) algorithm. It goes something like this:
 
 - All objects keep track of a `reference_count` integer.

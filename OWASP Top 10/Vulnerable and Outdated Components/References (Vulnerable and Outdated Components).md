@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, supply-chain]
+---
 - [OWASP Application Security Verification Standard: V1 Architecture, design and threat modelling](https://owasp.org/www-project-application-security-verification-standard)
     
 - [OWASP Dependency Check (for Java and .NET libraries)](https://owasp.org/www-project-dependency-check)

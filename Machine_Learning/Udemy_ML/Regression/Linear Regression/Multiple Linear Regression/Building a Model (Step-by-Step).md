@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 ## 📊 Feature Selection in Regression
 
 - ❓ Which features to **keep**

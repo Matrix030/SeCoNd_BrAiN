@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm, tools]
+---
 The complete answer may seem overwhelming, but we essentially use the system prompt to provide textual descriptions of available tools to the model:
 
 ![System prompt for tools](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/Agent_system_prompt.png)

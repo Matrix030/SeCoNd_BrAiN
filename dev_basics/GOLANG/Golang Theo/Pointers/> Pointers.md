@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Pointers"]
+---
 [[Introduction to Pointers]]
 [[References]]
 [[Pass by Reference]]

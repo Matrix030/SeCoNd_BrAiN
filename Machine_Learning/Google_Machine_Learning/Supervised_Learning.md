@@ -1,3 +1,6 @@
+---
+tags: [ml, google]
+---
 ## Foundational supervised learning concepts
 
 Supervised machine learning is based on the following core concepts:

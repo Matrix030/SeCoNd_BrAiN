@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You might be used to nice graphical interfaces that allow you to search for text in files, usually with `ctrl+f` or `cmd+f`. But what about when you're working on a terminal?
 
 As it turns out, once you're used to it, searching for text in files on a CLI can be much faster than using a GUI.

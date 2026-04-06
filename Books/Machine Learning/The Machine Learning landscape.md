@@ -1,3 +1,6 @@
+---
+tags: [book, ml, book-hands-on-ml]
+---
 ## Main Challenges of Machine Learning
 
 ### Insufficient Quantity of Training Data

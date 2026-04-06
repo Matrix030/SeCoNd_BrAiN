@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Function [currying](https://en.wikipedia.org/wiki/Currying) is a concept from functional programming and involves [partial application](https://en.wikipedia.org/wiki/Partial_application) of functions. It allows a function with multiple arguments to be transformed into a sequence of functions, each taking a single argument.
 
 Let's simulate this behavior. For example:

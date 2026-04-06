@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+aliases: ["Writing actions as code snippets or JSON blobs"]
+---
 You can follow the code in [this notebook](https://huggingface.co/agents-course/notebooks/blob/main/unit2/smolagents/tool_calling_agents.ipynb) that you can run using Google Colab.
 
 Tool Calling Agents are the second type of agent available in `smolagents`. Unlike Code Agents that use Python snippets, these agents **use the built-in tool-calling capabilities of LLM providers** to generate tool calls as **JSON structures**. This is the standard approach used by OpenAI, Anthropic, and many other providers.

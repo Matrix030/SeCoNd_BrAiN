@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, cryptography]
+---
 [CWE-261 Weak Encoding for Password](https://cwe.mitre.org/data/definitions/261.html)
 
 [CWE-296 Improper Following of a Certificate's Chain of Trust](https://cwe.mitre.org/data/definitions/296.html)

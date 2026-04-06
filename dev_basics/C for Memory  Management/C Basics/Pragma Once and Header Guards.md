@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We saw how `.h` header files are used in a previous lesson, but before we go further let's talk about a potential issue you might run into: multiple inclusions. If the same header file gets included more than once, you can end up with some nasty errors caused by redefining things like functions or structs.
 
 ## Pragma Once

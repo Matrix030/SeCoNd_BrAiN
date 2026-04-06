@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 ![[Pasted image 20250820105725.png]]
 
 ## Goals

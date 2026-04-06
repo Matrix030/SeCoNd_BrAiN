@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tokenization]
+---
 ### Understanding Chat Templates
 
 Because each instruct model uses different conversation formats and special tokens, chat templates are implemented to ensure that we correctly format the prompt the way each model expects.

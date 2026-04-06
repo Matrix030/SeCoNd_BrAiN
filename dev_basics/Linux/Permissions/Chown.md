@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So when do you _need_ to use `sudo`? `chmod` allows you to change the permissions of any file or directory that _you_ own. But what if you don't own the file or directory? That's where `sudo` is required. Let's change ownership of a directory to see how that works.
 
 The `chown` command, which stands for "change owner", allows you to change the owner of a file or directory, and it requires root privileges.

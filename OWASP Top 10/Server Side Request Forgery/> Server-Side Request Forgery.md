@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security, ssrf]
+aliases: ["Server-Side Request Forgery"]
+---
 [[Factors (Server Side Request Forgery)]]
 [[Overview (Server Side Request Forgery)]]
 [[Description (Server Side Request Forgery)]]

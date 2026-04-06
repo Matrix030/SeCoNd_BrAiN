@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security]
+aliases: ["Security Misconfiguration"]
+---
 [[Factors (Security Misconfiguration)]]
 [[Overview (Security Misconfiguration)]]
 [[Description (Security Misconfiguration)]]

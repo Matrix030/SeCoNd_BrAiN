@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security]
+aliases: ["Software and Data Integrity Failures"]
+---
 [[Factors (Software and Data Integrity Failures)]]
 [[Overview (Software and Data Integrity Failures)]]
 [[Description (Software and Data Integrity Failures)]]

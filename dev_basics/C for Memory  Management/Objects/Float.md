@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Sneklang needs floats (obviously). How else will all the crypto bros write weird floating-point bugs into their smart contracts?
 
 So how do we store both floats and ints into the same type?

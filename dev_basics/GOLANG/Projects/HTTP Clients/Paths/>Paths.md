@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang, http]
+aliases: ["Paths"]
+---
 [[L1. URL Paths]]
 [[RESTFUL APIs]]
 [[URL Query Parameters]]

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Allocating memory on the stack is preferred when possible because the stack is faster and simpler than the heap (which we'll get to, be patient):
 
 - **Efficient Pointer Management:** Stack "allocation" is just a quick increment or decrement of the stack pointer, which is extremely fast. Heap allocations require more complex bookkeeping.

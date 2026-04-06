@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Sometimes you don't want to print _everything_ in a file. Files can be really big after all.
 
 ## The head Command

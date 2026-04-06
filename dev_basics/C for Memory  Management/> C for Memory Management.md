@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["C for Memory Management"]
+---
 [[> C Basics]]
 [[> Structs]]
 [[>Pointers]]

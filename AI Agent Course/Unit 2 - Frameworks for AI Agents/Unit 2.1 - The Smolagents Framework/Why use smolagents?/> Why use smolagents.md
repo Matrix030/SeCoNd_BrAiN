@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+aliases: ["Why use smolagents"]
+---
 ![smolagents banner](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/license_to_call.png)
 
 # Why use smolagents

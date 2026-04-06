@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 ["The heap"](https://en.wikipedia.org/wiki/Memory_management#Dynamic_memory_allocation), as opposed to "the stack", is a pool of long-lived memory shared across the entire program. Stack memory is automatically allocated and deallocated as functions are called and returned, but heap memory is allocated and deallocated as-needed, independent of the burdensome shackles of function calls.
 
 When you need to store data that outlives the function that created it, you'll send it to the heap. The heap is called "dynamic memory" because it's allocated and deallocated as needed. Take a look at `new_int_array`:

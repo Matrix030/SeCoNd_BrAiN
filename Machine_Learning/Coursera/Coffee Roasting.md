@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 # Optional Lab - Simple Neural Network
 In this lab we will build a small neural network using Tensorflow.
  ![[Pasted image 20250826190711.png]]

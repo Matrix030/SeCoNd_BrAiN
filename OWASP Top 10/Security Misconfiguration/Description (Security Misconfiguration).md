@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 The application might be vulnerable if the application is:
 
 - Missing appropriate security hardening across any part of the application stack or improperly configured permissions on cloud services.

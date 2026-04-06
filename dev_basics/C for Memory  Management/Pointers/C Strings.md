@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Since the beginning of the course we've been doing these shenanigans to be able to print strings:
 
 ```c

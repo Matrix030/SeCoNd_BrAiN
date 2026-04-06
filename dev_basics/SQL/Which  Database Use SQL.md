@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 SQL is just a query language. You typically use it to interact with a specific database technology. For example:
 
 - [SQLite](https://www.sqlite.org/index.html)

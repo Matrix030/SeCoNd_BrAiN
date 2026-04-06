@@ -1,3 +1,6 @@
+---
+tags: [book, scrum, agile, book-essential-scrum, chapter-notes]
+---
 **Scrum Overview**
 - Scrum is an _agile_ approach for building innovative, fast-changing products and services.
 - Work is guided by a **product backlog** (prioritized list of features), always tackling the most important items first.

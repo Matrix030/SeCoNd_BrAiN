@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, rest-api]
+---
 [Representational State Transfer, or REST,](https://developer.mozilla.org/en-US/docs/Glossary/REST) is a popular convention that many dynamic HTTP servers follow. Not all HTTP APIs are "REST APIs", or "RESTful", but it is _very_ common.
 
 RESTful servers follow a loose set of rules that makes it easy to build reliable and predictable web APIs. REST is a set of conventions about how HTTP APIs _should_ be built.

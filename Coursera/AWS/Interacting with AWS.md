@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 Every action you make in AWS is an API call that is authenticated and authorized. In AWS, you can make API calls to services and resources through the AWS Management Console, the AWS Command Line Interface (CLI), or the AWS Software Development Kits (SDKs).
 
 ## THE AWS MANAGEMENT CONSOLE

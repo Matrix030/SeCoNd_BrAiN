@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In C, arrays and pointers are closely related. An array name acts as a pointer to the first element of the array. That means array indexing and pointer arithmetic can be used interchangeably to access array elements. Let's go through this step-by-step to understand how this works.
 
 ## Step-by-Step Walkthrough

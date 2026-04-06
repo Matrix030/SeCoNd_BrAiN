@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Go programs are organized into _packages_. A package is a directory of Go code that's all compiled together. Functions, types, variables, and constants defined in one source file are visible to **all other source files within the same package (directory)**.
 
 A _repository_ contains one or more _modules_. A module is a collection of Go packages that are released together.

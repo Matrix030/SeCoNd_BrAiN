@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 _This is one of the most important lessons in this entire course!_ **Listen up**.
 
 There are environment variables that are sort of "built-in" to your shell. By "built-in" I just mean that different programs and parts of your system know about them and use them. The `PATH` variable is one of those.

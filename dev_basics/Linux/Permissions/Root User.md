@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The "root" user is a superuser. It has access to everything on the system and can do anything. When you use the `sudo` command, you're running as the root user (as long as your system hasn't been configured differently).
 
 The `sudo` keyword is convenient because it quickly gives you elevated permissions to run a single command.

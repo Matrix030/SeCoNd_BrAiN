@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So I mentioned in the last lesson that memory can be thought of as a big array of bytes, and each byte has an address.
 
 That's true, and the beauty is that each address is _literally just a number_. It's not some _mortal_ address like "1234 Elm St." or "1600 Pennsylvania Ave." It's **just a number**.

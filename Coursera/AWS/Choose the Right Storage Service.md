@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, s3]
+---
 Here’s a recap of all the storage services mentioned so far. By the end of this reading, you should be able to better answer the question “Which storage service should I use?” for some of the more common scenarios.
 
 ## Amazon EC2 Instance Store

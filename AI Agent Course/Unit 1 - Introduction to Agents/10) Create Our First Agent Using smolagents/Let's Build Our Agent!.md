@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, smolagents]
+---
 To start, duplicate this Space: [https://huggingface.co/spaces/agents-course/First_agent_template](https://huggingface.co/spaces/agents-course/First_agent_template)
 
 Duplicating this space means **creating a local copy on your own profile**:

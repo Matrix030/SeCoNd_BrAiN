@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 We built a simple reference counting garbage collector. It can handle:
 
 - Simple types, like `INT` and `FLOAT`.

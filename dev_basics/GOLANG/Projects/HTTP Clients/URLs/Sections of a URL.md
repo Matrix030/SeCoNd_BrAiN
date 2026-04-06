@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 URLs have quite a few sections. Some are required, some are not.
 
 ## Assignment

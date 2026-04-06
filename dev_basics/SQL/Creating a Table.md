@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 To create a new table in a database, use the `CREATE TABLE` statement followed by the name of the table and the fields you want in the table.
 
 ```sql

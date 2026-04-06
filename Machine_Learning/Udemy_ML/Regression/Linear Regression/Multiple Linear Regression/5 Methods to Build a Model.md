@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 The following are 5 methods to build a model:
 	1.[[All-in]]
 	2. [[Backward Elimination]]

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The [`malloc` function](https://en.cppreference.com/w/c/memory/malloc) (`m`emory `alloc`ation) is a standard library function in C that allocates a specified number of bytes of memory on the heap and returns a pointer to the allocated memory.
 
 This new memory is **uninitialized**, which means:

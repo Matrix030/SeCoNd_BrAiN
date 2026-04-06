@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, networking]
+---
 **WHAT IS NETWORKING?**
 
 Networking is how you connect computers around the world and allow them to communicate with one another. In this trail, you’ve already seen a few examples of networking. One is the AWS global infrastructure. AWS has created a network of resources using data centers, Availability Zones, and Regions.

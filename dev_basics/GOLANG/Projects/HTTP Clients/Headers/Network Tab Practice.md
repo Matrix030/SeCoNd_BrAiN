@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 1. Open your browser's Dev Tools
 2. Navigate to the _Network_ tab at the top.
     - If you don't see the network tab, it should be in the dropdown menu. Click it.

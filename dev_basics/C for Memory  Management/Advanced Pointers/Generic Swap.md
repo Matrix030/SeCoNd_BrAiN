@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 For the previous `swap` implementations we've known the type of the data we want to swap. Because we knew the type, the compiler knew the sizes of the data we want to swap.
 
 However, to make a generic swap, we will need to provide the C compiler with the size of the data that we are swapping because `void *` loses that type info. Our new interface for `swap` will include the size:

@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, iam]
+---
 Throughout the demos, you’ll notice that the Amazon EC2 instance is using an IAM role to manage access to AWS APIs for the employee directory application application. This is a common way to provide AWS credentials to applications that need to access AWS APIs. This IAM role is providing temporary credentials that are rotated automatically via the instance profile for the EC2 instance. The AWS SDK is automatically pulling these credentials and refreshing them as needed and using the credentials to authenticate the AWS API calls being made to Amazon S3 and Amazon DynamoDB by the code for the employee directory app. Without this role, the application would not be authenticated and the API calls to those services would fail.
 
 In the video **Demo AWS IAM** you saw Morgan create an IAM role called EmployeeWebApp which used the managed policies AmazonS3FullAccess and AmazonDynamoDBFullAccess. Later in the **Hosting the Employee Directory Application on AWS** video and subsequent demos you may see an IAM role named S3DynamoDBFullAccessRole being used when configuring the EC2 instance. Both of these roles use the same policies Morgan selected in the Demo AWS IAM role.

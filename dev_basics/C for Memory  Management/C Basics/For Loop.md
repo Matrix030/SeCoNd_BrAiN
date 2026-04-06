@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A `for` loop in C is a control flow statement for repeated execution of a block of code. Very similar to Python, but with a different syntax.
 
 The syntax of a `for` loop in C consists of three main parts:

@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm, tokenization]
+---
 LLMs are said to be **autoregressive**, meaning that **the output from one pass becomes the input for the next one**. This loop continues until the model predicts the next token to be the EOS token, at which point the model can stop.
 
 ![Visual Gif of autoregressive decoding](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/AutoregressionSchema.gif)

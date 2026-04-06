@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+aliases: ["Introduction to smolagents"]
+---
 Welcome to this module, where you’ll learn **how to build effective agents** using the [`smolagents`](https://github.com/huggingface/smolagents) library, which provides a lightweight framework for creating capable AI agents.
 `smolagents` is a Hugging Face library; therefore, we would appreciate your support by **starring** the smolagents [`repository`](https://github.com/huggingface/smolagents) :
 

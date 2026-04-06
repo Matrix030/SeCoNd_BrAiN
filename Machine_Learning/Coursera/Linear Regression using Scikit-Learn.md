@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, regression, linear-regression]
+---
 # Optional Lab: Linear Regression using Scikit-Learn
 
 There is an open-source, commercially usable machine learning toolkit called [scikit-learn](https://scikit-learn.org/stable/index.html). This toolkit contains implementations of many of the algorithms that you will work with in this course.

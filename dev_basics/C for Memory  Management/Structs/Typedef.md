@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 By now, you're probably tired of typing `struct Coordinate` over and over again, and you're wondering "How can I make my struct types easier to write, like `int`?"
 
 Good news! C can do this with the [`typedef` keyword](https://en.cppreference.com/w/c/language/typedef).

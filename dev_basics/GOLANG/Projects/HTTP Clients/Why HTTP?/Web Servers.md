@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Up to this point, most of the data you have worked with in your code has simply been generated and stored locally in variables.
 
 While you'll always use variables to store and manipulate data while your program is running, most websites and apps use a web server to store, sort, and serve that data so that it sticks around for longer than a single session, and can be accessed by multiple devices.

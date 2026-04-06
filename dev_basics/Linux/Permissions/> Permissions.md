@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Permissions"]
+---
 [[L1. Users]]
 [[Permissions]]
 [[Changing Permissions]]

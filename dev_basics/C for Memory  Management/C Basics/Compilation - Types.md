@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You're probably familiar with the idea of `type`s from Python, but C does them quite a bit differently.
 
 In Python, it's OK (but still disgusting) to change the type of a variable:

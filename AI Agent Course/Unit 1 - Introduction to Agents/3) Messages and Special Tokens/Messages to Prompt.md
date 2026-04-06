@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tokenization]
+---
 The easiest way to ensure your LLM receives a conversation correctly formatted is to use the `chat_template` from the model’s tokenizer.
 ```python
 messages = [

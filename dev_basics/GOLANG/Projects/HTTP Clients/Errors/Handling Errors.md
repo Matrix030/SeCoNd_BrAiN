@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 When making HTTP requests in Go, it is essential to correctly handle both network errors and non-OK responses from the server. Proper error handling ensures your application can gracefully manage issues and provide meaningful feedback.
 
 For the sake of simplicity, all previous lessons have assumed that all our requests have resulted in successful responses (status code `200` — `299`).

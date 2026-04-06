@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tokenization]
+---
 ### Base Models vs. Instruct Models
 
 Another point we need to understand is the difference between a Base Model vs. an Instruct Model:

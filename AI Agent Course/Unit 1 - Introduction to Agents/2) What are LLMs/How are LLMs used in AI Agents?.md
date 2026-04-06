@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm]
+---
 LLMs are a key component of AI Agents, **providing the foundation for understanding and generating human language**.
 
 They can interpret user instructions, maintain context in conversations, define a plan and decide which tools to use.

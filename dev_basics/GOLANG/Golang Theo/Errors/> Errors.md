@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Errors"]
+---
 [[The Error Interface]]
 [[Formatting Strings Review]]
 [[L3 The Error Interface]]

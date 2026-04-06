@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We have been using the term _relational_ quite a bit, it's time we actually go over what that means! A _relational_ database is a type of database that stores data so that it can be easily related to other data. For example, a `user` can have many `tweets`. There's a relationship between a `user` and their `tweet`.
 
 In a relational database:

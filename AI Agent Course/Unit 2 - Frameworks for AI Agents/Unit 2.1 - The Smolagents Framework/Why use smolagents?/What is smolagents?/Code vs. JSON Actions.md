@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 Unlike other frameworks where agents write actions in JSON, `smolagents` **focuses on tool calls in code**, simplifying the execution process. This is because there’s no need to parse the JSON in order to build code that calls the tools: the output can be executed directly.
 
 The following diagram illustrates this difference:

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 In the real world, we use physical addresses to help us find where a friend lives, where a business is located, or where a party is being thrown (well, I don't because I'm not invited to parties, but I digress).
 
 In computing, web clients find other computers over the internet using [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) (IP) addresses. Each device connected to the internet has a **unique IP address**.

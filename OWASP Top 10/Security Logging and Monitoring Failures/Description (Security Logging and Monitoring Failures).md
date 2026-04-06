@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, logging]
+---
 Returning to the OWASP Top 10 2021, this category is to help detect, escalate, and respond to active breaches. Without logging and monitoring, breaches cannot be detected. Insufficient logging, detection, monitoring, and active response occurs any time:
 
 - Auditable events, such as logins, failed logins, and high-value transactions, are not logged.

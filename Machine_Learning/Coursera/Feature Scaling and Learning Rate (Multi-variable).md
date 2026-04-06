@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 # Optional Lab: Feature scaling and Learning Rate (Multi-variable)
 
 ## Goals

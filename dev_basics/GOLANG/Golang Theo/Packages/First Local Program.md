@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 1. [ ] Once inside your personal workspace, create a new directory and enter it:
 
 ```bash

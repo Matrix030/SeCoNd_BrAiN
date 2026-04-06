@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Stack Data Structure"]
+---
 [[Low Level Stack]]
 [[Stack Push]]
 [[Stack Pop]]

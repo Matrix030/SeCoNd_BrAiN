@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 So far, you have _probably_ been using a browser to test your server. That works fine with simple `GET` requests (the kind of request a browser sends when you type a URL into the address bar), but it's not very useful for any other HTTP methods or requests with custom headers and bodies.
 
 ## Debugging Your Endpoints

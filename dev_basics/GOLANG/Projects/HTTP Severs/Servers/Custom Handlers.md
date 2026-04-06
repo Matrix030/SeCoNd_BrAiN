@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 In the previous exercise, we used the [http.FileServer](https://pkg.go.dev/net/http#FileServer) function, which simply returns a built-in [http.Handler](https://pkg.go.dev/net/http#Handler).
 
 An `http.Handler` is just an interface:

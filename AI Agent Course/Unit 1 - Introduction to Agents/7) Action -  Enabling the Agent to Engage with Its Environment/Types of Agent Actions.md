@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 There are multiple types of Agents that take actions differently:
 
 |Type of Agent|Description|

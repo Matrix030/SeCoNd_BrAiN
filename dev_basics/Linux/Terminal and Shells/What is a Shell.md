@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So if your terminal is just a program that lets you issue text-based commands and renders the output of those commands...
 
 ...What is the program that _runs_ those commands???

@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, ssrf]
+---
 - Sanitize and validate all client-supplied input data
     
 - Enforce the URL schema, port, and destination with a positive allow list

@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tools]
+aliases: ["What are Tools"]
+---
 ![Unit 1 planning](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/whiteboard-check-2.jpg)
 
 One crucial aspect of AI Agents is their ability to take **actions**. As we saw, this happens through the use of **Tools**.

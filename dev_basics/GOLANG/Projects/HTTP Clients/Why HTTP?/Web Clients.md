@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 As we've discussed, a web client is a device making requests to a web server.
 
 A client can be any type of device but is often something users physically interact with. For example:

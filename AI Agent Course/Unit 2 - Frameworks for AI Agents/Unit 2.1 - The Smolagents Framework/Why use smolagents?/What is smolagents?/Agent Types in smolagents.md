@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 Agents in `smolagents` operate as **multi-step agents**.
 
 Each [`MultiStepAgent`](https://huggingface.co/docs/smolagents/main/en/reference/agents#smolagents.MultiStepAgent) performs:

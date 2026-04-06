@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, regression, logistic-regression]
+---
 ## Goals
 In this lab, you will:
 - update gradient descent for logistic regression.

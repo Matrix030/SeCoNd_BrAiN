@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You've already seen me do a `printf()` magic a few times. Unfortunately, in C it isn't as easy to do string interpolation (what f-strings do in Python).
 
 Instead of:

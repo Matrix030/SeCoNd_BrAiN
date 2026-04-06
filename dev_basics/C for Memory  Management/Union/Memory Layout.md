@@ -1,1 +1,4 @@
+---
+tags: [dev-basics]
+---
 Unions store their value in the same memory location, no matter which field or type is actively being used. That means that accessing any field apart from the one you set is generally a **bad idea**.

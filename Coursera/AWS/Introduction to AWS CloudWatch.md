@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 ## How CloudWatch Works
 
 The great thing about CloudWatch is that all you need to get started is an AWS account. It is a managed service, which enables you to focus on monitoring, without managing any underlying infrastructure.

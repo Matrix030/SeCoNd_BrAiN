@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Whenever we want to change the control flow of a loop we can use the `continue` and `break` keywords.
 
 ## continue

@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Loops In Go"]
+---
 [[Loops in Go]]
 [[Ommiting Conditions from a for Loop in Go]]
 [[There is no While Loop in Go]]

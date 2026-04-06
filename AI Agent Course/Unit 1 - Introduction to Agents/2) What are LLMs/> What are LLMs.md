@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm]
+aliases: ["What are LLMs"]
+---
 ![Unit 1 planning](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/whiteboard-check-1.jpg)
 
 In the previous section we learned that each Agent needs **an AI Model at its core**, and that LLMs are the most common type of AI models for this purpose.

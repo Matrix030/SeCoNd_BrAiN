@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 When generics were released, a new way of writing interfaces was also released at the same time!
 
 We can now simply list a bunch of types to get a new interface/constraint.

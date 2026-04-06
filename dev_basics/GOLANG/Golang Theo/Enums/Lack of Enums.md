@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 My _least_ favorite part of Go? Glad you asked. It's Go's lack of [enums](https://en.wikipedia.org/wiki/Enumerated_type), [sum types](https://en.wikipedia.org/wiki/Algebraic_data_type), [tagged unions](https://en.wikipedia.org/wiki/Tagged_union), etc. Compared to other statically typed languages like:
 
 - [Rust](https://www.rust-lang.org/)

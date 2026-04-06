@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 An `if` conditional can have an "initial" statement. The variable(s) created in the initial statement are _only_ defined within the scope of the `if` body.
 
 ```go

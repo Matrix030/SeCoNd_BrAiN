@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 In the previous lesson, we saw how we can receive values from channels like this:
 
 ```go

@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents, tools]
+aliases: ["Tools"]
+---
 As we explored in [unit 1](https://huggingface.co/learn/agents-course/unit1/tools), agents use tools to perform various actions. In `smolagents`, tools are treated as **functions that an LLM can call within an agent system**.
 
 To interact with a tool, the LLM needs an **interface description** with these key components:

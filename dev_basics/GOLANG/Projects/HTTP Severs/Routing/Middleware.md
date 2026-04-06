@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Middleware is a way to wrap a handler with additional functionality. It is a common pattern in web applications that allows us to write DRY code. For example, we can write a middleware that logs every request to the server. We can then wrap our handler with this middleware and every request will be logged without us having to write the logging code in every handler.
 
 Here are examples of the middleware that we've written so far.

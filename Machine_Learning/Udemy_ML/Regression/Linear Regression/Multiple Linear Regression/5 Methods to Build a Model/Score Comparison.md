@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 ### 🧠 What Is It?
 > This method evaluates **every possible combination of predictors** and chooses the **best model** based on a performance metric (e.g., **Adjusted R²**, **AIC**, **BIC**).
 ### 🧪 How It Works

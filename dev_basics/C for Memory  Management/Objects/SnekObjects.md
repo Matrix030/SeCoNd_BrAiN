@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Objects in C?!? No. Way.
 
 _However_, Sneklang is built in C, and everything in Sneklang is an "object". To be clear, not a _class_ or _object-oriented programming_ object, but a higher-level data structure that _holds some metadata about itself_. For example, it will store:

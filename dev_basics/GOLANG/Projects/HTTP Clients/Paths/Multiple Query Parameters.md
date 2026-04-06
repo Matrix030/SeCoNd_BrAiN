@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Query parameters are `key/value` pairs - that means there can be multiple pairs!
 
 `http://example.com?firstName=lane&lastName=wagner`

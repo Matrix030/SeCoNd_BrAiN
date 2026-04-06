@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So a variable's _value_ can change:
 
 ```c

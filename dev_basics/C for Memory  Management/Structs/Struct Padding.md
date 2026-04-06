@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 There are a bunch of complicated rules and heuristics that different compilers use to determine how to lay out your structs. But to oversimplify:
 
 1. The fields of a struct are laid out in memory contiguously (next to each other)

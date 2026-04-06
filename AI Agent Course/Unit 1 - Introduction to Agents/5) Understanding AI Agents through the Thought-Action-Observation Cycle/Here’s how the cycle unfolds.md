@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 ### Thought
 
 **Internal Reasoning:**

@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, access-control]
+---
 - **Access control is only effective in trusted server-side code or server-less API, where the attacker cannot modify the access control check or metadata.**  
     → _Only enforce permissions on the backend, not in the browser where hackers can change things._
     

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The basic loop in Go is written in standard C-like syntax:
 
 ```go

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In C, functions specify the types for their arguments and return value.
 
 ```c

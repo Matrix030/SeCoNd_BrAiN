@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The `MIN` function works the same as the `MAX` function but finds the _lowest_ value instead of the _highest_ value.
 
 ```sql

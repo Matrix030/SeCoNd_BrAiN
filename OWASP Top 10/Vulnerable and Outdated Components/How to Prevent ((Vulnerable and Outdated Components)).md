@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, supply-chain]
+---
 There should be a patch management process in place to:
 
 - Remove unused dependencies, unnecessary features, components, files, and documentation.

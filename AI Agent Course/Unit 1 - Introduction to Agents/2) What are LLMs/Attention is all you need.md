@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm]
+---
 A key aspect of the Transformer architecture is **Attention**. When predicting the next word, not every word in a sentence is equally important; words like “France” and “capital” in the sentence _“The capital of France is …”_ carry the most meaning.
 
 ![Visual Gif of Attention](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/AttentionSceneFinal.gif) This process of identifying the most relevant words to predict the next token has proven to be incredibly effective.

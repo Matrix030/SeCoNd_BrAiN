@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang, http]
+aliases: ["JSON (Clients)"]
+---
 [[JSON syntax]]
 [[Decoding JSON]]
 [[JSON Review]]

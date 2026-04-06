@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As we talked about, the terms "shell", "CLI", and "terminal" are often used to refer to the same thing: a program for issuing text-based commands.
 
 But to get pedantic, the "terminal" is just one _specific part_ of that program. Historically, the word "terminal" meant a physical device that you could type commands into, essentially a keyboard and a screen.

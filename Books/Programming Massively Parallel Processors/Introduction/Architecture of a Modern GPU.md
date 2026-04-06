@@ -1,3 +1,6 @@
+---
+tags: [book, gpu, cuda, parallel-computing, book-pmpp]
+---
 ![[Pasted image 20250708001122.png]]
 Figure 1.3 shows the architecture of a typical CUDA-capable GPU. It is
 organized into an array of highly threaded streaming multiprocessors

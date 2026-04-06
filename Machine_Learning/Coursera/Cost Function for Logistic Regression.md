@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, regression, logistic-regression]
+---
 ## Goals
 In this lab, you will:
 - examine the implementation and utilize the cost function for logistic regression.

@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 When operating a website like the Employee Directory Application on AWS you may have questions like:
 
 - How many people are visiting my site day to day?

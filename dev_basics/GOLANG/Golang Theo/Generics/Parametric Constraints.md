@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Your interface definitions, which can later be used as constraints, can accept [type parameters](https://go.dev/tour/generics/1) as well.
 
 ```go

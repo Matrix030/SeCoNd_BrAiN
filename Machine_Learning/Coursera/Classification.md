@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, classification]
+---
 # Optional Lab: Classification
 
 In this lab, you will contrast regression and classification.

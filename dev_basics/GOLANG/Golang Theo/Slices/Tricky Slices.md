@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The `append()` function changes the underlying array of its parameter AND returns a new slice. This means that using `append()` on anything other than itself is usually a BAD idea.
 
 ```go

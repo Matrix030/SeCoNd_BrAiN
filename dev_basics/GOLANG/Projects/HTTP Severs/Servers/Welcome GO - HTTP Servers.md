@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 In a way, this course is where _everything_ you've learned so far on the Boot.dev back-end track comes together. Building HTTP servers is the bread-and-butter of a backend developer's day-to-day work.
 
 This course assumes you already have a solid understanding of Go. If you don't, take a step back and take our [Go course](https://www.boot.dev/courses/learn-golang).

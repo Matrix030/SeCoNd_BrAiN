@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 ![[Pasted image 20250609094216.png]]
 
 ## For categorical variable -

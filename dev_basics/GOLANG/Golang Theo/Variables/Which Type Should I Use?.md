@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 With so many types for what is essentially just a number, developers coming from languages that only have one kind of `Number` type (like JavaScript) may find the choices daunting.
 
 ## Prefer “Default” Types

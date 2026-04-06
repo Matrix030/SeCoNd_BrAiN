@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 ## What’s the Big Deal About Auth?
 
 When you’re configuring access to any account, two terms come up frequently: **authentication and authorization**. Though these terms may seem basic, you need to understand them to properly configure access management on AWS. It’s important to keep this mind as you progress in this course. Let’s define both terms.

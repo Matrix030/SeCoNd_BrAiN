@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A Git repo is a (potentially very long) list of commits, where each commit represents the _full state of the repository_ at a given point in time.
 
 The [git log](https://git-scm.com/docs/git-log) command shows a history of the commits in a repository. This is what makes Git a version control system. You can see:

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Unlike Python, Go is _not_ function-scoped, it's [block-scoped](https://go.dev/ref/spec#Declarations_and_scope). Variables declared inside a block are only accessible within that block (and its nested blocks). There's also the package scope. We'll talk about packages later, but for now, you can think of it as the outermost, nearly global scope.
 
 ```go

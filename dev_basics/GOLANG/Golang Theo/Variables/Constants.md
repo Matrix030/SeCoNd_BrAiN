@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Constants are declared with the `const` keyword. They can't use the `:=` short declaration syntax.
 
 ```go

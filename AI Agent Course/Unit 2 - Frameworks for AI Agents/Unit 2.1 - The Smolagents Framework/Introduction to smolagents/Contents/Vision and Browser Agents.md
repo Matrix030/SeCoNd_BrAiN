@@ -1,1 +1,4 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 Vision agents extend traditional agent capabilities by incorporating **Vision-Language Models (VLMs)**, enabling them to process and interpret visual information. This module explores how to design and integrate VLM-powered agents, unlocking advanced functionalities like image-based reasoning, visual data analysis, and multimodal interactions. We will also use vision agents to build a browser agent that can browse the web and extract information from it.

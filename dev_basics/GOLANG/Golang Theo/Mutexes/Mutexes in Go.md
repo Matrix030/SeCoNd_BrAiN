@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Mutexes allow us to _lock_ access to data. This ensures that we can control which goroutines can access certain data at which time.
 
 Go's standard library provides a built-in implementation of a mutex with the [sync.Mutex](https://pkg.go.dev/sync#Mutex) type and its two methods:

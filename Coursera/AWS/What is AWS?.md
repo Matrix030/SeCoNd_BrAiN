@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 # What is the Cloud?
 
 In the past, companies and organizations hosted and maintained hardware such as compute, storage, and networking equipment in their own data centers. They needed to allocate entire infrastructure departments to take care of them, resulting in a costly operation that made some workloads and experimentation impossible.

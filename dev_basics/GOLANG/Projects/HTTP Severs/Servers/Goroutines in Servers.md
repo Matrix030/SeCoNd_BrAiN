@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 In Go, _goroutines_ are used to serve _many_ requests at the same time, but not all servers are quite so performant.
 
 Go was built by Google, and one of the purposes of its creation was to power Google's massive web infrastructure. Go's goroutines are a great fit for web servers because they're lighter weight than operating system threads, but still take advantage of multiple cores. Let's compare a Go web server's concurrency model to other popular languages and frameworks.

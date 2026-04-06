@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Go is _generally_ faster and more lightweight than interpreted or VM-powered languages like:
 
 - Python

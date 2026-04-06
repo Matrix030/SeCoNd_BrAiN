@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 We created Alfred, the Weather Agent.
 A user asks Alfred: “What’s the current weather in New York?”
 

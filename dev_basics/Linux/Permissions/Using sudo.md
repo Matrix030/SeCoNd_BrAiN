@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Before you start this assignment, make sure the permissions on the `worldbanc/private/contacts` directory are `drwx------`, that the owner is `root`, and that you're not signed in as root. If you've been following along, all of those should be true. You can check with the `ls -l` command.
 
 ## Assignment

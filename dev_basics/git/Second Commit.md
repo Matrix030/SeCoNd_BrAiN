@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Reminder of command syntax:
 
 - `git log` (`q` to exit, arrow keys to scroll)

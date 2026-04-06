@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Terminal and Shells"]
+---
 [[Welcome to Linux]]
 [[Command Line vs GUI]]
 [[What is Terminal]]

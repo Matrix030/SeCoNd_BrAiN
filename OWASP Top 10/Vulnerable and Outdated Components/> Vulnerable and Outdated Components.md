@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security, supply-chain]
+aliases: ["Vulnerable and Outdated Components"]
+---
 [[Factors (Vulnerable and Outdated Components)]]
 [[Overview (Vulnerable and Outdated Components)]]
 [[Description (Vulnerable and Outdated Components)]]

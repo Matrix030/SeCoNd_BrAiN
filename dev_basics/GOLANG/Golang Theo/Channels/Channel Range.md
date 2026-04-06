@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Similar to slices and maps, channels can be ranged over.
 
 ```go

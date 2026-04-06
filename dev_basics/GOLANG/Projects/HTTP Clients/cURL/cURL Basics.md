@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 The simplest cURL command makes a GET request to the provided URL, for example:
 
 ```sh

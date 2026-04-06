@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Up until now, even though we made our stack with `void *`, you'll notice that we've only stored plain old `int` pointers. I want to show you that you can actually store _anything_ in the stack, even heterogeneous lists! That being said, this is usually a bad idea.
 
 TJ likes to use words like "heterogeneous" to keep kids-who-dont-read-good at bay. He meant to say, "you can actually store _anything_ in the stack, even lists of different types of data!"

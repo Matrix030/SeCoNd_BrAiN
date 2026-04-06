@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[Creating a Table]]
 [[Create Table Practice]]
 [[Altering Tables]]

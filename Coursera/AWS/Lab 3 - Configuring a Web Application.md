@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 # AWS Cloud Technical Essentials: Configure a Web Application to use an Amazon S3 Bucket and Amazon DynamoDB Table
 **SPL-CX-100-CETEWA-1 - Version 1.0.1**
 

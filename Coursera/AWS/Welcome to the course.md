@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 AWS Cloud Technical Essentials is a fundamental-level course. It’s designed to build your competence, confidence, and credibility with practical cloud skills that can help you innovate and advance your professional future. Here’s a quick overview of the skills that you will learn in each week of this first course.
 
 **Week 1: Getting Started with AWS Cloud**

@@ -1,3 +1,6 @@
+---
+tags: [book]
+---
 # uniform initialization
 _Uniform initialization_ (also called _braced initialization_), used in some of the preceding examples, was also introduced in C++11:
 

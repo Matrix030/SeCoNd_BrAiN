@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Deleting data can be a dangerous operation. Once removed, data can be really hard if not _impossible_ to restore! Let's talk about a couple of common ways back-end engineers protect against losing valuable customer data.
 
 ## Strategy 1 - Backups

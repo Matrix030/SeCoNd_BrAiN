@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The principal problem that mutexes help us avoid is the _concurrent read/write problem_. This problem arises when one thread is writing to a variable while another thread is reading from that same variable _at the same time_.
 
 When this happens, a Go program will panic because the reader could be reading bad data while it's being mutated in place.

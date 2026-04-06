@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, http]
+---
 It's important to understand how data _flows_ through a typical web application.
 
 ![](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/hli3crD-799x386.png)

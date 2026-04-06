@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Enums"]
+---
 [[L1. Enums]]
 [[Non-Default Values]]
 [[Switch Case (C)]]

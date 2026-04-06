@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So far we've been using Git in a "porcelain" manner. But to sate our insatiable curiosity, let's take a look at some of the "plumbing".
 
 ## It's Just Files All the Way Down

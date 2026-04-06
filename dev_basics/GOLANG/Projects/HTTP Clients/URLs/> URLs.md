@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang, http]
+aliases: ["URLs"]
+---
 [[Uniform Resource Indentifiers]]
 [[Sections of a URL]]
 [[Further Dissecting a URL]]

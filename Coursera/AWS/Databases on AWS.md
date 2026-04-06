@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 [[Explore Databases on AWS]]
 [[Amazon Relational Database Service]]
 [[Introduction to Amazon DynamoDB]]

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 - `bool`: a boolean value, either `true` or `false`
 - `string`: a sequence of characters
 - `int`: a signed integer

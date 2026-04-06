@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The built-in append function is used to dynamically add elements to a slice:
 
 ```go

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A _key_ defines and protects relationships between tables. A [`primary key`](https://en.wikipedia.org/wiki/Primary_key) is a special column that uniquely identifies records within a table. Each table can have one, and only one primary key.
 
 ## Your Primary Key Will Almost Always Be the “id” Column

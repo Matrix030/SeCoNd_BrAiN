@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+aliases: ["Observe - Integrating Feedback to Reflect and Adapt"]
+---
 Observations are **how an Agent perceives the consequences of its actions**.
 
 They provide crucial information that fuels the Agent’s thought process and guides future actions.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Let's learn how to import and use an open-source package that's available on GitHub.
 
 ## A Note on “replace”

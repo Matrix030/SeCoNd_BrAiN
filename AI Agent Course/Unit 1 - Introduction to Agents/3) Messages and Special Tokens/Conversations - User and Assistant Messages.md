@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tokenization]
+---
 ### 🧠 **What is a Conversation in Chatbots?**
 Imagine you're texting a smart robot. Every time **you say something**, the robot replies back. This back-and-forth is called a **conversation**.
 Example:

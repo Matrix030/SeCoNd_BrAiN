@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang, http, http-methods]
+aliases: ["Methods"]
+---
 [[HTTP Methods - GET]]
 [[Why Use HTTP Methods]]
 [[POST Request]]

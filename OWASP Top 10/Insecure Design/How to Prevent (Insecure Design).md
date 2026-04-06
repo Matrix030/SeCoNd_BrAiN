@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 - Establish and use a secure development lifecycle with AppSec professionals to help evaluate and design security and privacy-related controls
 
 - Establish and use a library of secure design patterns or paved road ready to use components

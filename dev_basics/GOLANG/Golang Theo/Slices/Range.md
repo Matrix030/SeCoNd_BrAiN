@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Go provides syntactic sugar to iterate easily over elements of a slice:
 
 ```go

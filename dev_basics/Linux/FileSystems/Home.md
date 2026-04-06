@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In a Unix-like operating system, a user's [home directory](https://en.wikipedia.org/wiki/Home_directory) is the directory where their personal files are stored. It is also the directory that a user starts in when logging into the system.
 
 I recommend doing all of your development work in your home directory. For example, I like to create a `workspace` directory in my home directory, and all my programming projects live in subdirectories there.

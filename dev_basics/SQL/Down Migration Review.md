@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Up migration:
 
 ```sql

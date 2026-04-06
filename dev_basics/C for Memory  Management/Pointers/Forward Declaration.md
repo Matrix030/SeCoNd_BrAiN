@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Sometimes you have a struct that may need to reference itself, or be used recursively.
 
 For example, consider a `Node` struct that can contain other `Node`s. This might be useful for building a linked list or a tree:

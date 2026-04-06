@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, injection]
+---
 **Scenario #1:** An application uses untrusted data in the construction of the following vulnerable SQL call:
 
 ```

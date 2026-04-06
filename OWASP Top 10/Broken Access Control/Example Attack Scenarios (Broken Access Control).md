@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, access-control]
+---
 **Scenario #1:** The application uses unverified data in a SQL call that is accessing account information:
 
 ```

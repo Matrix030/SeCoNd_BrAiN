@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Modern web browsers offer developers a powerful set of _developer tools_. The [Developer Tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) are a front-end web developer's best friend! For example, using the dev tools you can:
 
 - View the web page's JavaScript console output

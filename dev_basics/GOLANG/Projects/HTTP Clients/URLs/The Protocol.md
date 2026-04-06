@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 The "protocol" (also referred to as the "scheme") is the first component of a URL. It defines the rules by which the data being communicated is displayed, encoded or formatted.
 
 Some examples of different URL protocols:

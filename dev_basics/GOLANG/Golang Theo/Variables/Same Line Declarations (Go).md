@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 You can declare multiple variables on the same line:
 
 ```go

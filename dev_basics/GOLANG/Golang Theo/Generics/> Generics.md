@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Generics"]
+---
 [[Generics in Go]]
 [[Why Generics]]
 [[Constraints]]

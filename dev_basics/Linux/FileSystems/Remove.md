@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The [remove command](https://www.ibm.com/docs/en/aix/7.3?topic=files-deleting-rm-command) deletes a file or empty directory:
 
 ```bash

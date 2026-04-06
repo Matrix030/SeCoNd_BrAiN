@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, code-agents]
+---
 ## Code Agents
 
 An alternative approach is using _Code Agents_. The idea is: **instead of outputting a simple JSON object**, a Code Agent generates an **executable code block—typically in a high-level language like Python**.

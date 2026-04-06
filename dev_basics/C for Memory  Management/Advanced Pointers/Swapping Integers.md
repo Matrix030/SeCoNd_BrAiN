@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Sneklang makes it easy to swap two values:
 
 ```py

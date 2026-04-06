@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Constants must be known at compile time. They are _usually_ declared with a static value:
 
 ```go

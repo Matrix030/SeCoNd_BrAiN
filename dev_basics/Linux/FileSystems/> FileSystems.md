@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["FileSystems"]
+---
 [[What is a FileSystem?]]
 [[Filepaths]]
 [[Parent Directories]]

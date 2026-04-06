@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The `cd` command "changes directory" to move _into_ a directory. But how do you move back _out_ of the current directory?
 
 The answer is two dots: `..`

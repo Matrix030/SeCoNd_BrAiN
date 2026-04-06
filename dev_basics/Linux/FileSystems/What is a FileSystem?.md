@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 All the data stored on your computer is organized into files and directories. Files and directories are organized into a tree-like structure called a filesystem.
 
 ![](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/FwcpMrv-1280x563.png)

@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Pointers"]
+---
 [[L1. Memory]]
 [[What is an Address?]]
 [[Virtual Memory]]

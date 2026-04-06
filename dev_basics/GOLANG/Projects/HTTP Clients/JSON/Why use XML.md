@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 XML and JSON both accomplish similar tasks, so which should you use?
 
 XML used to be used for the same things that today JSON is primarily used for. Configuration files, HTTP bodies, and other data-transfer can work with either JSON or XML. Personally, I believe that if JSON works, you should favor it over XML. JSON is:

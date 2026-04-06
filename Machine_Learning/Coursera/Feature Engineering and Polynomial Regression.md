@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, regression, polynomial-regression]
+---
 # Optional Lab: Feature Engineering and Polynomial Regression
 
 ![[Pasted image 20250817173015.png]]

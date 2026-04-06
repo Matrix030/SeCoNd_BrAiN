@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, networking]
+---
 A VPC is an isolated network you create in the AWS cloud, similar to a traditional network in a data center. When you create a VPC, you need to choose three main things.
 
 1. The name of your VPC.

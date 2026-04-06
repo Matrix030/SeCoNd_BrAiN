@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression]
+---
 [[Linear Regression (Content) | Linear Regression]]
 [[Support Vector Regression Intuition | Support Vector Regression]]
 [[Decision Tree Regression]]

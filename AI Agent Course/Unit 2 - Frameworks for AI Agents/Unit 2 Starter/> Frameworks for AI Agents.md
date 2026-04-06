@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks]
+aliases: ["Frameworks for AI Agents"]
+---
 ![Thumbnail](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit2/thumbnail.jpg)
 
 Welcome to this second unit, where **we’ll explore different agentic frameworks** that can be used to build powerful agentic applications.

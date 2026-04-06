@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Ok, so let's actually store some data instead of just allocating memory for no practical purpose (a.k.a "haskell programming").
 
 ## Making Room

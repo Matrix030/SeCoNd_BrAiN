@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+aliases: ["What is an Agent, and how does it work?"]
+---
 
 # an Agent is: an **AI model capable of reasoning, planning, and interacting with its environment**.
 A formal / precise definition:

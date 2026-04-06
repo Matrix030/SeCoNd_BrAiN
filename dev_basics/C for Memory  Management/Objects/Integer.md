@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Let's start simple with a single integer object. The difference between a "snek integer" and a regular C integer is that the Snek integer:
 
 1. Is allocated on the heap

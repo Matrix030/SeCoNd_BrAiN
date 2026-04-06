@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 # Optional Lab: Gradient Descent for Linear Regression
 
 

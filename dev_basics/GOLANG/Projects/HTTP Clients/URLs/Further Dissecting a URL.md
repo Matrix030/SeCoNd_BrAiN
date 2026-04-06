@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 There are 8 main parts to a URL, though not all the sections are always present. Each piece plays a role in helping clients locate the ~~droids~~ resources they're looking for.
 
 ![](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/TpxX9Ei-1280x234.png)

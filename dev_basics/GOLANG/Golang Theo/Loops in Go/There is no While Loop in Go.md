@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Most programming languages have a concept of a `while` loop. Because Go allows for the omission of sections of a `for` loop, a `while` loop is just a `for` loop that only has a CONDITION.
 
 ```go

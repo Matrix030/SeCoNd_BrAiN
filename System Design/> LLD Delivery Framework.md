@@ -1,6 +1,11 @@
 ---
-tags: [lld, interview, framework]
-aliases: [LLD Framework, Low-Level Design Framework]
+tags:
+  - lld
+  - interview
+  - framework
+aliases:
+  - LLD Framework
+  - Low-Level Design Framework
 ---
 
 # LLD Delivery Framework

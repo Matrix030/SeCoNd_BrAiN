@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 JSON is a _stringified representation_ of a [JavaScript object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects), which makes it perfect for saving to a file or sending in an HTTP request. Remember, an actual JavaScript object is something that exists only within your program's variables. If we want to send an object outside our program, for example, across the internet in an HTTP request, we need to convert it to JSON first.
 
 ## JSON Isn't Just for JavaScript

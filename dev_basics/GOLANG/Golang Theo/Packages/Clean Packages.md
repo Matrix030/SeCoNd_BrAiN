@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 I’ve often seen, and have been responsible for, throwing code into packages without much thought. I’ve quickly drawn a line in the sand and started putting code into different directories (which in Go are different packages by definition) just for the sake of organization. _Learning to properly build small and reusable packages can take your Go career to the next level._
 
 ## Rules of Thumb

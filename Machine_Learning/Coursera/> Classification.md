@@ -1,3 +1,7 @@
+---
+tags: [ml, coursera, classification]
+aliases: ["Classification"]
+---
 [[Classification]]
 [[Machine_Learning/Coursera/Logistic Regression|Logistic Regression]]
 [[Cost Function for Logistic Regression]]

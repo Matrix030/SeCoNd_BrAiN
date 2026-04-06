@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 To recap, a [domain name](https://en.wikipedia.org/wiki/Domain_name) is part of a URL. It's the part that tells the computer _where the server is located on the internet_ by being converted into a numerical IP address.
 
 We'll cover exactly how an IP address is used by your computer to find a path to the server in a later course. For now, it's just important to understand that an IP address is what your computer is using at a lower level to communicate on a network.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 A ["domain name"](https://en.wikipedia.org/wiki/Domain_name) or ["hostname"](https://en.wikipedia.org/wiki/Hostname) is just one portion of a URL. We'll get to the other parts of a URL later.
 
 For example, the URL `https://homestarrunner.com/toons` has a hostname of `homestarrunner.com`. The `https://` and `/toons` portions aren't part of the `domain name -> IP address` mapping that we've been talking about.

@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, networking]
+---
 # AWS Cloud Technical Essentials: Creating a VPC and Launching a Web Application in an Amazon EC2 Instance
 
 ## Objectives

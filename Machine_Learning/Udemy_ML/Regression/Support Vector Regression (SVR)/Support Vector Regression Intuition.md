@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, svm]
+---
 ![[Pasted image 20250610100433.png]]
 
 ![[Pasted image 20250610100438.png]]

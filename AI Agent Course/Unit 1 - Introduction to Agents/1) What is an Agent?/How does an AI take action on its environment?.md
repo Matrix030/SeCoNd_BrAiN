@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 LLMs are amazing models, but **they can only generate text**.
 
 However, if you ask a well-known chat application like HuggingChat or ChatGPT to generate an image, they can! How is that possible?

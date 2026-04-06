@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 We're building a fully-fledged web server from scratch _on your local machine_. The test suite will make HTTP requests to your local server over [localhost](https://www.hostinger.com/tutorials/what-is-localhost). Your server will run in one terminal, while you submit tests with the [Boot.dev CLI](https://github.com/bootdotdev/bootdev) in another terminal.
 
 ## Setup

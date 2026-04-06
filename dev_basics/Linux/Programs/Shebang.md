@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As we talked about before, you can run any executable file by typing its file path into your shell. For example:
 
 ```bash

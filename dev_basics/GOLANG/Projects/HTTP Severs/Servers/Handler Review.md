@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 An [http.Handler](https://pkg.go.dev/net/http#Handler) is any [defined type](https://go.dev/ref/spec#Type_definitions) that implements the set of methods defined by the `Handler` [interface](https://go.dev/tour/methods/9), specifically the `ServeHTTP` method.
 
 ```go

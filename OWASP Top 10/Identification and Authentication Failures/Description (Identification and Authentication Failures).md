@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, authentication]
+---
 Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks. There may be authentication weaknesses if the application:
 
 - Permits automated attacks such as credential stuffing, where the attacker has a list of valid usernames and passwords.

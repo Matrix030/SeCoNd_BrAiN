@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[Different Hashes]]
 [[The Plumbing]]
 [[the Object File]]

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Channels can be explicitly closed by a _sender_:
 
 ```go

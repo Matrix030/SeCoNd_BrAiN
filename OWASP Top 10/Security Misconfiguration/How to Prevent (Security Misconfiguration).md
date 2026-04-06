@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 Secure installation processes should be implemented, including:
 
 - A repeatable hardening process makes it fast and easy to deploy another environment that is appropriately locked down. Development, QA, and production environments should all be configured identically, with different credentials used in each environment. This process should be automated to minimize the effort required to set up a new secure environment.

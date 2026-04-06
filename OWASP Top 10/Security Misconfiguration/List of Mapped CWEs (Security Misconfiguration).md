@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 [CWE-2 7PK - Environment](https://cwe.mitre.org/data/definitions/2.html)
 
 [CWE-11 ASP.NET Misconfiguration: Creating Debug Binary](https://cwe.mitre.org/data/definitions/11.html)

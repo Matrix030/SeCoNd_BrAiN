@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 # Defer
 The `defer` keyword is a fairly unique feature of Go. It allows a function to be executed automatically _just before_ its enclosing function returns. The deferred call's arguments are evaluated immediately, but the function call is not executed until the surrounding function returns.
 

@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, injection]
+---
 Preventing injection requires keeping data separate from commands and queries:
 
 - The preferred option is to use a safe API, which avoids using the interpreter entirely, provides a parameterized interface, or migrates to Object Relational Mapping Tools (ORMs).  

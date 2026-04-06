@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 SQL as a language can support many different data types. However, the datatypes that _your database management system ([DBMS](https://en.wikipedia.org/wiki/Database#:~:text=A%20database%20management%20system%20\(DBMS\)))_ supports will vary depending on the specific database you're using.
 
 SQLite only supports the most _basic_ types, and we're using SQLite in this course!

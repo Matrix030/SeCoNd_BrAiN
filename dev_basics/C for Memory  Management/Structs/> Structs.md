@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Structs"]
+---
 [[L1. Structs]]
 [[Initializers]]
 [[Scaling Coordinate]]

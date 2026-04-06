@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 [Empty structs](https://dave.cheney.net/2014/03/25/the-empty-struct) are used in Go as a [unary](https://en.wikipedia.org/wiki/Unary_operation) value.
 
 ```go

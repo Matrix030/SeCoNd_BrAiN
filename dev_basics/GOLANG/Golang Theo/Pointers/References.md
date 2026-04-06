@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 It's possible to define an empty pointer. For example, an empty pointer to an integer:
 
 ```go

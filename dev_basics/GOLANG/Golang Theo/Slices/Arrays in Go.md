@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Arrays are fixed-size groups of variables of the same type. For example, `[4]string` is an array of `4` values of type `string`.
 
 To declare an array of 10 integers:

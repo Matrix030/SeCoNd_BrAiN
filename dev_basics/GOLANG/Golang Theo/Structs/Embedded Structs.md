@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Go is not an [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) language. However, embedded structs provide a kind of _data-only_ inheritance that can be useful at times. Keep in mind, Go doesn't support classes or inheritance in the _complete_ sense, but embedded structs are a way to elevate and **share fields between struct definitions.**
 
 ```go

@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, s3]
+---
 AWS storage services are grouped into three different categories: block storage, file storage, and object storage.
 
 **File Storage**

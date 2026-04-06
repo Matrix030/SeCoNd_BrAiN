@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, supply-chain]
+---
 You are likely vulnerable:
 
 - If you do not know the versions of all components you use (both client-side and server-side). This includes components you directly use as well as nested dependencies.

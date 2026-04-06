@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents, code-agents]
+---
 In a multi-step agent process, the LLM writes and executes actions, typically involving external tool calls. Traditional approaches use a JSON format to specify tool names and arguments as strings, **which the system must parse to determine which tool to execute**.
 
 However, research shows that **tool-calling LLMs work more effectively with code directly**. This is a core principle of `smolagents`, as shown in the diagram above from[[ Additional Stuff of Curiosity | Executable Code Actions Elicit Better LLM Agents ]].

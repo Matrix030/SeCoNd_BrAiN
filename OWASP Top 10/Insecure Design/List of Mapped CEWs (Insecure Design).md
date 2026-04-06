@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 [CWE-73 External Control of File Name or Path](https://cwe.mitre.org/data/definitions/73.html)
 
 [CWE-183 Permissive List of Allowed Inputs](https://cwe.mitre.org/data/definitions/183.html)

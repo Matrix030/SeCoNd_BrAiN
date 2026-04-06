@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, tools]
+---
 This approach involves creating a subclass of [`Tool`](https://huggingface.co/docs/smolagents/v1.8.1/en/reference/tools#smolagents.Tool). For complex tools, we can implement a class instead of a Python function. The class wraps the function with metadata that helps the LLM understand how to use it effectively. In this class, we define:
 
 - `name`: The tool’s name.

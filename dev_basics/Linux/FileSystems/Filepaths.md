@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The output of `pwd` is a _filepath_. A filepath is a string that describes the location of a file or directory on your computer. Yours should look _something_ like this:
 
 ```

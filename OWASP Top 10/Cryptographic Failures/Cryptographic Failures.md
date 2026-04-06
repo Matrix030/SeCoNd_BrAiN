@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, cryptography]
+---
 [[Factors (Cryptographic Failures)]]
 [[Overview (Cryptographic Failures)]]
 [[Description (Cryptographic Failures)]]

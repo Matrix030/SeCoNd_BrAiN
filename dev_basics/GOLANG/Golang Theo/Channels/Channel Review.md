@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Here are a few extra things you should understand about channels from [Dave Cheney's awesome article](https://dave.cheney.net/2014/03/19/channel-axioms).
 
 ## A Declared but Uninitialized Channel Is Nil Just Like a Slice

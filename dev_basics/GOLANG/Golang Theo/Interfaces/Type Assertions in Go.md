@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 When working with interfaces in Go, every once-in-awhile you'll need access to the underlying type of an interface value. You can cast an interface to its underlying type using a [type assertion](https://go.dev/tour/methods/15).
 
 The example below shows how to safely access the `radius` field of `s` when `s` is an unknown type:

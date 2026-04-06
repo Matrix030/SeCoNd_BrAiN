@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 _99 times out of 100_ you will use a slice instead of an array when working with ordered lists.
 
 Arrays are fixed in size. Once you make an array like `[10]int` you can't add an 11th element.

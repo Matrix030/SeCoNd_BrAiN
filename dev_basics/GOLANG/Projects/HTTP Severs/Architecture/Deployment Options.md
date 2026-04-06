@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 We won't go in-depth with deployment instructions right now; that said, let's talk about how our choice of project architecture affects our deployment options, and how we _could_ deploy our application in the future. We'll only talk about cloud deployment options here, and by the "cloud" I'm just referring to a remote server that's managed by a third-party company like Google or Amazon.
 
 ![](https://imgs.xkcd.com/comics/the_cloud.png)

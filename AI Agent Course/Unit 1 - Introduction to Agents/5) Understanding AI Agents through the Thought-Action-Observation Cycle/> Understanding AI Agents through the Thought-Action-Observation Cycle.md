@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+aliases: ["Understanding AI Agents through the Thought-Action-Observation Cycle"]
+---
 ![Unit 1 planning](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/whiteboard-check-3.jpg)
 
 In the previous sections, we learned:

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Channels are a typed, [thread-safe](https://en.wikipedia.org/wiki/Thread_safety) queue. Channels allow different goroutines to communicate with each other.
 
 ## Create a Channel

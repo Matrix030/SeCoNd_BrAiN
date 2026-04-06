@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A downside of unions is that the size of the union is the size of the _largest_ field in the union. Take this example:
 
 ```c

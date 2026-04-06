@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In Python you'd do something like this:
 
 ```sh

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Query parameters in a URL are _not_ always present. In the context of websites, query parameters are often used for marketing analytics or for changing a variable on the web page. With website URLs, query parameters _rarely_ change _which_ page you're viewing, though they often will change the page's _contents_.
 
 That said, query parameters can be used for anything the server chooses to use them for, just like the URL's path.

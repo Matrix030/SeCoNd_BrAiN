@@ -1,3 +1,6 @@
+---
+tags: [ml, google, regression, linear-regression]
+---
 [Linear regression: Gradient descent  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent)
 # Linear regression: Gradient descent
 [**Gradient descent**](https://developers.google.com/machine-learning/glossary#gradient-descent) is a mathematical technique that iteratively finds the weights and bias that produce the model with the lowest loss. Gradient descent finds the best weight and bias by repeating the following process for a number of user-defined iterations.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Structs can be nested to represent more complex entities:
 
 ```go

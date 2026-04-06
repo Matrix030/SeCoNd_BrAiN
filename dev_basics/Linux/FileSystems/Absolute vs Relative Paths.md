@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We've mostly been dealing with [relative filepaths](https://www.redhat.com/sysadmin/linux-path-absolute-relative) which are paths that take your current directory into account. For example, let's say we have the following directory structure in our filesystem:
 
 ```

@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+aliases: ["Building Agents That Use Code"]
+---
 Code agents are the default agent type in `smolagents`. They generate Python tool calls to perform actions, achieving action representations that are efficient, expressive, and accurate.
 
 Their streamlined approach reduces the number of required actions, simplifies complex operations, and enables reuse of existing code functions. `smolagents` provides a lightweight framework for building code agents, implemented in approximately 1,000 lines of code.

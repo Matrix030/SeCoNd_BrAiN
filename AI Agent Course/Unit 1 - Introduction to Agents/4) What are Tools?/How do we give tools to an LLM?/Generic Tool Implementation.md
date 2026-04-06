@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm, tools]
+---
 We create a generic `Tool` class that we can reuse whenever we need to use a tool.
 
 > **Disclaimer:** This example implementation is fictional but closely resembles real implementations in most libraries.

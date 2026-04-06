@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, authentication]
+---
 - Where possible, implement multi-factor authentication to prevent automated credential stuffing, brute force, and stolen credential reuse attacks.
     
 - Do not ship or deploy with any default credentials, particularly for admin users.

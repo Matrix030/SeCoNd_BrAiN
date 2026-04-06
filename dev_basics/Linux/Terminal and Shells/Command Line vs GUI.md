@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In other Boot.dev courses you may have run your code by clicking a "Run" button. But as a real™ developer, you'll likely run your code using a command line interface (CLI) instead. For example, in Python, you would run a Python code file like this:
 
 ```bash

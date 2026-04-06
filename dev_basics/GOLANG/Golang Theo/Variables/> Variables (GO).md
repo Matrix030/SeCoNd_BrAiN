@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Variables (GO)"]
+---
 [[Basic Variables]]
 [[Short Variable Declaration]]
 [[Why Go?]]

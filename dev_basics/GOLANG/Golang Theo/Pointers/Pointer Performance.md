@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Occasionally, new Go developers hear "pointers don't pass copies" and take that to a logical extreme, concluding:
 
 > Pointers are always faster because copying is slow. I'll always use pointers!

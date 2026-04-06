@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["The Stack and Heap"]
+---
 [[L1. The Stack]]
 [[Why a Stack?]]
 [[Stack Overflow]]

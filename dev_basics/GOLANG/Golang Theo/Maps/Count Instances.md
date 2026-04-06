@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Remember that you can check if a key is already present in a map by using the second return value from the index operation.
 
 You can combine an `if` statement with an assignment operation to use the variables inside the `if` block:

@@ -1,3 +1,6 @@
+---
+tags: [book, scrum, agile, book-essential-scrum, chapter-notes]
+---
 **Scrum in a Nutshell**
 - Scrum is a framework for managing work through small, iterative cycles called _sprints_ (usually 1–4 weeks).
 - Each sprint delivers a potentially shippable product increment.

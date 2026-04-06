@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 ### 🧠 What Is It?
 > **Bidirectional Elimination** combines the ideas of **Forward Selection** and **Backward Elimination**.  
 > You both **add** variables and **remove** them in each iteration based on their **P-values**.

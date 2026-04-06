@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 A convenient way to format strings in Go is by using the standard library's [fmt.Sprintf()](https://pkg.go.dev/fmt#example-Sprintf)function. It's a string interpolation function, similar to Python's [f-strings](https://docs.python.org/3/reference/lexical_analysis.html#f-strings). The `%v` substring uses the type's default formatting, which is often what you want.
 
 ### Default Values

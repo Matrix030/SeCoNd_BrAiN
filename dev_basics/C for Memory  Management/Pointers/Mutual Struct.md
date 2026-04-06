@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Forward declarations can also be used when two structs reference each other (a circular reference). For example, a `Person` has a `Computer` and a `Computer` has a `Person`:
 
 ```c

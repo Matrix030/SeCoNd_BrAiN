@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Packages"]
+---
 [[L1. Packages]]
 [[Package Naming]]
 [[Modules]]

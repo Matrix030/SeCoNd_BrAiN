@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Let's take a look at what's inside this suspicious commit object file.
 
 ## Assignment

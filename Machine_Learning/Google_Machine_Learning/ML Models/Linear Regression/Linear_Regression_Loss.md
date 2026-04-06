@@ -1,3 +1,6 @@
+---
+tags: [ml, google, regression, linear-regression]
+---
 [Linear regression: Loss  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/linear-regression/loss)
 
 # Linear regression: Loss

@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tools]
+---
 A **Tool is a function given to the LLM**. This function should fulfill a **clear objective**.
 
 Here are some commonly used tools in AI agents:

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Developers often wonder why the declaration syntax in Go is different from the tradition established in the C family of languages.
 
 ## C-Style Syntax

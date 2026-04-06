@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 As we've seen, the proper way to handle errors in Go is to make use of the [error](https://golang.org/pkg/errors/) interface. Pass errors up the call stack, treating them as normal values:
 
 ```go

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 ## Janky Syntax
 
 You _can_ write an `if` statement without braces if you only have one statement in the body:

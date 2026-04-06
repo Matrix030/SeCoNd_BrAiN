@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Garbage Collector"]
+---
 [[L1. Garbage Collector]]
 [[Refcounting]]
 [[Increment]]

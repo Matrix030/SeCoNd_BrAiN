@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tokenization]
+---
 We want to **automatically generate a description of what a tool (Python function or class) does**, just by looking at the code itself.
 ### 🧰 How Will We Do It?
 We’ll use **Python's introspection** — a fancy word that just means:

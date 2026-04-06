@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 work hard, have fun and make history
 [[Welcome to the course]]
 [[Getting Started with AWS]]

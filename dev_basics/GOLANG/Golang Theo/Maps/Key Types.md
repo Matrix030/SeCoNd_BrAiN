@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 #cool_stuff
 
 Any type can be used as the _value_ in a map, but _keys_ are more restrictive.

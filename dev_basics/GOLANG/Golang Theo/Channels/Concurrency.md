@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 ## What Is Concurrency?
 
 Concurrency is the ability to perform multiple tasks at the same time. Typically, our code is executed one line at a time, one after the other. This is called _sequential execution_ or _synchronous execution_.

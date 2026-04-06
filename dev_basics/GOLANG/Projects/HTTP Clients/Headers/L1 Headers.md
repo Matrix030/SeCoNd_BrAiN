@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 An [HTTP header](https://developer.mozilla.org/en-US/docs/Glossary/HTTP_header) allows clients and servers to pass _additional_ information with each request or response. Headers are just case-insensitive [key-value pairs](https://en.wikipedia.org/wiki/Name%E2%80%93value_pair) that pass additional [metadata](https://en.wikipedia.org/wiki/Metadata) about the request or response.
 
 HTTP requests from a web browser automatically carry with them many headers, including but not limited to:

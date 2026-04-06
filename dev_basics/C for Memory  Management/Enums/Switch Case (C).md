@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 One of the best features of `enums` is that it can be used in [`switch` statements](https://en.cppreference.com/w/c/language/switch). Enums + switch statements:
 
 - Avoid "[magic numbers](https://en.wikipedia.org/wiki/Magic_number_\(programming\))"

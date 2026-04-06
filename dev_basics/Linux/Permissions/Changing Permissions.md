@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The [chmod command](https://www.ibm.com/docs/en/aix/7.3?topic=c-chmod-command) lets you change the permissions of a file or directory. It's short for "change mode" (I wish it was called "change permissions", but alas).
 
 ## Assignment

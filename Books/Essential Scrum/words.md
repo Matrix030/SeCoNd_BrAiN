@@ -1,3 +1,6 @@
+---
+tags: [book, scrum, agile, book-essential-scrum]
+---
 ### Definitions
 
 #### A

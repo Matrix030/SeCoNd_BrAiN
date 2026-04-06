@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We've already discussed `void`, which essentially means "nothing" in C. It's used in a few different contexts:
 
 - `void update_soldier(soldier_t *s)`: means the function returns nothing

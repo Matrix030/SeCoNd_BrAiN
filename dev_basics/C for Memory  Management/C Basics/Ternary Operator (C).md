@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Like JavaScript, C has a ternary operator:
 
 ```c

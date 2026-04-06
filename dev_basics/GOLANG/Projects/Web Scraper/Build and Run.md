@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Let's just get our Go project set up and running. We'll start with a simple "Hello, World!" program.
 
 ## Assignment

@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, tools]
+---
 ### The @tool Decorator
 
 The `@tool` decorator is the **recommended way to define simple tools**. Under the hood, smolagents will parse basic information about the function from Python. So if you name your function clearly and write a good docstring, it will be easier for the LLM to use.

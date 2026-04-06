@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Sometimes you need your generic function to know _something_ about the types it operates on. The example we used in the first exercise didn't need to know _anything_ about the types in the slice, so we used the built-in `any` constraint:
 
 ```go

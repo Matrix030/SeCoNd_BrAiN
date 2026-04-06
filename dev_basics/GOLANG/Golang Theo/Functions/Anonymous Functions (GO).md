@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Anonymous functions are true to form in that they have _no name_. They're useful when defining a function that will only be used once or to create a quick [closure](https://en.wikipedia.org/wiki/Closure_\(computer_programming\)).
 
 Let's say we have a function `conversions` that accepts another function, `converter` as input:

@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Interfaces in Go"]
+---
 [[L1. Interfaces in Go]]
 [[Interface Implimentation]]
 [[Interface are Implemented Implicitly]]

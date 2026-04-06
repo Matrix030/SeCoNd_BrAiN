@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[Status]]
 [[Staging]]
 [[Commit]]

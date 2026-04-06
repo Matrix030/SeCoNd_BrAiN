@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 My latest Git commit hash was:
 
 ```bash

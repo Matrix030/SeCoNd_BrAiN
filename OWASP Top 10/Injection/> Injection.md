@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security, injection]
+aliases: ["Injection"]
+---
 [[Factors (Injection)]]
 [[Overview (Injection)]]
 [[Description (Injection)]]

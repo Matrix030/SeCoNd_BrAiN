@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 Throughout these last few lessons, there have been sprinklings of IAM best practices. It’s helpful to have a brief summary of some of the most important IAM best practices you need to be familiar with before building out solutions on AWS.
 
 LOCK DOWN THE AWS ROOT USER

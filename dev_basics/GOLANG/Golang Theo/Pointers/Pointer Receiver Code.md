@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Methods with pointer receivers don't require that a pointer is used to call the method. The pointer will automatically be derived from the value.
 
 ```go

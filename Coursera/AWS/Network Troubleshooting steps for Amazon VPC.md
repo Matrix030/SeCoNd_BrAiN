@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, networking]
+---
 In the demos throughout this course, you will see the Employee Directory Application being launched onto a Amazon EC2 instance that is placed in a public subnet in an Amazon VPC. There are multiple networking configurations that play into whether an instance is accessible to the internet or not.
 
 Below we will run down a list of configurations you should check if you ever have a public EC2 instance with a web application that is not loading as expected.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Let's write a package to import and use in `hellogo`.
 
 ## Assignment

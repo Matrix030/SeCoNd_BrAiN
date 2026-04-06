@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 You may be wondering how the fileserver knew to serve the `index.html` file to the root of the server. It's _such_ a common convention on the web to use a file called `index.html` to serve the webpage for a given path, that the Go standard library's [FileServer](https://pkg.go.dev/net/http#FileServer) does it automatically.
 
 When using a standard fileserver, the path to a file on disk is the same as its URL path. An exception is that `index.html` is served from `/` instead of `/index.html`.

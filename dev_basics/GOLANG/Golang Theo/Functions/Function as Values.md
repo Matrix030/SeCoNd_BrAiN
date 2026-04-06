@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Go supports [first-class](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function) and higher-order functions, which are just fancy ways of saying "functions as values". Functions are just another type -- like `int`s and `string`s and `bool`s.
 
 Let's assume we have two simple functions:

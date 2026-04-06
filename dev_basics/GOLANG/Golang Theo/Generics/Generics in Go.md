@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 As we've mentioned, Go does _not_ support classes. For a long time, that meant that Go code couldn't easily be reused in many cases. For example, imagine some code that splits a slice into 2 equal parts. The code that splits the slice doesn't care about the _types of values_ stored in the slice. Before generics, we needed to write the same code for each type, which is a very un-[DRY](https://blog.boot.dev/clean-code/dry-code/) thing to do.
 
 ```go

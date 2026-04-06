@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 When talking about SQL databases, we also have to mention the elephant in the room: [NoSQL](https://en.wikipedia.org/wiki/NoSQL).
 
 To put it simply, a NoSQL database is a database that does _not_ use SQL (Structured Query Language). Each NoSQL typically has its own way of writing and executing queries. For example, [MongoDB](https://www.mongodb.com/) uses MQL (MongoDB Query Language) and [ElasticSearch](https://www.elastic.co/) simply has a JSON API.

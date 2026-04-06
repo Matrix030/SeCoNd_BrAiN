@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[What is SQL?]]
 [[SQL Select Statement]]
 [[Which  Database Use SQL]]

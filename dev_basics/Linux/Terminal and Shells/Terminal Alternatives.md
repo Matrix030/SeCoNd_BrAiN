@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So far you've been likely working in the default terminal that came with your operating system, and that's fine. However, there are other options, and I want to highlight a couple of them just in case you want to check them out (but you don't have to).
 
 ## Editor/IDE Built-In Terminals

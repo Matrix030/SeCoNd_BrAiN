@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[SQL Introduction]]
 [[Tables]]
 [[SQL Constraints]]

@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, injection]
+---
 An application is vulnerable to attack when:
 
 - User-supplied data is not validated, filtered, or sanitized by the application.

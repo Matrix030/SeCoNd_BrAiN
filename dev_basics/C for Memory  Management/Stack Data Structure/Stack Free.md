@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In C, we don't have a lot of abstractions at our disposal. There are no classes, destructors, functors, monads, made-up-category-theory-words, etc.
 
 We've got _data_. And we've got _functions_. Just the way ~~God~~ Dennis Ritchie intended.

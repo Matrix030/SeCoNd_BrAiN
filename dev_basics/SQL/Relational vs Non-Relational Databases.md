@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The big difference between relational and non-relational databases is that non-relational databases _nest_ their data. Instead of keeping records on separate tables, they store records _within other records_.
 
 To over-simplify it, you can think of non-relational databases as giant JSON blobs. If a user can have multiple courses, you might just add all the courses to the user record.

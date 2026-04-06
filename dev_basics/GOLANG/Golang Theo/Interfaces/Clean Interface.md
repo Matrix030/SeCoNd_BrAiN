@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Writing clean interfaces is _hard_. Frankly, any time you’re dealing with abstractions in code, the simple can become complex very quickly if you’re not careful. Let’s go over some rules of thumb for keeping interfaces clean.
 
 ## 1. Keep Interfaces Small

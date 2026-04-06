@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Making a `POST` request with cURL is almost as simple as a GET request. Use the `-X POST` option to specify the request method and the `-d` option to pass data.
 
 Here's how to make a POST request:

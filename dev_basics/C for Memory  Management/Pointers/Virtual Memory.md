@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As it turns out, your code probably doesn't have direct access to the physical RAM in your computer.
 
 Instead, your operating system provides a layer of abstraction called **virtual memory**. Virtual memory makes it seem like your program has direct access to all the memory on the machine, even if it doesn't.

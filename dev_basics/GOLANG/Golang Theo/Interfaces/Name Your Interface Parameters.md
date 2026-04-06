@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Consider the following interface:
 
 ```go

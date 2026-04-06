@@ -1,3 +1,6 @@
+---
+tags: [book, ml, book-hands-on-ml]
+---
 Here are the main steps we will walk through:
 1. Look at the big picture.
 2. Get the data.

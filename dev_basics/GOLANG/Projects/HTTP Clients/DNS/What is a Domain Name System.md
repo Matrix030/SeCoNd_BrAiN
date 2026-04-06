@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 So we've talked about domain names, but we haven't talked about _the system_ that makes them work.
 
 [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), or the "Domain Name System", is the phonebook of the internet. Humans type easy-to-read [domain names](https://en.wikipedia.org/wiki/Domain_name) like [Boot.dev](https://boot.dev). DNS "resolves" those domain names to their associated [IP addresses](https://en.wikipedia.org/wiki/Internet_Protocol) so that web clients can find the server they're looking for.

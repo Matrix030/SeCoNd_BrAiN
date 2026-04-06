@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 For all its faults, [TypeScript](https://www.typescriptlang.org/) _does_ have a pretty incredible type system. Here's one of the things it can do that I often miss in Go:
 
 ```typescript

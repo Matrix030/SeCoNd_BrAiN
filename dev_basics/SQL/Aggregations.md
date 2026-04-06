@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[What are Aggregations]]
 [[SQL SUM]]
 [[SQL MAX]]

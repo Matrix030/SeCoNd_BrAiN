@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, neural-network, deep-learning]
+---
 # Practice Lab: Neural Networks for Handwritten Digit Recognition, Binary
 
 In this exercise, you will use a neural network to recognize the hand-written digits zero and one.

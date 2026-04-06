@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 On static sites (like blogs or documentation sites) a URL's path mirrors the server's filesystem hierarchy.
 
 For example, if the website `https://exampleblog.com` had a static web server running in its `/home` directory, then a request to `https://exampleblog.com/site/index.html` would probably return the file located at `/home/site/index.html`.

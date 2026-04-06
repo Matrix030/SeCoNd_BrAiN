@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You're familiar with the idea of reading and writing data into files. But what about _executing_ them? Executable files are just files where the data stored inside is a program that you can run on your computer.
 
 Files with a `.sh` extension are [shell scripts](https://en.wikipedia.org/wiki/Shell_script). They're just text files that contain shell commands. You can run a file in your shell by typing its filepath:

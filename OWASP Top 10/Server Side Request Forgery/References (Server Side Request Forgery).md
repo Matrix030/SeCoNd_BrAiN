@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, ssrf]
+---
 - [OWASP - Server-Side Request Forgery Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
     
 - [PortSwigger - Server-side request forgery (SSRF)](https://portswigger.net/web-security/ssrf)

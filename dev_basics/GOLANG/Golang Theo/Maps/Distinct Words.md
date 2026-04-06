@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Complete the `countDistinctWords` function using a `map`. It should take a slice of strings and return the total count of distinct words across all the strings. Assume words are separated by spaces. Casing should not matter. (e.g., "Hello" and "hello" should be considered the same word).
 
 For example:

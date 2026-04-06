@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, access-control]
+---
 - [OWASP Proactive Controls: Enforce Access Controls](https://owasp.org/www-project-proactive-controls/v3/en/c7-enforce-access-controls)
     
 - [OWASP Application Security Verification Standard: V4 Access Control](https://owasp.org/www-project-application-security-verification-standard)

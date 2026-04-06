@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In C, there's a special type for function signatures: [`void`](https://en.wikipedia.org/wiki/Void_type). There are two primary ways you'll use `void`:
 
 To explicitly state that a function takes no arguments:

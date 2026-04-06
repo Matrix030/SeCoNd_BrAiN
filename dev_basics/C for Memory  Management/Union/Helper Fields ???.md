@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 One interesting (albeit not commonly used) trick is to use unions to create "helpers" for accessing different parts of a piece of memory. Consider the following:
 
 ```c

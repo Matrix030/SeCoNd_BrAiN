@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As you've already seen in this course, some commands accept [flags](https://www.ibm.com/docs/en/aix/7.3?topic=names-command-flags). Flags are options that you can pass to a command to change its behavior.
 
 For example, the `ls` command can take a `-l` flag to show a "long" listing of files:

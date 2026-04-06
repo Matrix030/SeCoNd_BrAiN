@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A `do while` loop in C is a control flow statement that allows code to be executed repeatedly based on a given boolean condition.
 
 Unlike the `while` loop, the `do while` loop checks the condition after executing the loop body, so the loop body is **always** executed at least once.

@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, security]
+---
 When you begin working with the AWS Cloud, managing security and compliance is a shared responsibility between AWS and you. To depict this shared responsibility, AWS created the shared responsibility model. This distinction of responsibility is commonly referred to as security of the cloud, versus security in the cloud.
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/eKxMSz7eQe--4LueiSDLeA_768c8a872c8c47b78055a63415700ff1_asset-v1-AWS-AWS-AWS-OTP-AWSD16-1T2023-type-asset-block-Reading_1.5_AWS_Shared_Responsibility_Model.png?expiry=1752796800000&hmac=b1qctFiwEJOKzPq2DmNapdR5yx6k4XWIl2enbW88Uiw)

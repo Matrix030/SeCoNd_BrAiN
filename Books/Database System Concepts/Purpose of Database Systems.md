@@ -1,3 +1,6 @@
+---
+tags: [book]
+---
 - file-processing system is supported by a conventional operating system. The system stores permanent records in various files, and it needs different application programs to extract records from, and add records to, the appropriate files. 
 
 - Keeping organizational information in a file-processing system has a number of major disadvantages: Data redundancy and inconsistency. 

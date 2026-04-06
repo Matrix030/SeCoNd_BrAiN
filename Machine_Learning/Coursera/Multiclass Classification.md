@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, classification]
+---
 
 
 ## 1.1 Goals

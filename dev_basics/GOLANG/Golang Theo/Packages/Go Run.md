@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The [`go run` command](https://pkg.go.dev/cmd/go#hdr-Compile_and_run_Go_program) quickly compiles and runs a Go package. The compiled binary is _not_ saved in your working directory.
 
 I typically use `go run` to do local testing, scripting and debugging.

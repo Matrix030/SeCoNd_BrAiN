@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Channels can _optionally_ be buffered.
 
 ## Creating a Channel With a Buffer

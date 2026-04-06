@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) (JavaScript Object Notation), is a standard for representing _structured_ data based on JavaScript's object syntax. It is commonly used to transmit data in web apps via HTTP. For example, The HTTP requests we have been making in this course have been returning _Jello_ issues as JSON.
 
 JSON supports the following primitive data types:

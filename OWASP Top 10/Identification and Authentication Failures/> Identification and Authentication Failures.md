@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security, authentication]
+aliases: ["Identification and Authentication Failures"]
+---
 [[Factors (Identification and Authentication Failures)]]
 [[Overview (Identification and Authentication Failures)]]
 [[Description (Identification and Authentication Failures)]]

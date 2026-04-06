@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Go Starter"]
+---
 [[> Variables (GO)]]
 [[> Conditionals (GO)]]
 [[> Functions]]

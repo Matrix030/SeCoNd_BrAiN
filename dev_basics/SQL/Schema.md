@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We've used the word _schema_ a few times now, let's talk about what that word means. A database's [schema](https://www.ibm.com/think/topics/database-schema) describes how data is organized within it.
 
 Data types, table names, field names, constraints, and the relationships between all of those entities are part of a database's _schema_.

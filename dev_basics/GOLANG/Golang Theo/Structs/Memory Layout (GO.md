@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 In Go, structs sit in memory in a contiguous block, with fields placed one after another as defined in the struct. For example this struct:
 
 ```go

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The same [`sizeof`](https://en.cppreference.com/w/c/language/sizeof) operator that we've talked about works on enums.
 
 Generally, enums in C are the same size as an `int`. However, if an enum value exceeds the range of an `int`, the C compiler will use a [larger integer type](https://en.cppreference.com/w/c/language/type) to accommodate the value, such as an `unsigned int` or a `long`.

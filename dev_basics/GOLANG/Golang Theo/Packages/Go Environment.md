@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Let's clear up a few points before you start writing Go locally.
 
 ## Directory Structure

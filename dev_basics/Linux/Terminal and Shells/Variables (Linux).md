@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 - If you're using Ubuntu on WSL, you're probably running a [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)) shell.
 - If you're using macOS, you're probably running a [Zsh](https://en.wikipedia.org/wiki/Z_shell) shell.
 - If you're running full Linux, I pray you already know what you're using.

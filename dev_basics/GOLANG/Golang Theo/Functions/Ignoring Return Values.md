@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 A function can return a value that the caller doesn't care about. We can explicitly ignore variables by using an underscore, or more precisely, the [blank identifier `_`](https://go.dev/doc/effective_go#blank).
 
 For example:

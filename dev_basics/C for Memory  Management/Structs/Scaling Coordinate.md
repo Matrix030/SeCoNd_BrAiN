@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Remember how we can **not** return multiple values from a function in C? We can't do this:
 
 ```c

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 [`jq`](https://github.com/jqlang/jq) is a powerful command-line tool for processing JSON data. It’s a favorite among developers for working with JSON because it can:
 
 - **Parse JSON**: easily read and extract data from JSON responses.

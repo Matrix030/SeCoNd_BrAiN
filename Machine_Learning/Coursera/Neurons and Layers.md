@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 # Optional Lab - Neurons and Layers
 In this lab we will explore the inner workings of neurons/units and layers. In particular, the lab will draw parallels to the models you have mastered in Course 1, the regression/linear model and the logistic model. The lab will introduce Tensorflow and demonstrate how these models are implemented in that framework.
 ![[Pasted image 20250826190311.png]]

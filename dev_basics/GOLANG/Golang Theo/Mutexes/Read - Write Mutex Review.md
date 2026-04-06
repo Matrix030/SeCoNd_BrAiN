@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Maps are safe for concurrent _read_ access, just not concurrent read/write or write/write access. A read/write mutex allows all the readers to access the map at the same time, but a writer will still lock out all other readers and writers.
 
 ```go

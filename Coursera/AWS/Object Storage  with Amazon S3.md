@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, s3]
+---
 **WHAT IS AMAZON S3?**
 
 Unlike Amazon EBS, Amazon S3 is a standalone storage solution that isn’t tied to compute. It enables you to retrieve your data from anywhere on the web. If you’ve ever used an online storage service to back up the data from your local machine, then you most likely have used a service similar to Amazon S3. The big difference between those online storage services and Amazon S3 is the storage type.

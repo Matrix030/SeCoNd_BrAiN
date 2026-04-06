@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 You can run a compiled program _without_ the original source code. You don't need the compiler anymore after it's done its job. That's how most video games are distributed! Players don't need to install the correct version of `Go` to run a PC game: they just download the executable game and run it.
 
 ![compiler vs interpreter](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/7RBQRNA.png)

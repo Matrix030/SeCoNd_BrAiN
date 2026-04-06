@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 As we have learned, a variable is a named location in memory that stores a value. We can manipulate the value of a variable by assigning a new value to it or by performing operations on it. When we assign a value to a variable, we are storing that value in a specific location in memory.
 
 ```go

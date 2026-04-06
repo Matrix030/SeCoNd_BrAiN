@@ -1,3 +1,6 @@
+---
+tags: [book, scrum, agile, book-essential-scrum, chapter-notes]
+---
 there is no such thing as a bad tool, rather just inappropriate times to use that tool.
 
 - Plan-driven processes are so named because they attempt to plan for and anticipate up front all of the features a user might want in the end product, and to determine how best to build those features.

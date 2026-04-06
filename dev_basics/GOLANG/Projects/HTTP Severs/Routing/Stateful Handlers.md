@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 It's frequently useful to have a way to store and access state in our handlers. For example, we might want to keep track of the number of requests we've received, or we may want to pass around an open connection to a database, or credentials to an API.
 
 ## Assignment

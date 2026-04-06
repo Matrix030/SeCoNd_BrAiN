@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 A URL's query parameters appear next in the URL structure but are _not_ always present - they're optional. For example:
 
 [https://www.google.com/search?q=boot.dev](https://www.google.com/search?q=boot.dev)

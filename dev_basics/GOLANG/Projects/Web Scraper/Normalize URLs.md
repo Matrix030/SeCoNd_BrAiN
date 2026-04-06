@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) is a popular method of writing software. The idea is that you write tests for your code _first_, then you write the code that gets the tests to pass. We're going to approach this project using _a bit of_ TDD.
 
 ## Normalizing URLs

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, http-methods]
+---
 The HTTP [`PUT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) method creates _or more commonly, updates_ the target resource with the contents of the request's `body`. Unlike `GET` and `POST`, there is no `http.Put` function. You will have to create a raw `http.Request` that an `http.Client` can [`Do`](https://pkg.go.dev/net/http#Client.Do).
 
 ## POST vs. PUT

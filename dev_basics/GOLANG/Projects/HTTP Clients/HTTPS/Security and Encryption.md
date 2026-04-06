@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, https, security]
+---
 HTTPS requires that the client use [SSL](https://developer.mozilla.org/en-US/docs/Glossary/SSL) or [TLS](https://developer.mozilla.org/en-US/docs/Glossary/TLS) to protect requests and traffic by encrypting the information in the request. You don’t need to manually handle encryption or decryption—it's all done for you by the protocol. **HTTPS is simply HTTP with built-in security!**
 
 ![](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/uw8x4XC-1280x539.png)

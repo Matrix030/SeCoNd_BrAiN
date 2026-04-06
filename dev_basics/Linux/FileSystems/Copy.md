@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The [copy command](https://www.ibm.com/docs/en/aix/7.3?topic=c-cp-command) does what you would (hopefully) expect: it copies a file from one location to another.
 
 ```bash

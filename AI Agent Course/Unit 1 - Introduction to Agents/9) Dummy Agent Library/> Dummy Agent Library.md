@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+aliases: ["Dummy Agent Library"]
+---
 ![Unit 1 planning](https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/whiteboard-unit1sub3DONE.jpg)
 
 This course is framework-agnostic because we want to **focus on the concepts of AI agents and avoid getting bogged down in the specifics of a particular framework**.

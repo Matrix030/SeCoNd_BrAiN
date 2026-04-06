@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, security, networking]
+---
 ### The Main Route Table
 
 When you create a VPC, AWS creates a route table called the main route table. A route table contains a set of rules, called routes, that are used to determine where network traffic is directed. AWS assumes that when you create a new VPC with subnets, you want traffic to flow between them. Therefore, the default configuration of the main route table is to allow traffic between all subnets in the local network. Below is an example of a main route table:

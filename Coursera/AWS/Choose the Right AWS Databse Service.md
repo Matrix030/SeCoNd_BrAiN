@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud]
+---
 ## AWS Database Services
 
 AWS has a variety of different database options for different use cases. Use the table below to get a quick look at the AWS database portfolio.

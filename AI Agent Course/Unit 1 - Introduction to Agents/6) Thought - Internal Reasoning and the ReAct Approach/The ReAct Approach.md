@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, react-pattern]
+---
 A key method is the **ReAct approach**, which is the concatenation of “Reasoning” (Think) with “Acting” (Act).
 
 ReAct is a simple prompting technique that appends “Let’s think step by step” before letting the LLM decode the next tokens.

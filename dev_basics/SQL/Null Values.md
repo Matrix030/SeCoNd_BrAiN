@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 In SQL, a cell with a `NULL` value indicates that the value is _missing_. A `NULL` value is _very_ different from a _zero_ value.
 
 ## Constraints

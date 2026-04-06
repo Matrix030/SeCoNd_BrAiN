@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 When we receive JSON data in the body of an HTTP response, it comes as a stream of bytes. As we saw before, we _can_ just convert the bytes to a string... but in Go there's a better way. It's typically best to decode the JSON data into a _struct_.
 
 Take this example JSON data:

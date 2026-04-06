@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, http-methods]
+---
 HTTP defines a set of [methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods). We must choose one to use each time we make an HTTP request. The most common ones include:
 
 - `GET`

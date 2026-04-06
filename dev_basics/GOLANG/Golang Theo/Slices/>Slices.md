@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Slices"]
+---
 [[Arrays in Go]]
 [[Slices in Go]]
 [[Make]]

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We talked about how you can create and use local variables in your shell:
 
 ```bash

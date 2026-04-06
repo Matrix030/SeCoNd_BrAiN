@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Programs"]
+---
 [[Compiled vs Interpreted]]
 [[Shebang]]
 [[Bourne Shell]]

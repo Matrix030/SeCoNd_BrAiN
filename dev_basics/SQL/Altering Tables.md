@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 We often need to alter our database schema without deleting it and re-creating it. Imagine if Twitter deleted its database each time it needed to add a feature, that would be a _disaster_! Your account and all your tweets would be wiped out on a daily basis.
 
 Instead, we can use the `ALTER TABLE` statement to make changes in place without deleting any data.

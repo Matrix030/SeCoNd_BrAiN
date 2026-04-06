@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 `smolagents` supports flexible LLM integration, allowing you to use any callable model that meets [certain criteria](https://huggingface.co/docs/smolagents/main/en/reference/models). The framework provides several predefined classes to simplify model connections:
 
 - **[TransformersModel](https://huggingface.co/docs/smolagents/main/en/reference/models#smolagents.TransformersModel):** Implements a local `transformers` pipeline for seamless integration.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The [man](https://www.ibm.com/docs/en/aix/7.3?topic=m-man-command) command is short for "manual". It's a program that displays the manual for other programs.
 
 ![](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/tpIPc6I-958x500.jpg)

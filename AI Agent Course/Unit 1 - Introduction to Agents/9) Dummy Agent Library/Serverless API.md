@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 In the Hugging Face ecosystem, there is a convenient feature called Serverless API that allows you to easily run inference on many models. There’s no installation or deployment required.
 
 ```python

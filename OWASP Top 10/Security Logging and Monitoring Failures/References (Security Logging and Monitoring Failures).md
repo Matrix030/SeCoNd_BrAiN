@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, logging]
+---
 - [OWASP Proactive Controls: Implement Logging and Monitoring](https://owasp.org/www-project-proactive-controls/v3/en/c9-security-logging.html)
     
 - [OWASP Application Security Verification Standard: V7 Logging and Monitoring](https://owasp.org/www-project-application-security-verification-standard)

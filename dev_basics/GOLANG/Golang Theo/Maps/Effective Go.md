@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Read the following paraphrased sections from [effective Go regarding maps](https://go.dev/doc/effective_go#maps):
 
 ## Like Slices, Maps Hold References

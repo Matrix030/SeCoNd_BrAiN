@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[Null Values]]
 [[L2. Constraints]]
 [[Primary Keys]]

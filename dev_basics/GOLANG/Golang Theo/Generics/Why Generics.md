@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 ## Generics Reduce Repetitive Code
 
 You should care about generics because they mean you don’t have to write as much code! It can be frustrating to write the same logic over and over again, just because you have some underlying data types that are slightly different.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Let's look at this simple example again:
 
 ```go

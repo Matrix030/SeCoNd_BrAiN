@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Many functions, especially those in the standard library, can take an arbitrary number of _final_ arguments. This is accomplished by using the "..." syntax in the function signature.
 
 A variadic function receives the variadic arguments as a slice.

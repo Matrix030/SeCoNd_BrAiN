@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression]
+---
 # Simple Linear Regression
 
 ![[Pasted image 20250609090447.png]]

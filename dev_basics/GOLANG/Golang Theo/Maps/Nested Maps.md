@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Maps can contain maps, creating a nested structure. For example:
 
 ```go

@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, injection]
+---
 - [OWASP Proactive Controls: Secure Database Access](https://owasp.org/www-project-proactive-controls/v3/en/c3-secure-database)
     
 - [OWASP ASVS: V5 Input Validation and Encoding](https://owasp.org/www-project-application-security-verification-standard)

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[L1 CRUD]]
 [[Insert Statement]]
 [[HTTP CRUD Database Lifecycle]]

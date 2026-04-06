@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The `default` case in a `select` statement executes _immediately_ if no other channel has a value ready. A `default` case stops the `select` statement from blocking.
 
 ```go

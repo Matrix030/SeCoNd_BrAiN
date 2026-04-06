@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You can also search multiple files at once. For example, if we wanted to search for the word "hello" in `hello.txt` and `hello2.txt`, we could run:
 
 ```bash

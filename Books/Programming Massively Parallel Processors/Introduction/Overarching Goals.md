@@ -1,3 +1,6 @@
+---
+tags: [book, gpu, cuda, parallel-computing, book-pmpp]
+---
 "if you don’t care about performance parallel programming is very easy"
 We will show that with the CUDA programming model that focuses on data parallelism, one can achieve
 both high performance and high reliability in their applications.

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Servers are interesting because they're _always running._ A lot of the code we've written in Boot.dev up to this point has acted more like a command line tool: it runs, does its thing, and then exits.
 
 Servers are different. They run forever, waiting for requests to come in, processing them, sending responses, and then waiting for the next request. If they didn't work this way, websites and apps would be down and unavailable _all the time_!

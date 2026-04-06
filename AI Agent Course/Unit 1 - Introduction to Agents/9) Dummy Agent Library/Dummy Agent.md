@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 In the previous sections, we saw that the core of an agent library is to append information in the system prompt.
 
 This system prompt is a bit more complex than the one we saw earlier, but it already contains:

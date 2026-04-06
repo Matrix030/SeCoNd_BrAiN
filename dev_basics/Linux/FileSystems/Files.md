@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You're probably familiar with the concept of files from using a GUI like Windows Explorer or Finder.
 
 At their core, files are just blobs of data. The raw bytes in a file can represent anything: text, images, videos, etc.

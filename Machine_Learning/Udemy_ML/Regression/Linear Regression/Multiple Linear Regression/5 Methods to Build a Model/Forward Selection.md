@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 #### 🧠 What Is It?
  **Forward Selection** is a stepwise model-building method where you **start with nothing** and **add one variable at a time**, choosing the most statistically significant one at each step.
 It’s the opposite of Backward Elimination, but **not just reversed**—it involves **constructing and comparing many models** as you build up.

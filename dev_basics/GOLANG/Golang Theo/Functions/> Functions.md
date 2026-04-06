@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Functions"]
+---
 [[L1. Functions]]
 [[Multiple Parameters]]
 [[Declaration Syntax (GO)]]

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Welcome to "Learn Linux"! Admittedly, the course name is a _bit_ of a misnomer. It's called "Learn Linux" because "Linux" is what most students _think_ of regarding the concepts in this course. A more accurate title might be "Learn to use shells and terminals in a Unix-like environment", but that's a mouthful.
 
 ## Learning Goals

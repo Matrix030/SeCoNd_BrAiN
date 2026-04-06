@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 # Optional Lab: Model Representation
 
 ![[Pasted image 20250817165110.png]]

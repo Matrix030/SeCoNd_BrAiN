@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As you may expect, the `MAX` function retrieves the _largest_ value from a set of values. For example:
 
 ```sql

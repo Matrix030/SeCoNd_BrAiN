@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 You may be wondering:
 
 > How the heck am I supposed to memorize how all these different servers work???

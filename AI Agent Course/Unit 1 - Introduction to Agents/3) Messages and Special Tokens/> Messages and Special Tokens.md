@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction, tokenization]
+aliases: ["Messages and Special Tokens"]
+---
 Now that we understand how LLMs work, let’s look at **how they structure their generations through chat templates**.
 
 Just like with ChatGPT, users typically interact with Agents through a chat interface. Therefore, we aim to understand how LLMs manage chats.

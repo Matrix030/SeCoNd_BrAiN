@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, cryptography]
+---
 - [OWASP Proactive Controls: Protect Data Everywhere](https://owasp.org/www-project-proactive-controls/v3/en/c8-protect-data-everywhere)
     
 - [OWASP Application Security Verification Standard (V7, 9, 10)](https://owasp.org/www-project-application-security-verification-standard)

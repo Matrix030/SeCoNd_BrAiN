@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents, code-agents]
+---
 ![From https://huggingface.co/docs/smolagents/conceptual_guides/react](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/codeagent_docs.png)
 
 The diagram above illustrates how `CodeAgent.run()` operates, following the [[The ReAct Approach | ReAct]] framework we mentioned in Unit 1. The main abstraction for agents in `smolagents` is a `MultiStepAgent`, which serves as the core building block. `CodeAgent` is a special kind of `MultiStepAgent`, as we will see in an example below.

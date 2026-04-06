@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera, regression, logistic-regression]
+---
 # Optional Lab: Logistic Regression, Decision Boundary
 
 

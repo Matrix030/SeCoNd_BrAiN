@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 ## The Stop and Parse Approach
 
 One key method for implementing actions is the **stop and parse approach**. This method ensures that the agent’s output is structured and predictable:

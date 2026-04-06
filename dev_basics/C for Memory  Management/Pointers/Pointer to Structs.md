@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As you know, when you have a struct, you can access the fields with the dot (`.`) operator:
 
 ```c

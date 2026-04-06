@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm]
+---
 You have two main options:
 
 1. **Run Locally** (if you have sufficient hardware).

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Understanding how your _software_ runs on _hardware_ is important for writing fast, performant code. In this course we'll be talking all about one of the main aspects of software performance: **memory management**.
 
 Your browser does not support playing HTML5 video. You can instead. Here is a description of the content: Welcome To Memory Management

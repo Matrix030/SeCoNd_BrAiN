@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As discussed, the `%` wildcard operator matches zero or more characters. Meanwhile, the `_` wildcard operator only matches a _single_ character.
 
 ```sql

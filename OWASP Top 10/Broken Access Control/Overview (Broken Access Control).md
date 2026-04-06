@@ -1,1 +1,4 @@
+---
+tags: [security, owasp, web-security, access-control]
+---
 Moving up from the fifth position, 94% of applications were tested for some form of broken access control with the average incidence rate of 3.81%, and has the most occurrences in the contributed dataset with over 318k. Notable Common Weakness Enumerations (CWEs) included are _CWE-200: Exposure of Sensitive Information to an Unauthorized Actor_, _CWE-201: Insertion of Sensitive Information Into Sent Data_, and _CWE-352: Cross-Site Request Forgery_.

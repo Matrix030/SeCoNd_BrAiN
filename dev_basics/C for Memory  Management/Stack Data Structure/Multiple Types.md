@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So we saw that we _can_ push both `int`and `int *` types into the same stack (again, a **bad idea**).
 
 In this example, we'll see that not only can you push values and pointers into the same stack, but you can also push different types of values into the same stack.

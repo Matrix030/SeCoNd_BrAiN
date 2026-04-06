@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, access-control]
+---
 ## Factors
 
 | [[CWEs ]]Mapped | Max Incidence Rate | Avg Incidence Rate | Avg Weighted Exploit | Avg Weighted Impact | Max Coverage | Avg Coverage | Total Occurrences | Total CVEs |

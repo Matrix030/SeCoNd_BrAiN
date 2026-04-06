@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Go has two styles of comments:
 
 ```go

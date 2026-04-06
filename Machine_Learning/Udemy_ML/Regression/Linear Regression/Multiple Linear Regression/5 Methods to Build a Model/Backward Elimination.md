@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, linear-regression, multiple-linear-regression]
+---
 ![[Pasted image 20250609111421.png]]
 #### 🧠 What Is It?
 > **Backward Elimination** is a step-by-step model simplification technique.  

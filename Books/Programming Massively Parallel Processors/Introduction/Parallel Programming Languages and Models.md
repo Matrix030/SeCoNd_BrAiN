@@ -1,3 +1,6 @@
+---
+tags: [book, gpu, cuda, parallel-computing, book-pmpp]
+---
 Many parallel programming languages and models have been proposed in
 the past several decades [Mattson 2004]. The ones that are the most widely
 used are the Message Passing Interface (MPI) for scalable cluster com-

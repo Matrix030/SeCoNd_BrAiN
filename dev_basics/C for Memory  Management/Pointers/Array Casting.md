@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Let's explore a special kind of psychopathy that's possible in C. Let's assume we have this array of 3 structs where each struct holds 3 integers:
 
 ```c

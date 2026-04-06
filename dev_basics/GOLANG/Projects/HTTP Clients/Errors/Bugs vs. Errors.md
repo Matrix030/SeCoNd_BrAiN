@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Error handling is **not** the same as debugging. Likewise, errors are **not** the same as bugs.
 
 - Good code with no bugs can still produce errors that are gracefully handled

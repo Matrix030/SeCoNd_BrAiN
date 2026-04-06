@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 - Use digital signatures or similar mechanisms to verify the software or data is from the expected source and has not been altered.
     
 - Ensure libraries and dependencies, such as npm or Maven, are consuming trusted repositories. If you have a higher risk profile, consider hosting an internal known-good repository that's vetted.

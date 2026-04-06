@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 The C standard library provides a comprehensive set of functions to manipulate strings in the `<string.h>` header file. Here are some of the most commonly used functions:
 
 - [`strcpy`](https://en.cppreference.com/w/c/string/byte/strcpy): Copies a string to another.

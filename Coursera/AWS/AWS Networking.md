@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, networking]
+---
 [[Networking on AWS]]
 [[Introduction to Amazon VPC]]
 [[Amazon VPC Routing and Security]]

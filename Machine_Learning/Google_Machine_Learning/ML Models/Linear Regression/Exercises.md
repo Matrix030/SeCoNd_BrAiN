@@ -1,3 +1,6 @@
+---
+tags: [ml, google, regression, linear-regression]
+---
 # Part 1 - Setup Exercise
 ## Load required modules
 This exercise depends on several Python libraries to help with data manipulation, machine learning tasks, and data visualization.

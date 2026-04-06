@@ -1,3 +1,6 @@
+---
+tags: [ml, google, regression, logistic-regression]
+---
 Many problems require a probability estimate as output. [**Logistic regression**](https://developers.google.com/machine-learning/glossary#logistic_regression) is an extremely efficient mechanism for calculating probabilities. Practically speaking, you can use the returned probability in either of the following two ways:
 
 - Applied "as is." For example, if a spam-prediction model takes an email as input and outputs a value of `0.932`, this implies a `93.2%` probability that the email is spam.

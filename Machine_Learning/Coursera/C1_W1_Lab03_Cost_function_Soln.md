@@ -1,3 +1,6 @@
+---
+tags: [ml, coursera]
+---
 # Optional  Lab: Cost Function 
 ![[Pasted image 20250817165832.png]]
 

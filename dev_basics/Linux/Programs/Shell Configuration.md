@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Bash and Zsh both have [configuration files](https://en.wikipedia.org/wiki/Unix_shell#Configuration_files) that run automatically each time you start a new shell session. These files are used to set up your shell environment. They can be used to set up aliases, functions, and environment variables.
 
 These files are located in your home directory (`~`) and are hidden by default. The `ls` command has a `-a` flag that will show hidden files:

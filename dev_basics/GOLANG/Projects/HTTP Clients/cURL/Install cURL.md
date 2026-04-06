@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 [cURL](https://curl.se/) is a command-line tool for transferring data using various protocols, like HTTP and HTTPS. It’s a favorite among developers. Among other things, developers use cURL for:
 
 - **Quick testing**: make HTTP requests with a single command.

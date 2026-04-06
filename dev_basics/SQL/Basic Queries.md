@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 [[SQL Functions]]
 [[Between]]
 [[Distinct]]

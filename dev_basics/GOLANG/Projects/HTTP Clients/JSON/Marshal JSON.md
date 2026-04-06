@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 If there is a way to [unmarshal](https://pkg.go.dev/encoding/json#Unmarshal) JSON data, there must be a way to marshal it as well. The [`json.Marshal`](https://pkg.go.dev/encoding/json#Marshal) function converts a Go struct into a slice of bytes representing JSON data.
 
 ## Example

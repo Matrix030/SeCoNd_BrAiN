@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction, llm, tools]
+---
 Our tool was written in Python, and the implementation already provides everything we need:
 
 - A descriptive name of what it does: `calculator`

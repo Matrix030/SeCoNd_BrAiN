@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Foreign keys are what make relational databases relational! Foreign keys define the relationships _between_ tables. Simply put, a `FOREIGN KEY` is a field in one table that references another table's `PRIMARY KEY`.
 
 ## Creating a Foreign Key in SQLite

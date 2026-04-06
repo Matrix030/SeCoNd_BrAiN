@@ -1,3 +1,6 @@
+---
+tags: [coursera, aws, cloud, iam]
+---
 ### Lab Overview
 
 ![[Pasted image 20250717124011.png]]

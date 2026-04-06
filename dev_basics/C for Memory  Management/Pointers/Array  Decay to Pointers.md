@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 So we know that arrays are _like_ pointers, but they're not exactly the same. Arrays allocate memory for all their elements, whereas pointers just hold the address of a memory location. In many contexts, [arrays **decay** to pointers](https://port70.net/~nsz/c/c11/n1570.html#6.3.2.1), meaning the array name _becomes_ "just" a pointer to the first element of the array.
 
 ## When Arrays Decay

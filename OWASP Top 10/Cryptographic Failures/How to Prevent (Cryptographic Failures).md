@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, cryptography]
+---
 Do the following, at a minimum, and consult the references:
 
 - Classify data processed, stored, or transmitted by an application. Identify which data is sensitive according to privacy laws, regulatory requirements, or business needs.

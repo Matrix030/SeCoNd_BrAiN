@@ -1,3 +1,7 @@
+---
+tags: [security, owasp, web-security, access-control]
+aliases: ["Broken Access Control"]
+---
 [[Factors (Broken Access Control)]]
 [[Overview (Broken Access Control)]]
 [[Description (Broken Access Control)]]

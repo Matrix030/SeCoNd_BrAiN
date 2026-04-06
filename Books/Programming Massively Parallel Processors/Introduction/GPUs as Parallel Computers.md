@@ -1,3 +1,6 @@
+---
+tags: [book, gpu, cuda, parallel-computing, book-pmpp]
+---
 The multicore trajectory seeks to maintain the execution speed of sequential programs while moving into multiple cores.
 
 In contrast, the many-core trajectory focuses more on the execution

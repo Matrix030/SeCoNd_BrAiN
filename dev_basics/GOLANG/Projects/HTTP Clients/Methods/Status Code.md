@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http, http-methods]
+---
 The `Status Code` of an HTTP _response_ tells the client whether or not the server was able to fulfill the request. Status codes are 3-digit numbers that are grouped into categories:
 
 - `100-199`: Informational responses. These are very rare.

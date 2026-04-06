@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 SQL is a programming language and like nearly all programming languages, it supports functions. We can use functions and aliases to _calculate_ new columns in a query. This is similar to how you might use formulas in Excel.
 
 A calculated column is a new column that doesn't exist in the original table but is created on the fly when you run a query.

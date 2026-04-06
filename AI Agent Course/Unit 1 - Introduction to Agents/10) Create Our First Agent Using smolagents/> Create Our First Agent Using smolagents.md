@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-1, introduction, smolagents]
+aliases: ["Create Our First Agent Using smolagents"]
+---
 In the last section, we learned how we can create Agents from scratch using Python code, and we **saw just how tedious that process can be**. Fortunately, many Agent libraries simplify this work by **handling much of the heavy lifting for you**.
 
 In this tutorial, **you’ll create your very first Agent** capable of performing actions such as image generation, web search, time zone checking and much more!

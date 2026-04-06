@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Sad variable declaration:
 
 ```go

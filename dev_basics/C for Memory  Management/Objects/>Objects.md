@@ -1,3 +1,7 @@
+---
+tags: [dev-basics]
+aliases: ["Objects"]
+---
 [[SnekObjects]]
 [[Integer]]
 [[Float]]

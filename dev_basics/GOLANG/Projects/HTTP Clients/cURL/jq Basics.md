@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Once installed, you can use `jq` to parse and manipulate JSON data. Here's a simple example to get you started. Suppose you have a JSON file named `user.json`:
 
 ```json

@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The standard library also exposes a [sync.RWMutex](https://golang.org/pkg/sync/#RWMutex)
 
 In addition to these methods:

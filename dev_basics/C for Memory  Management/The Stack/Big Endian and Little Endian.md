@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 While we are on the topic of memory, it's worth knowing about "endianness". Endianness is the order in which bytes are stored in memory. The two most common formats are big endian and little endian.
 
 ## Big Endian

@@ -1,3 +1,7 @@
+---
+tags: [ai-agents, course, unit-2, frameworks]
+aliases: ["When to Use an Agentic Framework"]
+---
 An agentic framework is **not always needed when building an application around LLMs**. They provide flexibility in the workflow to efficiently solve a specific task, but they’re not always necessary.
 
 Sometimes, **predefined workflows are sufficient** to fulfill user requests, and there is no real need for an agentic framework. If the approach to build an agent is simple, like a chain of prompts, using plain code may be enough. The advantage is that the developer will have **full control and understanding of their system without abstractions**.

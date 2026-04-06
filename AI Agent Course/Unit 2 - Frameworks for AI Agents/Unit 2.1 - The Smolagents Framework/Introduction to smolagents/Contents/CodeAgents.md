@@ -1,1 +1,4 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 `CodeAgents` are the primary type of agent in `smolagents`. Instead of generating JSON or text, these agents produce Python code to perform actions. This module explores their purpose, functionality, and how they work, along with hands-on examples to showcase their capabilities.

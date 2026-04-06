@@ -1,3 +1,7 @@
+---
+tags: [dev-basics, golang]
+aliases: ["Maps"]
+---
 [[L1. Maps]]
 [[Mutations]]
 [[Key Types]]

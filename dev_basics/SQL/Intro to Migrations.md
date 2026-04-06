@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A database [migration](https://en.wikipedia.org/wiki/Schema_migration) is a set of changes to a relational database. In fact, the `ALTER TABLE` statements we did in the last exercise were examples of migrations!
 
 Migrations are helpful when transitioning from one state to another, fixing mistakes, or adapting a database to changes.

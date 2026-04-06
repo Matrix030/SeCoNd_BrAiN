@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 As we talked about before:
 
 - If you're using Ubuntu on WSL, you're probably running a [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)) shell.

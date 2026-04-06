@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 The [`go install` command](https://pkg.go.dev/cmd/go#hdr-Compile_and_install_packages_and_dependencies) compiles and installs a package or packages on your local machine for your personal usage. It installs the package's compiled binary in the `GOBIN` directory. _(We installed the [bootdev cli](https://github.com/bootdotdev/bootdev) with it, after all)_
 
 ## Assignment

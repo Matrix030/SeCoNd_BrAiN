@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, access-control]
+---
 [CWE-22 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')](https://cwe.mitre.org/data/definitions/22.html)
 
 [CWE-23 Relative Path Traversal](https://cwe.mitre.org/data/definitions/23.html)

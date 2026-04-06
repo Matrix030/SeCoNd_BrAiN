@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, injection]
+---
 [CWE-20 Improper Input Validation](https://cwe.mitre.org/data/definitions/20.html)
 
 [CWE-74 Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')](https://cwe.mitre.org/data/definitions/74.html)

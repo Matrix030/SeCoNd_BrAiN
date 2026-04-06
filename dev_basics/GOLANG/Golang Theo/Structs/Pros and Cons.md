@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 To solve our cyclic reference issue (and to force you to implement another GC algorithm, HA!) we're going to implement a [Mark and Sweep](https://en.wikipedia.org/wiki/Tracing_garbage_collection#Na%C3%AFve_mark-and-sweep) garbage collector.
 
 ## Pros of MaS

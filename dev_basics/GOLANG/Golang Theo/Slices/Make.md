@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang]
+---
 Most of the time we don't need to think about the underlying array of a slice. We can create a new slice using the [make](https://pkg.go.dev/builtin#make) function:
 
 ```go

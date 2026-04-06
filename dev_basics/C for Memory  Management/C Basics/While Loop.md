@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 A `while` loop in C is a control flow statement that allows code to be executed repeatedly based on a given boolean (`true`/`false`) condition. The loop continues to execute as long as the condition remains true.
 
 ## Syntax

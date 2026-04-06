@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You'll often want to re-run a command. You could just type it out again, but assuming you don't have the [WPM](https://en.wikipedia.org/wiki/Words_per_minute) of [ThePrimeagen](https://www.boot.dev/teachers/the-primeagen), that's a pain.
 
 ## Arrow Keys

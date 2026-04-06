@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security, logging]
+---
 Developers should implement some or all the following controls, depending on the risk of the application:
 
 - Ensure all login, access control, and server-side input validation failures can be logged with sufficient user context to identify suspicious or malicious accounts and held for enough time to allow delayed forensic analysis.

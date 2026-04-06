@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-2, frameworks, smolagents]
+---
 > You can follow the code in [this notebook](https://huggingface.co/agents-course/notebooks/blob/main/unit2/smolagents/code_agents.ipynb) that you can run using Google Colab.
 
 Alfred is planning a party at the Wayne family mansion and needs your help to ensure everything goes smoothly. To assist him, we’ll apply what we’ve learned about how a multi-step `CodeAgent` operates.

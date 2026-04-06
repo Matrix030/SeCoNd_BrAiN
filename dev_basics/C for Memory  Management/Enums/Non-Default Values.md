@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Sometimes, you don't just want to enumerate some _names_ (where the underlying integer constant values don't really matter)... you want to set those enumerations to _specific_ values. For example, you might want to define a program's [exit status codes](https://en.wikipedia.org/wiki/Exit_status):
 
 ```c

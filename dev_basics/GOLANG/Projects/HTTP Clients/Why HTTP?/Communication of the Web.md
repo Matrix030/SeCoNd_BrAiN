@@ -1,3 +1,6 @@
+---
+tags: [dev-basics, golang, http]
+---
 Instagram would be pretty terrible if you had to manually copy your photos to your friend's phone when you wanted to share them. Modern applications need to be able to communicate information _between devices_ over the internet.
 
 - Gmail doesn't just store your emails in variables on your computer, it stores them on computers in their data centers

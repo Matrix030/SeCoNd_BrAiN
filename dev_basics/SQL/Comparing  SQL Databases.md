@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 Let's dive deeper and talk about some of the popular SQL Databases and what makes them different from one another. Some of the most popular SQL Databases right now are:
 
 - [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)

@@ -1,3 +1,6 @@
+---
+tags: [ml, udemy, regression, random-forest]
+---
 ![[Pasted image 20250610104227.png]]
 ## 🌲 Random Forests for Regression – Intuition & Overview
 ### 📘 What Is a Random Forest?

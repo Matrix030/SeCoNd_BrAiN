@@ -1,3 +1,6 @@
+---
+tags: [dev-basics]
+---
 You can use a `WHERE` clause to filter values by whether or not they're `NULL`.
 
 ## IS NULL

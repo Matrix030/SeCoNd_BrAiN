@@ -1,3 +1,6 @@
+---
+tags: [security, owasp, web-security]
+---
 **CORS** stands for **Cross-Origin Resource Sharing**.
 
 ### 🧠 In Simple Terms:

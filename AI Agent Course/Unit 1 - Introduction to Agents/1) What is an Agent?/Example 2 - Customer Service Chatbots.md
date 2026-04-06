@@ -1,3 +1,6 @@
+---
+tags: [ai-agents, course, unit-1, introduction]
+---
 Many companies deploy chatbots as agents that interact with customers in natural language.
 
 These agents can answer questions, guide users through troubleshooting steps, open issues in internal databases, or even complete transactions.
