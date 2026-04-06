@@ -15,9 +15,22 @@ Scan your requirements and pull out meaningful **nouns**. Apply this filter:
 
 - **Maintains changing state or enforces rules?** → Its own entity.
 - **Just information attached to something else?** → A field on another class.
+- **Only appears as an input to an operation?** → A parameter, not an entity.
 
 > [!warning] Don't over-model
 > Not every noun deserves a class. Keep it lean — too many micro-objects bloats the design.
+
+**Example:** In an Amazon Locker system, *Package* looks like an obvious entity — but the system only cares about its size. It's just an input parameter to `depositPackage(size)`. The package itself lives in another system.
+
+## Where Does State Belong?
+
+When deciding where to put state, ask whether it's **physical** or **relational**:
+
+- **Physical state** (is this compartment occupied? is this door broken?) describes the entity's own condition → lives **on the entity**
+- **Relational state** (which compartment is assigned to which token?) describes system-managed relationships → lives **in the orchestrator**
+
+> [!tip] Both are defensible
+> Putting `occupied` on `Compartment` and putting it in a `Set` on the orchestrator are both valid. What matters is having a rationale you can explain.
 
 ## Define Relationships
 
