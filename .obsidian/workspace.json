@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/> LLD Design Patterns.md",
+                "file": "System Design/Concurrency - Scarcity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "> LLD Design Patterns"
+              "title": "Concurrency - Scarcity"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "patterns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 300.5004348754883
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -185,42 +183,42 @@
   },
   "active": "4985064a05ee9078",
   "lastOpenFiles": [
+    "System Design/> Concurrency.md",
+    "System Design/> LLD Delivery Framework.md",
+    "System Design/Concurrency - Scarcity.md",
+    "System Design/Concurrency - Scarcity.md.tmp.41193.1775591418275",
+    "System Design/Concurrency - Coordination.md",
+    "System Design/Concurrency - Correctness.md",
+    "System Design/Concurrency - Coordination.md.tmp.41193.1775591282528",
+    "System Design/> LLD Design Principles.md",
+    "System Design/Concurrency - Correctness.md.tmp.41193.1775591157471",
+    "System Design/> LLD Design Patterns.md",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589825481",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589797458",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589790353",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589784956",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589776313",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589770800",
+    "System Design/> LLD Design Patterns.md.tmp.39083.1775589746201",
     "CLAUDE.md",
     "Home.md",
     "lld ratelimiter.md",
     "Daily Log.md",
-    "System Design/> LLD Design Patterns.md",
     "OWASP Top 10/Broken Access Control/> Broken Access Control.md",
     "System Design/LLD Practice Interview Prompt.md",
-    "System Design/> LLD Delivery Framework.md",
     "System Design/LLD - Entities and Relationships.md",
     "System Design/LLD - Requirements.md",
-    "System Design/> LLD Design Principles.md",
     "System Design/> LLD OOP Concepts.md",
     "System Design/CLAUDE.md",
     "System Design/LLD - Class Design.md",
     "System Design/LLD - Extensibility.md",
     "System Design/LLD - Implementation.md",
     "System Design/LLD Interview Cheat Sheet.md",
-    "System Design/> Concurrency.md",
     "System Design/Problems/Elevator.md",
-    "System Design/Problems/Elevator.md.tmp.20797.1775508104149",
-    "System Design/LLD Practice Interview Prompt.md.tmp.20797.1775506093873",
-    "System Design/LLD Interview Cheat Sheet.md.tmp.20797.1775505876362",
-    "System Design/LLD Interview Cheat Sheet.md.tmp.20797.1775505869621",
     "System Design/Problems/Connect Four.md",
     "System Design/Problems/Amazon Locker.md",
     "dev_basics/GOLANG/> GOLANG CONNECTOR.md",
     "Algorithms/CLAUDE.md",
-    "personal/aboutme.md",
-    "System Design/> Concurrency.md.tmp.56174.1775413144300",
-    "System Design/> LLD Design Patterns.md.tmp.56174.1775412386553",
-    "System Design/LLD.md",
-    "System Design/> LLD OOP Concepts.md.tmp.56174.1775410826142",
-    "System Design/> LLD Design Principles.md.tmp.56174.1775410774452",
-    "System Design/CLAUDE.md.tmp.56174.1775409582057",
-    "System Design/LLD - Extensibility.md.tmp.56174.1775409573306",
-    "System Design/LLD Delivery Framework.md",
     "Pasted image 20260320122014.png",
     "Pasted image 20260320150232.png",
     "Pasted image 20260320150217.png",
