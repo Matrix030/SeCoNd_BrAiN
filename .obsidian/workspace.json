@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Concurrency - Scarcity.md",
+                "file": "System Design/> Concurrency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concurrency - Scarcity"
+              "title": "> Concurrency"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5004348754883
+    "width": 214.50043487548828
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -183,9 +183,11 @@
   },
   "active": "4985064a05ee9078",
   "lastOpenFiles": [
+    "System Design/Problems/Rate Limiter.md",
+    "System Design/Concurrency - Scarcity.md",
+    "System Design/Problems/Rate Limiter.md.tmp.44644.1775597910483",
     "System Design/> Concurrency.md",
     "System Design/> LLD Delivery Framework.md",
-    "System Design/Concurrency - Scarcity.md",
     "System Design/Concurrency - Scarcity.md.tmp.41193.1775591418275",
     "System Design/Concurrency - Coordination.md",
     "System Design/Concurrency - Correctness.md",
@@ -199,7 +201,6 @@
     "System Design/> LLD Design Patterns.md.tmp.39083.1775589784956",
     "System Design/> LLD Design Patterns.md.tmp.39083.1775589776313",
     "System Design/> LLD Design Patterns.md.tmp.39083.1775589770800",
-    "System Design/> LLD Design Patterns.md.tmp.39083.1775589746201",
     "CLAUDE.md",
     "Home.md",
     "lld ratelimiter.md",
@@ -218,7 +219,6 @@
     "System Design/Problems/Connect Four.md",
     "System Design/Problems/Amazon Locker.md",
     "dev_basics/GOLANG/> GOLANG CONNECTOR.md",
-    "Algorithms/CLAUDE.md",
     "Pasted image 20260320122014.png",
     "Pasted image 20260320150232.png",
     "Pasted image 20260320150217.png",
