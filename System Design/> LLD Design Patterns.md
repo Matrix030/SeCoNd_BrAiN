@@ -50,6 +50,20 @@ class NotificationFactory:
 
 Adding push notifications = modify the factory in one place. Everything else stays untouched.
 
+```python
+# Another example: Vehicle factory
+class VehicleFactory:
+    @staticmethod
+    def create(vehicle_type: str) -> Vehicle:
+        if vehicle_type == "car":
+            return Car()
+        elif vehicle_type == "bike":
+            return Bike()
+        elif vehicle_type == "truck":
+            return Truck()
+        raise ValueError("Unknown vehicle type")
+```
+
 > [!tip] Simple Factory vs GoF Factory Method
 > What you'll actually build and what interviewers expect is the Simple Factory above. The GoF version uses abstract factory classes with overriding subclasses — more complex, rarely seen in practice.
 
@@ -73,6 +87,17 @@ request = (HttpRequest.Builder()
     .build())  # validates required fields here
 ```
 
+```python
+# Another example: SQL query builder
+query = (QueryBuilder()
+    .select("id", "name", "email")
+    .from_table("users")
+    .where("age > 18")
+    .order_by("name")
+    .limit(50)
+    .build())  # → "SELECT id, name, email FROM users WHERE age > 18 ORDER BY name LIMIT 50"
+```
+
 > [!warning] Niche use case
 > Only reaches for this when the problem explicitly involves complex objects with lots of optional details — API clients, query builders, config objects. Simple domain objects with 2-4 fields don't need it.
 
@@ -92,6 +117,22 @@ class DatabaseConnection:
         if cls._instance is None:
             cls._instance = super().__new__(cls)
         return cls._instance
+```
+
+```python
+# Another example: App config loaded once at startup
+class AppConfig:
+    _instance = None
+
+    def __new__(cls):
+        if cls._instance is None:
+            cls._instance = super().__new__(cls)
+            cls._instance.settings = cls._load_from_env()
+        return cls._instance
+
+config1 = AppConfig()
+config2 = AppConfig()
+assert config1 is config2  # same object
 ```
 
 > [!warning] Usually the wrong answer
@@ -119,6 +160,16 @@ source.write_data("sensitive info")
 
 Each decorator adds one thing. Stack in any order. Add or remove without touching the base class.
 
+```python
+# Another example: Coffee order pricing
+coffee = SimpleCoffee()            # $1.00
+coffee = MilkDecorator(coffee)     # +$0.25
+coffee = SugarDecorator(coffee)    # +$0.10
+coffee = WhipDecorator(coffee)     # +$0.50
+print(coffee.cost())               # $1.85
+print(coffee.description())        # "Coffee, Milk, Sugar, Whip"
+```
+
 > [!tip] Decorator vs Subclass
 > - **Runtime condition** (add logging only in debug mode) → Decorator
 > - **Fixed type difference** (a PremiumAccount is always different) → Subclass
@@ -139,6 +190,24 @@ Your `Game` class in Tic Tac Toe is a facade. Any orchestrator that coordinates 
 game = Game()
 game.make_move(0, 0)
 game.make_move(1, 1)
+```
+
+```python
+# Another example: Home theater facade hides Projector, Amplifier, Lights, DVD
+class HomeTheater:
+    def watch_movie(self, movie: str):
+        self.lights.dim(10)
+        self.projector.on()
+        self.amplifier.set_volume(5)
+        self.dvd.play(movie)
+
+    def end_movie(self):
+        self.dvd.stop()
+        self.projector.off()
+        self.lights.on()
+
+theater = HomeTheater()
+theater.watch_movie("Inception")  # caller touches one object
 ```
 
 > [!tip] You don't need to name it
@@ -168,6 +237,17 @@ cart.checkout(50.00)
 
 No `if paymentType == "credit"` anywhere in `checkout`. Each strategy handles itself.
 
+```python
+# Another example: Sorting strategy
+sorter = DataSorter()
+
+sorter.set_strategy(QuickSort())
+sorter.sort([5, 2, 8, 1])  # uses quicksort
+
+sorter.set_strategy(MergeSort())
+sorter.sort([5, 2, 8, 1])  # uses mergesort — same interface, different algorithm
+```
+
 > [!tip] Strategy vs Factory
 > **Factory** — decides *which object to create* (one-time, at instantiation).
 > **Strategy** — decides *which behavior to use* after the object already exists (swappable at runtime).
@@ -190,6 +270,17 @@ stock.set_price(155.00)  # both observers get called automatically
 
 `Stock` doesn't know what `PriceDisplay` or `PriceAlert` do with the update. It just fires.
 
+```python
+# Another example: User service notifying downstream systems on signup
+user_service = UserService()
+user_service.subscribe(EmailVerificationHandler())
+user_service.subscribe(WelcomeBonusHandler())
+user_service.subscribe(AnalyticsHandler())
+
+user_service.register("alice@example.com")
+# → all three handlers fire automatically
+```
+
 ---
 
 ### State Machine
@@ -208,6 +299,18 @@ NoCoinState  →(insert_coin)→  HasCoinState  →(select_product)→  Dispense
 ```
 
 Each state class handles all actions. Invalid actions print an error and don't transition. No giant switch statements anywhere.
+
+```python
+# Another example: Order lifecycle
+# States: Placed → Confirmed → Shipped → Delivered
+#                ↘ Cancelled (from Placed or Confirmed only)
+
+order = Order()                  # state: Placed
+order.confirm()                  # → Confirmed
+order.ship()                     # → Shipped
+order.cancel()                   # error: can't cancel a shipped order
+order.deliver()                  # → Delivered
+```
 
 > [!tip] When it appears, it's the centerpiece
 > If a state machine belongs in your solution, the whole interview is organized around it. Spend time on it.
