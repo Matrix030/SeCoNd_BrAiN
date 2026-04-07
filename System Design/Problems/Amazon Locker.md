@@ -94,7 +94,7 @@ class Compartment:
 
 ### `depositPackage`
 
-```
+```python
 depositPackage(size)
     compartment = getAvailableCompartment(size)
     if compartment == null
