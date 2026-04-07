@@ -1,0 +1,1 @@
+each limiter type will have its own class, the main ratelimiter class can loook at the incoming request and delegate the request to the corresponding limiter based on the config present in the incoming request. we will use factory here as factory contain every type of limiter with it and it will return the appropriate limiter based on the request sent by the ratelimiter class

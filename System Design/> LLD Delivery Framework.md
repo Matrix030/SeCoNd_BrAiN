@@ -27,13 +27,13 @@ Most candidates fail not from lack of knowledge, but poor time management:
 
 ## The Five Phases
 
-| Phase | Time | Focus |
-|-------|------|-------|
-| [[LLD - Requirements\|Requirements]] | ~5 min | Turn a vague prompt into a concrete spec |
-| [[LLD - Entities and Relationships\|Entities & Relationships]] | ~3 min | Identify core objects and ownership |
-| [[LLD - Class Design\|Class Design]] | ~10-15 min | Define state and behavior per class |
-| [[LLD - Implementation\|Implementation]] | ~10 min | Pseudo-code the key methods |
-| [[LLD - Extensibility\|Extensibility]] | ~5 min | Show your design handles follow-ups cleanly |
+| Phase                                                          | Time       | Focus                                       |
+| -------------------------------------------------------------- | ---------- | ------------------------------------------- |
+| [[LLD - Requirements\|Requirements]]                           | ~5 min     | Turn a vague prompt into a concrete spec    |
+| [[LLD - Entities and Relationships\|Entities & Relationships]] | ~3 min     | Identify core objects and ownership         |
+| [[LLD - Class Design\|Class Design]]                           | ~10-15 min | Define state and behavior per class         |
+| [[LLD - Implementation\|Implementation]]                       | ~10 min    | Pseudo-code the key methods                 |
+| [[LLD - Extensibility\|Extensibility]]                         | ~5 min     | Show your design handles follow-ups cleanly |
 
 ---
 

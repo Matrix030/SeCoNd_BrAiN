@@ -16,15 +16,15 @@ Reusable building blocks for common design problems. Names for structures that e
 
 GoF defined 23 patterns in 1994. Modern interviews care about ~8.
 
-| Category | Pattern | Use when... |
-|---|---|---|
-| Creational | [[#Factory]] | Callers shouldn't care which concrete class gets created |
-| Creational | [[#Builder]] | Object has lots of optional fields or messy construction |
-| Creational | [[#Singleton]] | You truly need one global instance (rare) |
-| Structural | [[#Decorator]] | Layer optional behaviors at runtime without subclass explosion |
-| Structural | [[#Facade]] | Hide internal complexity behind a simple entry point |
-| Behavioral | [[#Strategy]] | Replace if/else logic with interchangeable behaviors |
-| Behavioral | [[#Observer]] | Multiple components react to a single event |
+| Category   | Pattern            | Use when...                                                          |
+| ---------- | ------------------ | -------------------------------------------------------------------- |
+| Creational | [[#Factory]]       | Callers shouldn't care which concrete class gets created             |
+| Creational | [[#Builder]]       | Object has lots of optional fields or messy construction             |
+| Creational | [[#Singleton]]     | You truly need one global instance (rare)                            |
+| Structural | [[#Decorator]]     | Layer optional behaviors at runtime without subclass explosion       |
+| Structural | [[#Facade]]        | Hide internal complexity behind a simple entry point                 |
+| Behavioral | [[#Strategy]]      | Replace if/else logic with interchangeable behaviors                 |
+| Behavioral | [[#Observer]]      | Multiple components react to a single event                          |
 | Behavioral | [[#State Machine]] | Object behavior depends on current state and transitions get complex |
 
 ---
