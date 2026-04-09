@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/LLD/CLAUDE.md",
+                "file": "2026-04-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "2026-04-08"
+            }
+          },
+          {
+            "id": "cf9e7460b93163ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gemma4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gemma4"
+            }
+          },
+          {
+            "id": "b2492dbb9f35ecb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/HLD/whatsapp.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "whatsapp"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,8 +208,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3baec217e5c6310",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
+    "gemma4.md",
+    "System Design/HLD/whatsapp.md",
+    "System Design/HLD/Rate_Limiter.md",
+    "Pasted Image 20260409005806_460.png",
+    "Pasted Image 20260409005806_459.png",
+    "Pasted Image 20260409005806_458.png",
+    "Pasted Image 20260409005806_455.png",
+    "Excalidraw/Drawing 2026-04-08 23.26.28.excalidraw.md",
+    "System Design/HLD/bit.ly.md",
+    "System Design/HLD/bit.ly.md",
+    "Excalidraw/Drawing 2026-04-08 23.25.33.excalidraw.md",
+    "2026-04-08.md",
+    "Excalidraw",
+    "System Design/LLD/CLAUDE.md",
     "System Design/LLD/LLD Practice Interview Prompt.md",
     "System Design/HLD",
     "CLAUDE.md",
@@ -203,30 +244,17 @@
     "System Design/LLD/Problems/File System.md",
     "System Design/Problems/File System.md.tmp.241280.1775667281281",
     "System Design/LLD/> Concurrency.md",
-    "System Design/LLD/Concurrency - Scarcity.md",
     "System Design/Problems/Rate Limiter.md.tmp.44644.1775597910483",
-    "System Design/LLD/> LLD Delivery Framework.md",
     "System Design/Concurrency - Scarcity.md.tmp.41193.1775591418275",
     "System Design/Concurrency - Coordination.md.tmp.41193.1775591282528",
-    "System Design/LLD/> LLD Design Principles.md",
     "System Design/Concurrency - Correctness.md.tmp.41193.1775591157471",
     "System Design/> LLD Design Patterns.md.tmp.39083.1775589825481",
     "System Design/> LLD Design Patterns.md.tmp.39083.1775589797458",
-    "System Design/> LLD Design Patterns.md.tmp.39083.1775589790353",
-    "Daily Log.md",
-    "OWASP Top 10/Broken Access Control/> Broken Access Control.md",
-    "System Design/LLD/CLAUDE.md",
-    "System Design/LLD/LLD Interview Cheat Sheet.md",
-    "System Design/LLD/Problems/Elevator.md",
     "Pasted image 20260320122014.png",
     "Pasted image 20260320150232.png",
     "Pasted image 20260320150217.png",
     "Pasted image 20260320150209.png",
     "Pasted image 20260320150157.png",
-    "Pasted image 20260320150140.png",
-    "Pasted image 20260320150126.png",
-    "Pasted image 20260320150112.png",
-    "Pasted image 20260320150024.png",
-    "Pasted image 20260320122153.png"
+    "Pasted image 20260320150140.png"
   ]
 }
