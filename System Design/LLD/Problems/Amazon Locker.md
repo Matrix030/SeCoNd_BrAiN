@@ -238,4 +238,4 @@ isAvailable()
 - [[LLD - Entities and Relationships]]
 - [[LLD - Class Design]]
 - [[LLD - Implementation]]
-- [[Problems/Connect Four]]
+- [[Connect Four]]

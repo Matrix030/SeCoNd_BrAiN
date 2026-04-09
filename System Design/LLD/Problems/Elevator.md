@@ -246,5 +246,5 @@ Tick 11: arrive at floor 2, found Request(2,PICKUP_DOWN) → remove → IDLE
 - [[LLD - Class Design]]
 - [[LLD - Implementation]]
 - [[> LLD Design Patterns#Strategy]]
-- [[Problems/Connect Four]]
-- [[Problems/Amazon Locker]]
+- [[Connect Four]]
+- [[Amazon Locker]]

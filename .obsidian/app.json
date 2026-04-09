@@ -5,5 +5,7 @@
   "tabSize": 4,
   "showLineNumber": false,
   "showIndentGuide": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "vimMode": true
 }

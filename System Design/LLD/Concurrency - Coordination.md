@@ -18,11 +18,11 @@ A producer generates work. A consumer processes it. Something coordinates the ha
 
 **Naive approaches fail:**
 
-| Approach | Problem |
-|---|---|
-| Busy-wait (`while True: check`) | Burns 100% CPU doing nothing |
-| Sleep-polling (`sleep(0.1)`) | Wastes CPU or adds latency — can't win |
-| Unbounded queue | Memory exhaustion under burst load → OOM crash |
+| Approach                        | Problem                                        |
+| ------------------------------- | ---------------------------------------------- |
+| Busy-wait (`while True: check`) | Burns 100% CPU doing nothing                   |
+| Sleep-polling (`sleep(0.1)`)    | Wastes CPU or adds latency — can't win         |
+| Unbounded queue                 | Memory exhaustion under burst load → OOM crash |
 
 The solution needs: **efficient waiting** (sleep until work arrives), **backpressure** (block producers when full), and **thread safety** (no corruption).
 
