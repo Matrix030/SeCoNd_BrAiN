@@ -15,11 +15,11 @@ Your interviewer is looking to assess your ability to navigate a complex, under-
 
 ## Solution Design
 
-With a problem broken down, your interviewer wants to see how you can solve each of the pieces of the problem. This is where your knowledge of the [Core Concepts](https://www.hellointerview.com/learn/system-design/in-a-hurry/core-concepts) comes into play. You should be able to describe how you would solve each piece of the problem, and how those pieces fit together into a cohesive whole.
+With a problem broken down, your interviewer wants to see how you can solve each of the pieces of the problem. This is where your knowledge of the [[Core Concepts]] comes into play. You should be able to describe how you would solve each piece of the problem, and how those pieces fit together into a cohesive whole.
 
 ## Technical Excellence
 
-To be able to design a great system, you'll need to know about best practices, current technologies, and how to apply them. This is where your knowledge of the [Key Technologies](https://www.hellointerview.com/learn/system-design/in-a-hurry/key-technologies) is important. You should be able to describe how you would use current technologies, with well-recognized patterns, to solve the problems.
+To be able to design a great system, you'll need to know about best practices, current technologies, and how to apply them. This is where your knowledge of the key technologies is important. You should be able to describe how you would use current technologies, with well-recognized patterns, to solve the problems.
 
 ## Communication and Collaboration
 
