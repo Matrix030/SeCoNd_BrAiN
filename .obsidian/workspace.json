@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/HLD/in_a_hurry/Core Concepts.md",
+                "file": "Vault Watcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Concepts"
+              "title": "Vault Watcher"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,15 +181,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aff83ac75398693",
+  "active": "976ff023a1c0421a",
   "lastOpenFiles": [
+    "Vault Watcher.md",
+    "Vault Watcher.md.tmp.23737.1776051751707",
+    "System Design/HLD/in_a_hurry/Core Concepts.md",
     "System Design/HLD/in_a_hurry/> HLD Introduction.md.tmp.17161.1776046040569",
     "System Design/HLD/in_a_hurry/> HLD Introduction.md.tmp.17161.1776046025280",
     "System Design/HLD/in_a_hurry/Core Concepts.md.tmp.17161.1776045999369",
     "Pasted image 20260412215915.png",
     "Pasted image 20260412214414.png",
     "Pasted image 20260412211606.png",
-    "System Design/HLD/in_a_hurry/Core Concepts.md",
     "Pasted image 20260412203404.png",
     "System Design/HLD/in_a_hurry/> HLD Introduction.md",
     "System Design/> System Design.md",
@@ -212,8 +213,6 @@
     "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028237658",
     "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028224829",
     "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028219521",
-    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028209328",
-    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028204870",
     "System Design/HLD/Problems/bit.ly.md",
     "OWASP Top 10/Security Logging and Monitoring Failures/> Security Logging and Monitoring Failures.md",
     "OWASP Top 10/Security Logging and Monitoring Failures/Description (Security Logging and Monitoring Failures).md",
