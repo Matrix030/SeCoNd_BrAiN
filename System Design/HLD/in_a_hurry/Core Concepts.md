@@ -13,7 +13,8 @@ Core concepts are the fundamental principles and techniques that form the founda
 
 The most important decision you'll make is choosing your communication protocol. For most systems, you'll default to HTTP over TCP.
 
-![[Pasted image 20260412203404.png]]
+![[Pasted image 20260413101257.png]]
+
 
 WebSockets and Server-Sent Events (SSE) come up when you need real-time updates.
 
@@ -45,7 +46,8 @@ There are a few concepts worth mentioning when they come up. If you're returning
 
 The decisions you make about what data to store and how to structure it directly affect performance, scalability, and how painful it is to build and maintain your system.
 
-![[Pasted image 20260412183349.png]]
+![[Pasted image 20260413101314.png]]
+
 
 The first big choice is **relational versus NoSQL**. 
 - **Relational databases** like Postgres work great when you have structured data with clear relationships and need strong consistency.
@@ -77,6 +79,9 @@ The first big choice is **relational versus NoSQL**.
 - Basically you store frequently accessed data in fast memory (like Redis) so you can skip the database entirely for most reads.
 - Massive performance difference, cache hit on Redis takes around 1ms compared to 20-50ms for a typical database query. With millions of requests, that is 20-50x speedup.
 - Also reduces load on the database.
+
+![[Pasted image 20260413101342.png]]
+
 - **On a read, check the cache first. If the data is there, return it. If not, query the database, store the result in the cache with a TTL, and return it.**
 
 > [!warning]

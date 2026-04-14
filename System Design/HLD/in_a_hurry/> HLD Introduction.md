@@ -25,7 +25,11 @@ To be able to design a great system, you'll need to know about best practices, c
 
 Interviews are frequently collaborative, and your interviewer will be looking to see how you work with them to solve the problem. This will include your ability to communicate complex concepts, respond to feedback and questions, and in some cases work together with the interviewer to solve the problem.
 
-![[Pasted image 20260412114035.png]]
+![[Pasted image 20260413101130.png]]
+
 
 ## Related
 - [[Delivery Framework]]
+- [[Core Concepts]]
+- [[Key Technologies]] 
+- 

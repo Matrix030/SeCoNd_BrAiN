@@ -9,7 +9,8 @@ Step-by-step framework for delivering a system design interview in ~40 minutes.
 
 ---
 
-![[Pasted image 20260412141405.png]]
+![[Pasted image 20260413101209.png]]
+
 
 ## Requirements (~5 minutes)
 
