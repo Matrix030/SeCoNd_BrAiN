@@ -33,7 +33,10 @@ Welcome. This is your knowledge hub. Use this note as the jumping-off point for 
 |------|------------|--------|
 | Algorithms & DSA | [[Algorithms/CLAUDE\|Algorithms]] | Sorting, graphs, DP, trees |
 | System Design (LLD) | [[> LLD Delivery Framework]] | OOP, design principles, patterns |
+| System Design (HLD) | [[> HLD Introduction]] | Core concepts, key tech, problems |
 | Go (Golang) | [[> GOLANG CONNECTOR\|Golang]] | Language theory, HTTP clients/servers |
+| Git | [[> Git]] | Setup, workflow, internals |
+| SQL | [[> SQL]] | Schema, CRUD, queries, migrations |
 | C / Memory | [[> C for Memory Management]] | Pointers, stack/heap, GC |
 | Linux | [[> Linux Starter]] | File systems, permissions, I/O |
 
@@ -53,8 +56,9 @@ Welcome. This is your knowledge hub. Use this note as the jumping-off point for 
 
 | Book | Entry Point |
 |------|------------|
-| Hands-On Machine Learning | [[Machine Learning]] |
-| Essential Scrum | [[Chapters]] |
+| Hands-On Machine Learning | [[> Hands-On Machine Learning]] |
+| Essential Scrum | [[> Essential Scrum]] |
+| Database System Concepts | [[> Database System Concepts]] |
 | Programming Massively Parallel Processors | [[Overarching Goals]] |
 
 ---
