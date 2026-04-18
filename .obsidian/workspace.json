@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9839b95c11d12bb8",
+        "id": "095a3fec5da4886a",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/HLD/in_a_hurry/Key Technologies.md",
+                "file": "System Design/HLD/in_a_hurry/Common Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key Technologies"
+              "title": "Common Patterns"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50043487548828
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -181,53 +182,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfb0cd0cdb5b801e",
+  "active": "976ff023a1c0421a",
   "lastOpenFiles": [
-    "System Design/HLD/in_a_hurry/Key Technologies.md.tmp.64230.1776312056379",
-    "System Design/HLD/in_a_hurry/Key Technologies.md.tmp.64230.1776312041067",
-    "System Design/HLD/in_a_hurry/Key Technologies.md.tmp.64230.1776311946527",
-    "System Design/images/Pasted image 20260415231611.png",
-    "System Design/HLD/in_a_hurry/Key Technologies.md",
-    "System Design/HLD/in_a_hurry/> HLD Introduction.md",
-    "Books/Database System Concepts/Chapter 1 - Introduction.md",
-    "Algorithms/CLAUDE.md",
-    "AI Agent Course/> AI Agent Course (Main Unit Connector).md",
-    "CLAUDE.md",
-    "Home.md",
-    "Vault Watcher.md",
-    "README.md",
-    "images/Pasted image 20260414124508.png",
-    "images",
-    "dev_basics/Linux/Programs/> Programs.md",
-    "System Design/images/Pasted image 20260413135102.png",
-    "System Design/LLD/> Concurrency.md",
-    "System Design/> System Design.md",
+    "Pasted image 20260417234954.png",
+    "Pasted image 20260417233159.png",
     "System Design/HLD/in_a_hurry/Core Concepts.md",
+    "System Design/images/Pasted image 20260417222829.png",
+    "System Design/HLD/in_a_hurry/Common Patterns.md",
+    "System Design/images/Pasted image 20260417232307.png",
+    "System Design/images/Pasted image 20260417230024.png",
+    "System Design/images/Pasted image 20260417224020.png",
+    "System Design/HLD/in_a_hurry/> HLD Introduction.md",
     "System Design/HLD/in_a_hurry/Delivery Framework.md",
-    "System Design/images/Pasted image 20260413101209.png",
-    "System Design/images/Pasted image 20260413101342.png",
-    "System Design/images/Pasted image 20260413101314.png",
-    "System Design/images/Pasted image 20260413101257.png",
-    "System Design/images/Pasted image 20260412203404.png",
-    "System Design/images",
-    "System Design/images/Pasted image 20260413101130.png",
-    "System Design/images/Pasted image 20260412215915.png",
+    "System Design/HLD/in_a_hurry/Key Technologies.md",
+    "Vault Watcher.md",
+    "dev_basics/git/> Git.md",
+    "dev_basics/SQL/> SQL.md",
+    "README.md",
+    "OWASP Top 10/Cryptographic Failures/> Cryptographic Failures.md",
+    "Books/Machine Learning/> Hands-On Machine Learning.md",
+    "Books/Essential Scrum/> Essential Scrum.md",
+    "Books/Database System Concepts/> Database System Concepts.md",
     "Vault Watcher.md.tmp.23737.1776051751707",
     "System Design/HLD/in_a_hurry/> HLD Introduction.md.tmp.17161.1776046040569",
     "System Design/HLD/in_a_hurry/> HLD Introduction.md.tmp.17161.1776046025280",
     "System Design/HLD/in_a_hurry/Core Concepts.md.tmp.17161.1776045999369",
+    "Pasted image 20260412215915.png",
+    "Pasted image 20260412214414.png",
+    "Pasted image 20260412211606.png",
+    "Pasted image 20260412203404.png",
+    "System Design/> System Design.md",
     "lld ratelimiter.md",
     "gemma4.md",
     "2026-04-08.md",
+    "System Design/images/Pasted Image 20260409005806_455.png",
     "System Design/images",
+    "CLAUDE.md",
+    "Home.md",
     "System Design/> System Design.md.tmp.22645.1776033912817",
+    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028248114",
+    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028237658",
+    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028224829",
+    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028219521",
     "System Design/HLD/Problems/bit.ly.md",
     "OWASP Top 10/Security Logging and Monitoring Failures/> Security Logging and Monitoring Failures.md",
     "OWASP Top 10/Security Logging and Monitoring Failures/Description (Security Logging and Monitoring Failures).md",
     "OWASP Top 10/OWASP REFERENCES/CORS.md",
     "OWASP Top 10/Insecure Design/Description/> Description (Insecure Design).md",
-    "OWASP Top 10/Injection/> Injection.md",
-    "OWASP Top 10/Identification and Authentication Failures/Description (Identification and Authentication Failures).md",
-    "OWASP Top 10/Identification and Authentication Failures/Overview (Identification and Authentication Failures).md"
+    "OWASP Top 10/Injection/> Injection.md"
   ]
 }

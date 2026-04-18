@@ -32,4 +32,4 @@ Interviews are frequently collaborative, and your interviewer will be looking to
 - [[Delivery Framework]]
 - [[Core Concepts]]
 - [[Key Technologies]] 
-- 
+- [[Common Patterns]]
