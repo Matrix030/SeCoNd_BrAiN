@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "095a3fec5da4886a",
+        "id": "433808fa60c859d2",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/HLD/in_a_hurry/Common Patterns.md",
+                "file": "System Design/HLD/Core Concepts/Networking Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Patterns"
+              "title": "Networking Essentials"
             }
           }
         ]
@@ -184,11 +184,19 @@
   },
   "active": "976ff023a1c0421a",
   "lastOpenFiles": [
+    "Pasted image 20260418135202.png",
+    "System Design/HLD/Core Concepts/Networking Essentials.md",
+    "Pasted image 20260418115248.png",
+    "Excalidraw/Drawing 2026-04-18 00.14.18.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20260418001307.png",
+    "System Design/HLD/in_a_hurry/Common Patterns.md",
+    "System Design/HLD/Core/Untitled",
+    "System Design/HLD/Core Concepts",
     "Pasted image 20260417234954.png",
     "Pasted image 20260417233159.png",
     "System Design/HLD/in_a_hurry/Core Concepts.md",
     "System Design/images/Pasted image 20260417222829.png",
-    "System Design/HLD/in_a_hurry/Common Patterns.md",
     "System Design/images/Pasted image 20260417232307.png",
     "System Design/images/Pasted image 20260417230024.png",
     "System Design/images/Pasted image 20260417224020.png",
@@ -209,26 +217,18 @@
     "System Design/HLD/in_a_hurry/Core Concepts.md.tmp.17161.1776045999369",
     "Pasted image 20260412215915.png",
     "Pasted image 20260412214414.png",
-    "Pasted image 20260412211606.png",
-    "Pasted image 20260412203404.png",
     "System Design/> System Design.md",
     "lld ratelimiter.md",
     "gemma4.md",
     "2026-04-08.md",
-    "System Design/images/Pasted Image 20260409005806_455.png",
     "System Design/images",
     "CLAUDE.md",
     "Home.md",
     "System Design/> System Design.md.tmp.22645.1776033912817",
     "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028248114",
-    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028237658",
-    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028224829",
-    "System Design/HLD/in_a_hurry/Delivery Framework.md.tmp.22645.1776028219521",
     "System Design/HLD/Problems/bit.ly.md",
     "OWASP Top 10/Security Logging and Monitoring Failures/> Security Logging and Monitoring Failures.md",
     "OWASP Top 10/Security Logging and Monitoring Failures/Description (Security Logging and Monitoring Failures).md",
-    "OWASP Top 10/OWASP REFERENCES/CORS.md",
-    "OWASP Top 10/Insecure Design/Description/> Description (Insecure Design).md",
-    "OWASP Top 10/Injection/> Injection.md"
+    "OWASP Top 10/OWASP REFERENCES/CORS.md"
   ]
 }
