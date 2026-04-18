@@ -147,3 +147,48 @@ Examples of search optimized databases are straightforward, consider an applicat
 2) Postgres with GIN indexes
 3) Redis - tho bad, has full text search capability
 
+## API Gateway
+
+##### What is an API gateway and when should you use it?
+
+1) An API gateway sits in front of your system and is responsible for routing incoming requests to the appropriate backend service.
+2) If a system receives a GET /users/123, the API gateway would route that request to the `users` service and return the response to the client.
+3) The Gateway is also typically responsible for handling cross-cutting concerns like authentication, rate limiting, and logging.
+4) It is a good idea to include an API gateway in your design as the first point of contact for your clients.
+![[Pasted image 20260417122316.png]]
+
+##### What are the most common API gateway?
+
+1) AWS API Gateway
+2) Kong
+3) Apigee
+4) nginx
+5) Apache webserver
+
+## Load Balancer
+
+##### What is a load balancer and when should you use it?
+
+1) When you have a large amount of traffic, you will need to distribute that traffic across multiple machines (horizontal scaling) to avoid overloading a single machine or creating a hotspot.
+2) you need a load balancer wherever you have multiple machines capable of handling the same request.
+![[Pasted image 20260417123827.png]]
+
+> [!tip]
+> 1) Sometimes you'll need  to have specific features from your load balancer, like sticky sessions or persistent connections. The most common decision to make is whether to use an L4 (layer 4) or L7 (Layer 7) load balancer.
+> 2) if you have persistent connections like websockets, you'll likely want to use an L4 load balancer. Otherwise, an L7 load balancer offers great flexibility in routing traffic to different services while minimizing the connection load downstream.
+
+## Queue
+
+##### What are queues and when should you use them?
+
+1) Queues serve as buffers for bursty traffic or as a means of distributing work across a system.
+2) A compute resource sends messages to a queue and forgets about them.
+3) On the other end, a pool of workers (also compute resources) processes the messages at their own pace.
+4) Messages can be anything from a simple string to a complex object.
+5) The queue's function is to smooth out the load on the system.
+6) If I get a spike of 1,000 requests but can only handle 200 requests per second, 800 requests will wait in the queue before being processed — but they are not dropped!
+7) Queues also decouple the producer and consumer of a system, allowing you to scale them independently.
+
+> [!warning]
+> Be careful of introducing queues into synchronous workloads. If you have strong latency requirements (e.g. < 500ms), by adding a queue you're nearly guaranteeing you'll break that latency constraint.
+
