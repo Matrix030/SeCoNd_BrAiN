@@ -11,12 +11,14 @@
             "id": "5a3a25be42625ca5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "System Design/images/Pasted image 20260419122324.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260419122324"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -179,27 +181,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfb0cd0cdb5b801e",
+  "active": "5a3a25be42625ca5",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Home.md",
+    "obsidian.png",
+    "README.md",
+    "System Design/images/Pasted image 20260412215915.png",
+    "System Design/images/Pasted image 20260417123827.png",
+    "System Design/images/Pasted image 20260417234954.png",
+    "System Design/images/Pasted image 20260418202237.png",
+    "System Design/images/Pasted image 20260419102157.png",
+    "System Design/images/Pasted image 20260419122324.png",
+    "System Design/images/Pasted image 20260419123156.png",
+    "System Design/images/Pasted image 20260419123620.png",
+    "System Design/images/Pasted image 20260417122316.png",
+    "System Design/> System Design.md",
     "System Design/HLD/Core Concepts/Networking Essentials.md",
     "System Design/HLD/Problems/bit.ly.md",
-    "README.md",
     "Untitled Kanban.md",
-    "System Design/images/Pasted image 20260419123620.png",
-    "System Design/images/Pasted image 20260419123156.png",
-    "System Design/images/Pasted image 20260419122324.png",
-    "System Design/images/Pasted image 20260417122316.png",
-    "System Design/images/Pasted image 20260419104838.png",
-    "System Design/images/Pasted image 20260419102752.png",
-    "System Design/images/Pasted image 20260419102157.png",
-    "System Design/images/Pasted image 20260418210720.png",
-    "System Design/images/Pasted image 20260418210131.png",
-    "System Design/images/Pasted image 20260418203954.png",
     "System Design/HLD/in_a_hurry/Key Technologies.md",
     "System Design/HLD/in_a_hurry/Core Concepts.md",
     "System Design/HLD/in_a_hurry/> HLD Introduction.md",
-    "Home.md",
-    "CLAUDE.md",
     "System Design/HLD/in_a_hurry/Key Technologies.md.tmp.64230.1776312056379",
     "System Design/HLD/in_a_hurry/Key Technologies.md.tmp.64230.1776312041067",
     "System Design/HLD/in_a_hurry/Key Technologies.md.tmp.64230.1776311946527",
@@ -210,7 +213,6 @@
     "images",
     "dev_basics/Linux/Programs/> Programs.md",
     "System Design/LLD/> Concurrency.md",
-    "System Design/> System Design.md",
     "System Design/HLD/in_a_hurry/Delivery Framework.md",
     "System Design/images",
     "Vault Watcher.md.tmp.23737.1776051751707",
@@ -225,7 +227,6 @@
     "OWASP Top 10/Security Logging and Monitoring Failures/Description (Security Logging and Monitoring Failures).md",
     "OWASP Top 10/OWASP REFERENCES/CORS.md",
     "OWASP Top 10/Insecure Design/Description/> Description (Insecure Design).md",
-    "OWASP Top 10/Injection/> Injection.md",
-    "OWASP Top 10/Identification and Authentication Failures/Description (Identification and Authentication Failures).md"
+    "OWASP Top 10/Injection/> Injection.md"
   ]
 }
