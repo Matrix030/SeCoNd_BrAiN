@@ -267,6 +267,270 @@ REST is [not going to be the most performant solution](https://medium.com/@i.gor
 That said, most applications aren't going to be bottlenecked by request serialization. Like TCP. It's well-understood and a good baseline for building scalable systems. You should reach for GraphQL, gRPC, SSE, or WebSockets if you have specific needs that REST can't meet. For practical REST API design patterns, see our [API Design](https://www.hellointerview.com/learn/system-design/core-concepts/api-design) guide.
 
 
+### GraphQL: Flexible Data Fetching
+
+GraphQL is a more recent API paradigm (open-sourced circa 2015 by Facebook) that allows clients to request exactly the data they need.
+
+Here's the problem GraphQL solves: 
+1) Frequently teams and systems are organized into frontend and backend. As an example, the frontend might be a mobile app and the backend a database-based API. 
+2) When the frontend team wants to display a new page, they can either:
+	- cobble together a bunch of different requests to backend endpoints (imagine querying 1 API for a list of users and making 10 API calls to get their details)
+	- create huge aggregation APIs which are hard to maintain and slow to change
+	- write brand new APIs for every new page they want to display. _None of these are particularly good solutions_ but it's easy to run into them with a standard REST API.
+
+The problem with under-fetching is that you may need multiple requests and round trips. This adds overhead and latency to the page load.
+
+![[Pasted image 20260418202208.png]]
+
+**Over-fetching** is the opposite: when we pack way more than we need in an API response to guard ourselves against future use-cases that we don't have today. It means that APIs take a long time to load and return too much data.
+
+![[Pasted image 20260418202237.png]]
+
+And writing brand new APIs for every new page is a nightmare.
+
+- GraphQL solves these problems by allowing the frontend team to flexibly query the backend for exactly the data they need.
+- The backend can then respond with the data in the shape that the frontend needs it. 
+- This is a great fit for mobile apps and other use-cases where you want to reduce the amount of data transferred.
+
+Here's an example of a GraphQL query which fetches just the data the frontend needs for a sophisticated page which shows both users with their profiles and groups they're a member of.
+
+```
+query GetUsersWithProfilesAndGroups($limit: Int = 10, $offset: Int = 0) {
+  users(limit: $limit, offset: $offset) {
+    id
+    username
+    //...
+    
+    profile {
+      id
+      fullName
+      avatar
+      // ...
+    }
+    
+    groups {
+      id
+      name
+      description
+      // ...
+      
+      category {
+        id
+        name
+        icon
+      }
+    }
+    
+    status {
+      isActive
+      lastActiveAt
+    }
+  }
+  
+  _metadata {
+    totalCount
+    hasNextPage
+  }
+}
+```
+
+The graphQL code here is basically specifying which fields and nested objects we want to fetch. The backend can interpret this query and respond with just the data the frontend needs.
+
+In our example, instead of writing a bunch of different APIs, the frontend team can just write a single query to get the data they need and the backend can (in theory) respond with the data in the shape that the frontend needs it.
+
+#### Where to Use It
+
+1) GraphQL is a great fit for use-cases where the frontend team needs to iterate quickly and adjust. 
+2) They can flexibly query the backend for exactly the data they need. 
+3) On the other hand, execution of these GraphQL queries can be a source of latency and complexity for the backend — sometimes involving the same bespoke backend code that we're trying to avoid.
+4) In practice, GraphQL finds its sweet spot with complex clients and when multiple teams are making wide queries to overlapping data.
+5) For system design interviews specifically, the benefits of GraphQL are murky.
+6) In the interview you'll have a fixed set of requirements (not the moving targets of iterating on a mobile app or web frontend where GraphQL starts to shine). Additionally, the interviewer will frequently want to see how you optimize specific query patterns and while you can talk about custom resolvers — GraphQL is frequently just in the way.
+7) It is recommend bringing up GraphQL in cases where the problem is clearly focused on flexibility (e.g. the interviewer tells us we need to be able to adapt our apps quickly to changing requirements) or when the requirements in the interview are deliberately uncertain.
+
+### gRPC: Efficient Service Communication
+
+1) gRPC is a high-performance RPC (Remote Procedure Call) framework from Google (the "g") that uses HTTP/2 and Protocol Buffers.
+2) Think of Protocol Buffers like JSON but with a more rigid schema that allows for better performance and more efficient serialization. Here's an example of a Protocol Buffer definition for a User resource:
+
+```
+message User {
+  string id = 1;
+  string name = 2;
+}
+```
+
+Instead of a chunky JSON object with embedded schema (40 bytes)
+
+```
+{
+  "id": "123",
+  "name": "John Doe"
+}
+```
+
+we have a binary encoding (15 bytes) of the same data with very skinny tags and variable length encoding of the strings. Less space and less CPU to parse!
+
+```
+0A 03 31 32 33 12 08 6A 6F 68 6E 20 64 6F 65
+```
+
+gRPC builds on this to provide service definitions. Here's an example of a gRPC service definition for a UserService:
+
+```
+message GetUserRequest {
+  string id = 1;
+}
+
+message GetUserResponse {
+  User user = 1;
+}
+
+service UserService {
+  rpc GetUser (GetUserRequest) returns (GetUserResponse);
+}
+```
+
+3) These definitions are compiled into a client and server stub which a wide variety of languages and frameworks can consume to build services and clients. 
+4) gRPC includes a bunch of features relevant for operating microservice architectures at scale (it was invented by Google after all) like streaming, deadlines, client-side load balancing and more.
+5) But the most important thing to know is that it's a binary protocol that's faster and more efficient than JSON over HTTP.
+
+##### Where to Use It
+
+1) gRPC shines in microservices architectures where services need to communicate efficiently. 
+2) Its strong typing helps catch errors at compile time rather than runtime, and its binary protocol is more efficient than JSON over HTTP ([some benchmarks show a factor of 10x throughput!](https://medium.com/@i.gorton/scaling-up-rest-versus-grpc-benchmark-tests-551f73ed88d4)). 
+3) Consider gRPC for internal service-to-service communication, especially when performance is critical or when latencies are dominated by the network rather than the work the server is doing.
+4) That said, you generally won't use gRPC for public-facing APIs, especially for clients you don't control, because it's a binary protocol and the tooling for working with it is less mature than simple JSON over HTTP.
+5) Having internal APIs using gRPC and external APIs using REST is a great way to get the benefits of a binary protocol without the complexity of a public-facing API. 
+6) There are definitely engineers who would love it if gRPC was more widely adopted, but it's not there yet.
+
+![[Pasted image 20260418203954.png]]
+
+**it is recommended using REST for public-facing APIs and leaving gRPC for internal service-to-service communication** — especially if binary data is being exchanged or performance is critical. In many interviews, using REST both for internal and external APIs is fine and you can build from there depending on the needs of the problem and probes from your interviewer.
+
+> [!tip]
+> Sometimes engineers think the point of a system design interview is to draw up an optimal solution to a problem on a whiteboard. But interviewers typically are trying to understand how you think through a problem and how you react to challenges and constraints you may not have seen before. Be wary of hyperoptimizing your RPC protocol choice before you've handled other substantial bottlenecks in the problem. Premature optimization is the root of all evil!
+
+### Server-Sent Events (SSE): Real-Time Push Communication
+
+Server-Sent Events (SSE) is a spec defined on top of HTTP that allows a server to push many messages to the client over a single HTTP connection.
+
+Here's how to think of it: 
+1) SSE is a nice hack on top of HTTP that **allows a server to stream many messages, over time, in a single response from the server**.
+2) With most HTTP APIs you'd get a single, cohesive JSON blob as a response from the server that is processed once the whole thing has been received.
+
+```
+{
+  "events": [
+    { "id": 1, "timestamp": "2025-01-01T00:00:00Z", "description": "Event 1" },
+    { "id": 2, "timestamp": "2025-01-01T00:00:01Z", "description": "Event 2" },
+    ...
+    { "id": 100, "timestamp": "2025-01-01T00:00:10Z", "description": "Event 100" }
+  ]
+}
+```
+
+3) Since we have to wait for the whole response to come in before we can process it, it's not much good for push notifications!
+4) On the other hand, with SSE, the server can push many messages as "chunks" in a single response from the server:
+
+```
+data: {"id": 1, "timestamp": "2025-01-01T00:00:00Z", "description": "Event 1"}
+data: {"id": 2, "timestamp": "2025-01-01T00:00:01Z", "description": "Event 2"}
+...
+data: {"id": 100, "timestamp": "2025-01-01T00:00:10Z", "description": "Event 100"}
+```
+
+5) Each line here is received as a separate message from the server. The client can then process each message as it comes in. It's still one big HTTP response (same TCP connection), but it comes in over many smaller packets and clients are expected to process each line of the body individually to allow them to react to the data as it comes in.
+
+Now with all good hacks, SSE comes with some **acute limitations**.
+1) We can't keep an SSE connection open for too long because the server (or the load balancer, or a middle box proxy) will close down the connection. 
+2) So the SSE standard defines the behavior of an EventSource object that, once the connection is closed, will automatically reconnect with the ID of the last message received. 
+3) Servers are expected to keep track of prior messages that may have been missed while the client was disconnected and resend them.
+4) In practice there are also some nasty, misbehaving networks that will batch up all SSE responses into a single response [making it behave a lot like what we're trying to avoid](https://dev.to/miketalbot/server-sent-events-are-still-not-production-ready-after-a-decade-a-lesson-for-me-a-warning-for-you-2gie).
+
+##### Where to Use It
+
+1) Situations where you want clients to get notifications or events as soon as they happen.
+2) SSE is a great option for [keeping bidders up-to-date on the current price of an auction](https://www.hellointerview.com/learn/system-design/problem-breakdowns/online-auction#3-how-can-we-ensure-that-the-system-displays-the-current-highest-bid-in-real-time), for example.
+
+
+### WebSockets: Real-Time Bidirectional Communication
+
+1) WebSockets provide a persistent, TCP-style connection between client and server, allowing for real-time, bidirectional communication with broad support (including browsers).
+2) Unlike HTTP's request-response model, WebSockets enable servers to **push** data to clients without being prompted by a new request.
+3) Similarly clients can push data back to the server without the same wait.
+4) WebSockets are initiated via an HTTP "upgrade" protocol, which allows an existing TCP connection to change L7 protocols.
+5) This is super convenient because it means you can utilize some of the existing HTTP session information (e.g. cookies, headers, etc.) to your advantage.
+
+> [!warning]
+> Just because clients can upgrade from HTTP to WebSocket doesn't mean that the infrastructure will support it. Every piece of infrastructure between the client and server will need to support WebSocket connections.
+> 
+> If you've ever implemented Websockets you've probably hit a bunch of issues with firewalls, proxies, load balancers, and other infrastructure that don't support WebSocket connections.
+
+##### How it Works
+
+1. Client initiates WebSocket handshake over HTTP (with a backing TCP connection)
+2. Connection upgrades to WebSocket protocol, WebSocket takes over the TCP connection
+3. Both client and server can send binary messages to each other over the connection
+4. The connection stays open until explicitly closed
+
+- WebSockets don't dictate an application protocol, you effectively have a channel where you can send binary packets to the server from the client and vice versa.
+- This means you'll need some way of defining what it is your client and server are exchanging. 
+- For many WebSocket applications, simple serialized JSON messages are a great option! This also gives you a chance to define the API of your service for your design:
+
+![[Pasted image 20260418210131.png]]
+
+##### Where to Use It
+
+1) WebSockets come up in system design interviews when you need **high-frequency**, **persistent**, **bi-directional** communication between client and server. Think real-time applications, games, and other use-cases where you need to send and receive messages as soon as they happen.
+2) For applications where either you just need to be able to send requests and receive responses, or situations where you can make due with the push notifications provided by SSE, WebSockets are overkill.
+
+> [!warning]
+> WebSockets are powerful, but the infra required to support them can be expensive and the overhead of stateful connections (especially at scale) will require significant accommodations in your design. Hold off unless you really need them!
+
+
+### WebRTC: Peer-to-Peer Communication
+
+1) WebRTC enables direct **peer-to-peer** communication between browsers without requiring an intermediary server for the data exchange.
+2) WebRTC can be perfect for collaborative applications like document editors and is especially useful for video/audio calling and conferencing applications.
+3) The WebRTC spec is comprised of several pieces of infra and protocols that are necessary to establish a peer-to-peer connection between browsers.
+4) From a networking perspective, peer-to-peer connections are more complex than the client-server models we've been discussing so far because most clients don't allow inbound connections for security reasons.
+5) With WebRTC, clients talk to a central **"signaling server"** which keeps track of which peers are available together with their connection information. 
+6) Once a client has the connection information for another peer, they can try to establish a direct connection without going through any intermediary servers.
+7) In practice, most clients don't allow inbound connections for security reasons and the majority of users are behind a NAT (network address translation) device which keeps them from being connected to directly. So if we stopped there, most peers wouldn't be able to "speak" to each other.
+
+The WebRTC standard includes two methods to work around these restrictions:
+
+- **STUN**: "Session Traversal Utilities for NAT" is a protocol and a set of techniques like "hole punching" which allows peers to establish publically routable addresses and ports. As hacky as it sounds it's a standard way to deal with NAT traversal and it involves repeatedly creating open ports and sharing them via the signaling server with peers.
+- **TURN**: "Traversal Using Relays around NAT" is effectively a relay service, a way to bounce requests through a central server which can then be routed to the appropriate peer.
+
+![[Pasted image 20260418210720.png]]
+
+There's effectively **4 steps to a WebRTC connection**:
+
+1. Clients connect to a central signaling server to learn about their peers.
+2. Clients reach out to a STUN server to get their public IP address and port.
+3. Clients share this information with each other via the signaling server.
+4. Clients establish a direct peer-to-peer connection and start sending data.
+
+This is the happy case! In reality, sometimes these connections fail and you need to have fallbacks like our TURN server.
+
+##### Where to Use It
+
+1) WebRTC is ideal for audio/video calling and conferencing applications.
+2) It can also occasionally be appropriate for collaborative applications like document editors, especially if they need to scale to many clients.
+3) In practice, most collaborative editors _don't_ require scaling to thousands of clients. 
+4) Additionally, you often need a central server anyways to store the document and coordinate between clients.
+5) But there is an alternative to use WebRTC and CRDTs (Conflict-free Replicated Data Types) to achieve a truly peer-to-peer experience.
+
+Suggested sticking to WebRTC for video/audio calling and conferencing applications.
+
+
+
+
+
+
+
 
 
 
