@@ -5,6 +5,7 @@ Personal Obsidian knowledge vault covering AI/ML, software engineering, security
 ---
 ![[obsidian.png]]
 
+trial to check if i accidentally removed my key
 ## Structure
 
 ```
