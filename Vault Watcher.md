@@ -17,12 +17,12 @@ Seamless note formatting — write a note, save it, and within a few seconds it 
 
 ## Setup
 
-| Component | Location |
-|---|---|
-| Vault | this machine — `/home/rgmatr1x/Documents/SeCoNd_BrAiN` |
-| Ollama + model | home computer (RTX 4080 Super, 14GB VRAM loaded) |
-| Script | this machine — `~/scripts/vault_watcher.py` |
-| Model | `gemma4:26b` (verify exact tag with `ollama list` on home machine) |
+| Component      | Location                                                           |
+| -------------- | ------------------------------------------------------------------ |
+| Vault          | this machine — `/home/rgmatr1x/Documents/SeCoNd_BrAiN`             |
+| Ollama + model | home computer (RTX 4080 Super, 14GB VRAM loaded)                   |
+| Script         | this machine — `~/scripts/vault_watcher.py`                        |
+| Model          | `gemma4:26b` (verify exact tag with `ollama list` on home machine) |
 
 > [!warning] Ollama must accept remote connections
 > By default Ollama only listens on `127.0.0.1`. On the home machine, start Ollama with:

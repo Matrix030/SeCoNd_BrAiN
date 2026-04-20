@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7bc1b02751a37aa6",
+        "id": "2848bfed03dc87fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a219a96885b24d5b",
+            "id": "2e211d8aac1e7147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/> System Design.md",
+                "file": "System Design/HLD/Core Concepts/API Design/API Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "> System Design"
+              "title": "API Design"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5004348754883
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -181,15 +182,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfb0cd0cdb5b801e",
+  "active": "2e211d8aac1e7147",
   "lastOpenFiles": [
+    "Pasted image 20260420134117.png",
+    "System Design/HLD/Core Concepts/API Design/API Design.md",
+    "System Design/HLD/Core Concepts/API Design",
+    "System Design/HLD/CLAUDE.md",
+    "System Design/HLD/CLAUDE.md.tmp.158322.1776705734375",
+    "System Design/HLD/Core Concepts/Untitled",
+    "Vault Watcher.md",
+    "System Design/> System Design.md",
+    "CLAUDE.md",
+    "Excalidraw/embed_this.md",
+    "Excalidraw/Drawing 2026-04-20 10.59.46.excalidraw.md",
     "System Design/> System Design.md.tmp.13137.1776627664422",
     "System Design/LLD/> LLD OOP Concepts.md",
     "System Design/LLD/> LLD Design Principles.md",
     "System Design/LLD/> LLD Design Patterns.md",
     "System Design/LLD/> LLD Delivery Framework.md",
     "System Design/LLD/> Concurrency.md",
-    "System Design/> System Design.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/Example 2 - Customer Service Chatbots.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/Example 1 - Personal Virtual Assistants.md",
     "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/> What is an Agent, and how does it work?.md",
@@ -208,18 +219,8 @@
     "System Design/HLD/Core Concepts/Networking/Timeouts Retries and Backoff.md.tmp.134169.1776624204464",
     "System Design/HLD/Core Concepts/Networking/Regionalization and Latency.md",
     "System Design/HLD/Core Concepts/Networking/Regionalization and Latency.md.tmp.134169.1776624166527",
-    "System Design/HLD/Core Concepts/Networking/Load Balancing.md",
     "System Design/HLD/Core Concepts/Networking/Load Balancing.md.tmp.134169.1776624131569",
-    "System Design/HLD/Core Concepts/Networking/WebRTC.md",
     "System Design/HLD/Core Concepts/Networking/WebRTC.md.tmp.134169.1776624054699",
-    "System Design/HLD/Core Concepts/Networking/WebSockets.md",
-    "System Design/HLD/Core Concepts/Networking/WebSockets.md.tmp.134169.1776624010152",
-    "System Design/HLD/Core Concepts/Networking/Server-Sent Events.md",
-    "System Design/HLD/Core Concepts/Networking/Server-Sent Events.md.tmp.134169.1776623991480",
-    "System Design/HLD/Core Concepts/Networking/gRPC.md",
-    "System Design/HLD/Core Concepts/Networking/gRPC.md.tmp.134169.1776623959302",
-    "System Design/HLD/Core Concepts/Networking/GraphQL.md.tmp.134169.1776623924636",
-    "System Design/HLD/Core Concepts/Networking/REST.md",
     "System Design/images/Pasted image 20260412215915.png",
     "System Design/images/Pasted image 20260417123827.png",
     "System Design/images/Pasted image 20260417234954.png",
