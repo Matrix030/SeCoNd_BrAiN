@@ -98,8 +98,45 @@ When handling relationships between resources, you have two main approaches:
 5) POST and PATCH are not guaranteed to be idempotent, which matters when networks fail and clients retry requests.
 6) You don't want duplicate bookings from a retry.
 
+#### Passing Data to APIs
 
+1) API endpoints need input to tell the server what to do. 
+2) This can be which resources to fetch, what data to update in the database, or how to filter results. 
+3) Understanding where to put different types of input is crucial for designing clean, intuitive APIs.
 
+You have **three main options** for passing data to your REST API, and each serves a different purpose.
+
+1) **Path parameters** identify which specific resource you're working with. When you want to get event details, you put the event ID in the path: /events/123. The ID is part of the URL structure itself, making it clear that you're asking for a specific event, not a collection of events. Use path parameters when the value is required to identify the resource - without it, the request doesn't make sense.
+
+**Query parameters** filter, sort, or modify how you retrieve resources. When you want to search for events in a specific city or date range, you use query parameters: /events?city=NYC&date=2024-01-01. These are optional - you could ask for all events without any filters, or apply multiple filters together. Query parameters work well for pagination too: /events?page=2&limit=20. Note that the first option is separated via a ? and all subsequent parameters are separated by &.
+
+**Request body** contains the actual data you're sending to create or update resources. When a user books tickets, you POST to /events/{id}/bookings with the booking details in the request body. Things like how many tickets, seating preferences, and so on. The request body is where you put complex data structures and anything that might be too large or sensitive for a URL.
+
+Each type of input serves a different role in the API's contract. Path parameters are structural, they determine which endpoint you're hitting. Query parameters are modifiers, they change how the endpoint behaves. Request body is payload, it's the data you're actually working with.
+
+Here's a practical example. If you're building a booking system and a user wants to book VIP tickets for a specific event, you'd structure it like this:
+
+```
+POST /events/123/bookings?notify=true
+{
+  "tickets": [
+    {"section": "VIP", "quantity": 2},
+    {"section": "General", "quantity": 1}
+  ],
+  "payment_method": "credit_card"
+}
+```
+
+The event ID (123) is in the path because you need to specify which event you're booking. The notification preference is a query parameter because it's optional behavior. The actual booking details go in the request body because they're the core data you're creating.
+
+#### Returning Data
+
+An API response is made up of two parts:
+
+1. The status code, which indicates whether the request was successful or not.
+2. The response body, which contains the data you're returning to the client (typically JSON)
+
+For status codes, stick to the common ones: 200 for success, 201 for created resources, 400 for bad requests, 401 for authentication required, 404 for not found, and 500 for server errors.
 
 
 
