@@ -3,8 +3,6 @@
 Personal Obsidian knowledge vault covering AI/ML, software engineering, security, cloud, and dev fundamentals — built from courses, books, and hands-on projects.
 
 ---
-![[obsidian.png]]
-
 ## Structure
 
 ```
