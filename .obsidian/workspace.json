@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68d5af9d6cf7b780",
+        "id": "eac0d291b80a0739",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f28a47fe17dfa5",
+            "id": "050c50ae8fed7039",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "System Design/images/Pasted image 20260503183427.png"
+                "file": "System Design/HLD/Core Concepts/Caching/> Caching.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260503183427"
+              "icon": "lucide-file",
+              "title": "> Caching"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5026054382324
+    "width": 244.50043487548828
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -179,13 +181,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfb0cd0cdb5b801e",
+  "active": "050c50ae8fed7039",
   "lastOpenFiles": [
+    "Pasted image 20260504165823.png",
+    "System Design/HLD/Core Concepts/Database Indexing/> Database Indexing.md",
+    "System Design/HLD/Core Concepts/Database Indexing/B-Tree Indexes.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Composite Indexes.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Covering Indexes.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Geospatial Indexes.md",
+    "System Design/HLD/Core Concepts/Database Indexing/LSM Trees.md",
+    "System Design/HLD/Core Concepts/Caching/> Caching.md",
+    "System Design/images/Pasted image 20260504135437.png",
+    "System Design/> System Design.md",
+    "System Design/HLD/Core Concepts/Caching",
+    "System Design/images/Pasted image 20260504151026.png",
+    "System Design/HLD/Core Concepts/Database Indexing/Database Indexing.md.tmp.265976.1777922455401",
+    "System Design/HLD/Core Concepts/Database Indexing/Database Indexing.md.tmp.265976.1777922449455",
+    "System Design/HLD/Core Concepts/Database Indexing/Wrapping Up.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Wrapping Up.md.tmp.265976.1777922445333",
+    "System Design/HLD/Core Concepts/Database Indexing/Covering Indexes.md.tmp.265976.1777922433108",
+    "System Design/HLD/Core Concepts/Database Indexing/Composite Indexes.md.tmp.265976.1777922417556",
+    "System Design/HLD/Core Concepts/Database Indexing/Inverted Indexes.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Inverted Indexes.md.tmp.265976.1777922394319",
+    "System Design/HLD/Core Concepts/Database Indexing/Geospatial Indexes.md.tmp.265976.1777922370995",
     "System Design/HLD/Core Concepts/Database Indexing/Database Indexing.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Hash Indexes.md",
+    "System Design/HLD/Core Concepts/Database Indexing/Hash Indexes.md.tmp.265976.1777922310374",
+    "System Design/HLD/Core Concepts/Database Indexing/LSM Trees.md.tmp.265976.1777922292629",
+    "System Design/HLD/Core Concepts/Database Indexing/How Database Indexes Work.md",
+    "System Design/images/Pasted image 20260504150810.png",
+    "System Design/images/Pasted image 20260503183427.png",
     "System Design/images/Pasted image 20260503200201.png",
     "System Design/images/Pasted image 20260503191403.png",
     "System Design/images/Pasted image 20260503190442.png",
-    "System Design/images/Pasted image 20260503183427.png",
     "System Design/HLD/CLAUDE.md",
     "Excalidraw/Drawing 2026-05-02 22.21.50.excalidraw.md",
     "System Design/images/Pasted image 20260503173721.png",
@@ -195,36 +223,11 @@
     "personal/HCI/HCI_Final.md",
     "Excalidraw/Drawing 2026-04-28 00.00.57.excalidraw.md",
     "personal/java_project/Java Project.md",
-    "personal/HCI",
-    "personal/java_project",
     "Untitled.md",
     "CLAUDE.md",
     "Home.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "README.md",
-    "System Design/HLD/Core Concepts/Database Indexing",
-    "System Design/HLD/Core Concepts/Data Modeling/> Data Modeling.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Data Modeling Overview.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Data Modeling.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Relational Databases.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Database Model Options.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Data Modeling.md.tmp.218032.1777056808460",
-    "System Design/HLD/Core Concepts/Data Modeling/Scaling and Sharding.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Scaling and Sharding.md.tmp.218032.1777056804708",
-    "System Design/HLD/Core Concepts/Data Modeling/Normalization vs Denormalization.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Normalization vs Denormalization.md.tmp.218032.1777056792498",
-    "System Design/HLD/Core Concepts/Data Modeling/Indexing for Access Patterns.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Indexing for Access Patterns.md.tmp.218032.1777056776685",
-    "System Design/HLD/Core Concepts/Data Modeling/Entities Keys and Relationships.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Entities Keys and Relationships.md.tmp.218032.1777056766173",
-    "System Design/HLD/Core Concepts/Data Modeling/Schema Design Fundamentals.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Schema Design Fundamentals.md.tmp.218032.1777056748276",
-    "System Design/HLD/Core Concepts/Data Modeling/Graph Databases.md",
-    "System Design/HLD/Core Concepts/Data Modeling/Graph Databases.md.tmp.218032.1777056731575",
-    "System Design/images/Pasted image 20260424124945.png",
-    "System Design/images/Pasted image 20260424144454.png",
-    "System Design/images/Pasted image 20260424144428.png",
-    "System Design/images/Pasted image 20260424132112.png"
+    "System Design/images/Pasted image 20260424124945.png"
   ]
 }
