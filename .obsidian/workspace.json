@@ -11,14 +11,12 @@
             "id": "99321afc982cc8b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "System Design/HLD/Core Concepts/Sharding/Sharding.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/images/Pasted image 20260505112440.png"
               },
-              "icon": "lucide-file",
-              "title": "Sharding"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260505112440"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50043487548828,
-    "collapsed": true
+    "width": 243.50043487548828
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -182,15 +179,31 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "99321afc982cc8b8",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
-    "Pasted image 20260505141232.png",
-    "Pasted image 20260505140915.png",
-    "Home.md",
     "System Design/HLD/Core Concepts/Sharding/Sharding.md",
+    "System Design/HLD/Core Concepts/> Core Concepts.md.tmp.17051.1778006977789",
+    "System Design/HLD/Core Concepts/Sharding/Sharding.md.tmp.17051.1778006974140",
+    "System Design/HLD/Core Concepts/Sharding/> Sharding.md",
+    "System Design/HLD/Core Concepts/Sharding/> Sharding.md.tmp.17051.1778006956637",
+    "System Design/HLD/Core Concepts/Sharding/Sharding in System Design.md",
+    "System Design/HLD/Core Concepts/Sharding/Sharding in System Design.md.tmp.17051.1778006951820",
+    "System Design/HLD/Core Concepts/Sharding/Sharding in Modern Databases.md",
+    "System Design/HLD/Core Concepts/Sharding/Sharding in Modern Databases.md.tmp.17051.1778006929010",
+    "System Design/HLD/Core Concepts/Sharding/Sharding Challenges.md",
+    "System Design/HLD/Core Concepts/Sharding/Sharding Challenges.md.tmp.17051.1778006916088",
+    "System Design/HLD/Core Concepts/Sharding/How to Shard Your Data.md",
+    "System Design/HLD/Core Concepts/Sharding/How to Shard Your Data.md.tmp.17051.1778006871216",
+    "System Design/HLD/Core Concepts/Sharding/What is Sharding.md",
+    "System Design/HLD/Core Concepts/Sharding/What is Sharding.md.tmp.17051.1778006829534",
+    "System Design/HLD/Core Concepts/Sharding/Partitioning.md",
+    "System Design/HLD/Core Concepts/Sharding/Partitioning.md.tmp.17051.1778006816962",
+    "System Design/images/Pasted image 20260505141232.png",
+    "System Design/images/Pasted image 20260505140915.png",
+    "Home.md",
     "System Design/HLD/Core Concepts/> Core Concepts.md",
-    "Pasted image 20260505124427.png",
-    "Pasted image 20260505112440.png",
+    "System Design/images/Pasted image 20260505124427.png",
+    "System Design/images/Pasted image 20260505112440.png",
     "System Design/> System Design.md",
     "CLAUDE.md",
     "System Design/HLD/> HLD.md",
@@ -203,32 +216,15 @@
     "Vault Watcher.md",
     "System Design/images/Pasted image 20260504165823.png",
     "System Design/HLD/Core Concepts/Caching/Caching in System Design.md",
-    "System Design/HLD/Core Concepts/Caching/> Caching.md.tmp.419798.1777930582044",
-    "System Design/HLD/Core Concepts/Caching/Caching in System Design.md.tmp.419798.1777930574126",
     "System Design/HLD/Core Concepts/Caching/Common Caching Problems.md",
-    "System Design/HLD/Core Concepts/Caching/Common Caching Problems.md.tmp.419798.1777930534156",
     "System Design/HLD/Core Concepts/Caching/Cache Eviction Policies.md",
-    "System Design/HLD/Core Concepts/Caching/Cache Eviction Policies.md.tmp.419798.1777930508840",
     "System Design/HLD/Core Concepts/Caching/Cache Architectures.md",
-    "System Design/HLD/Core Concepts/Caching/Cache Architectures.md.tmp.419798.1777930496216",
     "System Design/HLD/Core Concepts/Caching/Where to Cache.md",
-    "System Design/HLD/Core Concepts/Caching/Where to Cache.md.tmp.419798.1777930470995",
     "System Design/HLD/Core Concepts/Caching/> Caching.md",
     "System Design/images/Pasted image 20260504172206.png",
     "System Design/images/Pasted image 20260504171823.png",
     "System Design/images/Pasted image 20260504171506.png",
     "System Design/images/Pasted image 20260504171025.png",
-    "System Design/images/Pasted image 20260504170914.png",
-    "System Design/images/Pasted image 20260504170726.png",
-    "System Design/HLD/Core Concepts/Database Indexing/> Database Indexing.md",
-    "System Design/HLD/Core Concepts/Database Indexing/B-Tree Indexes.md",
-    "System Design/HLD/Core Concepts/Database Indexing/Composite Indexes.md",
-    "System Design/HLD/Core Concepts/Database Indexing/Covering Indexes.md",
-    "System Design/HLD/Core Concepts/Database Indexing/Geospatial Indexes.md",
-    "System Design/HLD/Core Concepts/Database Indexing/LSM Trees.md",
-    "System Design/HLD/Core Concepts/Caching",
-    "System Design/HLD/Core Concepts/Database Indexing/Database Indexing.md.tmp.265976.1777922455401",
-    "System Design/HLD/Core Concepts/Database Indexing/Database Indexing.md.tmp.265976.1777922449455",
-    "System Design/HLD/Core Concepts/Database Indexing/Wrapping Up.md"
+    "System Design/images/Pasted image 20260504170914.png"
   ]
 }
