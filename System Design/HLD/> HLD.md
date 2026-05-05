@@ -24,6 +24,10 @@ Quick-reference material for interview prep.
 
 - [[> Networking Essentials]] — protocols, load balancing, and fault tolerance
 - [[> API Design]] — REST, GraphQL, RPC, pagination, versioning, and security
+- [[> Data Modeling]]
+- [[> Database Indexing]]
+- [[> Caching]]
+- 
 
 ## Problems
 
