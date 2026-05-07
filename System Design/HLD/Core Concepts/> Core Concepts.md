@@ -23,6 +23,7 @@ aliases: ["Core Concepts", "HLD Core Concepts"]
 - [[> Caching]] — cache architectures, eviction policies, where to cache, and common problems
 - [[> Database Indexing]] — B-tree, hash, composite, covering, inverted, geospatial indexes, and LSM trees
 - [[> Sharding]] — partitioning, shard key selection, distribution strategies, and scaling challenges
+- [[> Consistent Hashing]] — hash ring algorithm for distributing data with minimal reshuffling when nodes change
 
 > [!tip] When to go deep
 > Reach into these notes when an interview problem demands a specific protocol choice or API design trade-off — not as the starting point.

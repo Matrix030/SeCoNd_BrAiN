@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eac0d291b80a0739",
+        "id": "fed5c78786088f20",
         "type": "tabs",
         "children": [
           {
-            "id": "99321afc982cc8b8",
+            "id": "61dcf59ccdd470e0",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "System Design/images/Pasted image 20260505112440.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260505112440"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -76,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50043487548828
+    "width": 396.5086555480957
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -181,50 +179,51 @@
   },
   "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
+    "System Design/HLD/Core Concepts/> Core Concepts.md.tmp.43991.1778023219991",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Consistent Hashing.md.tmp.43991.1778023215617",
+    "System Design/HLD/Core Concepts/Consistent Hashing/When to Use Consistent Hashing.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/When to Use Consistent Hashing.md.tmp.43991.1778023209281",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Consistent Hashing in the Real World.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Consistent Hashing in the Real World.md.tmp.43991.1778023194835",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Data Movement in Practice.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Data Movement in Practice.md.tmp.43991.1778023183991",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Addressing Hot Spots.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Addressing Hot Spots.md.tmp.43991.1778023175686",
+    "System Design/HLD/Core Concepts/Consistent Hashing/The Hash Ring.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/The Hash Ring.md.tmp.43991.1778023165065",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Simple Modulo Hashing.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Simple Modulo Hashing.md.tmp.43991.1778023144886",
+    "System Design/HLD/Core Concepts/Consistent Hashing/> Consistent Hashing.md",
+    "System Design/HLD/Core Concepts/Consistent Hashing/> Consistent Hashing.md.tmp.43991.1778023124507",
+    "System Design/HLD/Core Concepts/Consistent Hashing/Consistent Hashing.md",
+    "System Design/HLD/Core Concepts/Sharding/Sharding in Modern Databases.md",
+    "System Design/HLD/Core Concepts/Sharding/> Sharding.md",
+    "Pasted image 20260505161632.png",
+    "Pasted image 20260505161502.png",
+    "Pasted image 20260505160441.png",
+    "Pasted image 20260505160141.png",
+    "Pasted image 20260505155310.png",
+    "Pasted image 20260505155211.png",
+    "Pasted image 20260505151812.png",
+    "System Design/HLD/Core Concepts/Consistent Hashing",
+    "System Design/HLD/Core Concepts/> Core Concepts.md",
+    "System Design/images/Pasted image 20260505112440.png",
     "System Design/HLD/Core Concepts/Sharding/Sharding.md",
     "System Design/HLD/Core Concepts/> Core Concepts.md.tmp.17051.1778006977789",
-    "System Design/HLD/Core Concepts/Sharding/Sharding.md.tmp.17051.1778006974140",
-    "System Design/HLD/Core Concepts/Sharding/> Sharding.md",
-    "System Design/HLD/Core Concepts/Sharding/> Sharding.md.tmp.17051.1778006956637",
     "System Design/HLD/Core Concepts/Sharding/Sharding in System Design.md",
-    "System Design/HLD/Core Concepts/Sharding/Sharding in System Design.md.tmp.17051.1778006951820",
-    "System Design/HLD/Core Concepts/Sharding/Sharding in Modern Databases.md",
-    "System Design/HLD/Core Concepts/Sharding/Sharding in Modern Databases.md.tmp.17051.1778006929010",
     "System Design/HLD/Core Concepts/Sharding/Sharding Challenges.md",
-    "System Design/HLD/Core Concepts/Sharding/Sharding Challenges.md.tmp.17051.1778006916088",
     "System Design/HLD/Core Concepts/Sharding/How to Shard Your Data.md",
-    "System Design/HLD/Core Concepts/Sharding/How to Shard Your Data.md.tmp.17051.1778006871216",
     "System Design/HLD/Core Concepts/Sharding/What is Sharding.md",
-    "System Design/HLD/Core Concepts/Sharding/What is Sharding.md.tmp.17051.1778006829534",
     "System Design/HLD/Core Concepts/Sharding/Partitioning.md",
-    "System Design/HLD/Core Concepts/Sharding/Partitioning.md.tmp.17051.1778006816962",
     "System Design/images/Pasted image 20260505141232.png",
     "System Design/images/Pasted image 20260505140915.png",
     "Home.md",
-    "System Design/HLD/Core Concepts/> Core Concepts.md",
-    "System Design/images/Pasted image 20260505124427.png",
-    "System Design/images/Pasted image 20260505112440.png",
     "System Design/> System Design.md",
     "CLAUDE.md",
     "System Design/HLD/> HLD.md",
-    "System Design/HLD/Core Concepts/Sharding",
     "Excalidraw/embed_this.md",
     "Excalidraw/Drawing 2026-04-20 10.59.46.excalidraw.md",
     "Excalidraw/Drawing 2026-05-02 22.21.50.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-28 00.00.57.excalidraw.md",
-    "README.md",
-    "Vault Watcher.md",
-    "System Design/images/Pasted image 20260504165823.png",
-    "System Design/HLD/Core Concepts/Caching/Caching in System Design.md",
-    "System Design/HLD/Core Concepts/Caching/Common Caching Problems.md",
-    "System Design/HLD/Core Concepts/Caching/Cache Eviction Policies.md",
-    "System Design/HLD/Core Concepts/Caching/Cache Architectures.md",
-    "System Design/HLD/Core Concepts/Caching/Where to Cache.md",
-    "System Design/HLD/Core Concepts/Caching/> Caching.md",
-    "System Design/images/Pasted image 20260504172206.png",
-    "System Design/images/Pasted image 20260504171823.png",
-    "System Design/images/Pasted image 20260504171506.png",
-    "System Design/images/Pasted image 20260504171025.png",
-    "System Design/images/Pasted image 20260504170914.png"
+    "Excalidraw/Drawing 2026-04-28 00.00.57.excalidraw.md"
   ]
 }
