@@ -11,14 +11,12 @@
             "id": "61dcf59ccdd470e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md",
-                "mode": "source",
-                "source": false
+                "file": "System Design/images/Pasted image 20260507160510.png"
               },
-              "icon": "lucide-file",
-              "title": "Numbers To Know"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260507160510"
             }
           }
         ]
@@ -181,18 +179,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "61dcf59ccdd470e0",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
-    "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md",
     "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md",
+    "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md",
     "System Design/HLD/Core Concepts/Numbers To Know",
     "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md.tmp.223628.1778185074611",
     "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md.tmp.223628.1778185067560",
     "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md.tmp.223628.1778185062111",
     "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md.tmp.223628.1778185054155",
     "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md.tmp.223628.1778185050531",
-    "Pasted image 20260507160820.png",
-    "Pasted image 20260507160510.png",
+    "System Design/images/Pasted image 20260507160820.png",
+    "System Design/images/Pasted image 20260507160510.png",
     "System Design/images/Pasted image 20260505151812.png",
     "System Design/HLD/Core Concepts/> Core Concepts.md",
     "System Design/HLD/Core Concepts/CAP Theorem",
