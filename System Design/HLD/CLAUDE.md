@@ -2,6 +2,9 @@
 
 This file tells agents how to format raw HLD notes written by Rishi. The words are his — agents only add structure.
 
+> [!important] Read `STYLE.md` too
+> This file covers **structure** (frontmatter, splitting into folders, MOC pattern, wikilinks, `## Related`). The companion `STYLE.md` covers **style recognition** — how to detect when raw text should become a callout, a numbered list, a bold term, a table, etc. Agents must read both before formatting raw text.
+
 ---
 
 ## Core Rule
@@ -12,6 +15,7 @@ This file tells agents how to format raw HLD notes written by Rishi. The words a
 - Wikilinks within existing text where relevant
 - A `## Related` section at the bottom of each note
 - A MOC (`> FileName.md`) when splitting a large note into a folder
+- Markdown wrappers (callouts, lists, bold, tables) where the raw text matches recognizable patterns — see `STYLE.md`
 
 ---
 
