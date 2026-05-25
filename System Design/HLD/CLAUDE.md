@@ -32,18 +32,18 @@ aliases: ["Alternate Name", "Short Name"]
 
 **Tag conventions for HLD notes:**
 
-| Tag | When to use |
-|---|---|
-| `system-design` | Every HLD note |
-| `hld` | Every HLD note |
-| `networking` | Networking section notes |
-| `tcp`, `udp`, `http` | Protocol-specific notes |
-| `load-balancing` | Load balancing notes |
-| `scaling` | Scaling, CDN, regional notes |
-| `fault-tolerance` | Retries, circuit breakers, timeouts |
-| `api` | REST, GraphQL, gRPC notes |
-| `real-time` | SSE, WebSockets, WebRTC notes |
-| `moc` | MOC / index notes only |
+| Tag                  | When to use                         |
+| -------------------- | ----------------------------------- |
+| `system-design`      | Every HLD note                      |
+| `hld`                | Every HLD note                      |
+| `networking`         | Networking section notes            |
+| `tcp`, `udp`, `http` | Protocol-specific notes             |
+| `load-balancing`     | Load balancing notes                |
+| `scaling`            | Scaling, CDN, regional notes        |
+| `fault-tolerance`    | Retries, circuit breakers, timeouts |
+| `api`                | REST, GraphQL, gRPC notes           |
+| `real-time`          | SSE, WebSockets, WebRTC notes       |
+| `moc`                | MOC / index notes only              |
 
 ---
 
