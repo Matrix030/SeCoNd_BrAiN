@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
+                "file": "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defining Operating Systems"
+              "title": "Computer-System Organization"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5004348754883
+    "width": 391.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -181,9 +182,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfb0cd0cdb5b801e",
+  "active": "c653b558a1dd2546",
   "lastOpenFiles": [
-    "Books/Operating System Concepts/Introduction/Untitled",
+    "Pasted image 20260525165531.png",
+    "Pasted image 20260525165527.png",
+    "Pasted image 20260525162945.png",
+    "Pasted image 20260525162750.png",
+    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
+    "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
+    "Books/Operating System Concepts/Introduction/Computer-System Organization",
     "Books/Operating System Concepts/Introduction/What OSs do/System View.md",
     "Books/Operating System Concepts/Introduction/What OSs do/User View.md",
     "Books/Operating System Concepts/Introduction/What OSs do/Computer System Components.md",
@@ -197,14 +204,12 @@
     "Books/Operating System Concepts/CLAUDE.md.tmp.329432.7defa653753c",
     "Books/Operating System Concepts/CLAUDE.md.tmp.329432.727137f00501",
     "Books/Operating System Concepts/Introduction/Introduction.md.tmp.329432.f6d673ba9768",
-    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
     "Books/Operating System Concepts/Introduction/Introduction.md.tmp.329432.17c34152f3dd",
     "Home.md",
     "Books/Operating System Concepts/> Operating System Concepts.md.tmp.329432.9648adc2b831",
     "Books/Operating System Concepts/Introduction/> Introduction.md.tmp.329432.6142ef2d61f7",
     "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md.tmp.329432.e1d68f392dc3",
     "Books/Operating System Concepts/images/Pasted image 20260525153734.png",
-    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md.tmp.329432.415ac6695eef",
     "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
     "Books/Essential Scrum/> Essential Scrum.md",
     "Books/Machine Learning/The Fundamentals of machine Learning.md",
@@ -219,15 +224,11 @@
     "System Design/HLD/Patterns/Dealing with Contention/Dealing with Contention.md",
     "System Design/HLD/Problems/bit.ly.md",
     "System Design/HLD/Problems/> Problems.md",
-    "Machine_Learning/Google_Machine_Learning/ML Models/Linear Regression/Gradient_descent.md",
     "System Design/images/Pasted image 20260524182119.png",
     "System Design/images/Pasted image 20260525141828.png",
     "System Design/images/Pasted image 20260525141210.png",
     "System Design/images/Pasted image 20260525141157.png",
     "System Design/images/Pasted image 20260525140415.png",
-    "System Design/images/Pasted image 20260525140400.png",
-    "System Design/images/Pasted image 20260525140259.png",
-    "System Design/images/Pasted image 20260525135139.png",
-    "System Design/images/Pasted image 20260524194644.png"
+    "System Design/images/Pasted image 20260525140400.png"
   ]
 }
