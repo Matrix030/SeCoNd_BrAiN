@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1a56ee414fa42db1",
+        "id": "526ccf695b5547be",
         "type": "tabs",
         "children": [
           {
-            "id": "801de574ab9e966e",
+            "id": "c653b558a1dd2546",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Operating System Concepts/CLAUDE.md",
+                "file": "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
-            }
-          },
-          {
-            "id": "622950c1e4144081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Defining Operating Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5004348754883
+    "width": 391.5004348754883
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -196,43 +181,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "622950c1e4144081",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
+    "Books/Operating System Concepts/Introduction/Untitled",
+    "Books/Operating System Concepts/Introduction/What OSs do/System View.md",
+    "Books/Operating System Concepts/Introduction/What OSs do/User View.md",
+    "Books/Operating System Concepts/Introduction/What OSs do/Computer System Components.md",
     "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.282436.efdaedb166aa",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.282436.4d5057e2e378",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.282436.5402b27c1ed6",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.282436.e8dcd1ea8b45",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.282436.6f5f3e03080b",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.282436.4e94a0e93f11",
+    "Books/Operating System Concepts/Introduction/> Introduction.md",
+    "Books/Operating System Concepts/Introduction/Introduction.md",
+    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.94002002c8da",
+    "Books/Operating System Concepts/> Operating System Concepts.md",
     "Books/Operating System Concepts/CLAUDE.md",
-    "Books/Operating System Concepts/Introduction/What OSs do",
+    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.666742b68080",
+    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.7defa653753c",
+    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.727137f00501",
+    "Books/Operating System Concepts/Introduction/Introduction.md.tmp.329432.f6d673ba9768",
+    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
+    "Books/Operating System Concepts/Introduction/Introduction.md.tmp.329432.17c34152f3dd",
+    "Home.md",
+    "Books/Operating System Concepts/> Operating System Concepts.md.tmp.329432.9648adc2b831",
+    "Books/Operating System Concepts/Introduction/> Introduction.md.tmp.329432.6142ef2d61f7",
+    "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md.tmp.329432.e1d68f392dc3",
+    "Books/Operating System Concepts/images/Pasted image 20260525153734.png",
+    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md.tmp.329432.415ac6695eef",
+    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
+    "Books/Essential Scrum/> Essential Scrum.md",
+    "Books/Machine Learning/The Fundamentals of machine Learning.md",
+    "personal/aboutme.md",
+    "personal/experience.md",
+    "personal/java_project/Java Project.md",
+    "personal/HCI/HCI_Final.md",
+    "CLAUDE.md",
     "Books/Operating System Concepts/Introduction/What Operating System.md",
     "Excalidraw/Drawing 2026-05-25 14.59.57.excalidraw.md",
-    "Books/Operating System Concepts/Untitled/Untitled",
-    "Books/Operating System Concepts/Introduction",
     "System Design/HLD/CLAUDE.md",
     "System Design/HLD/Patterns/Dealing with Contention/Dealing with Contention.md",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.268556.94b7bc501ce8",
     "System Design/HLD/Problems/bit.ly.md",
     "System Design/HLD/Problems/> Problems.md",
     "Machine_Learning/Google_Machine_Learning/ML Models/Linear Regression/Gradient_descent.md",
-    "Machine_Learning/Google_Machine_Learning/ML Models/Linear Regression/Exercises.md",
-    "Machine_Learning/personal/evaluation metrics.md",
-    "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/> What is an Agent, and how does it work?.md",
-    "Algorithms/CLAUDE.md",
-    "Books/Software Engineering at Google/Chapter 1 - What is Software Engineering?.md",
-    "Books/Programming Massively Parallel Processors/Introduction/Why more Speed or Parallelism.md",
-    "Books/Programming Massively Parallel Processors/Introduction/Parallel Programming Languages and Models.md",
-    "Books/Programming Massively Parallel Processors/Introduction/Overarching Goals.md",
-    "Books/Programming Massively Parallel Processors/Introduction/Introduction (CUDA).md",
-    "Books/Programming Massively Parallel Processors/Introduction/GPUs as Parallel Computers.md",
-    "Books/Programming Massively Parallel Processors/Introduction/Architecture of a Modern GPU.md",
-    "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
-    "Books/Modern C++ for Finance/Untitled.md",
-    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
-    "Books/Database System Concepts/Database System Applications.md",
-    "Books/Database System Concepts/> Database System Concepts.md",
     "System Design/images/Pasted image 20260524182119.png",
     "System Design/images/Pasted image 20260525141828.png",
     "System Design/images/Pasted image 20260525141210.png",
@@ -241,7 +228,6 @@
     "System Design/images/Pasted image 20260525140400.png",
     "System Design/images/Pasted image 20260525140259.png",
     "System Design/images/Pasted image 20260525135139.png",
-    "System Design/images/Pasted image 20260524194644.png",
-    "System Design/images/Pasted image 20260524193828.png"
+    "System Design/images/Pasted image 20260524194644.png"
   ]
 }
