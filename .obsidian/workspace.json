@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49aafd22513f42d1",
+        "id": "47405f654a895da1",
         "type": "tabs",
         "children": [
           {
-            "id": "3375deadd441bd00",
+            "id": "ffca1d24a6f007c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/HLD/Patterns/Real-time Updates/Real-time Updates.md",
+                "file": "Machine_Learning/Google_Machine_Learning/ML Models/Linear Regression/Gradient_descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real-time Updates"
+              "title": "Gradient_descent"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5004348754883
+    "width": 312.5004348754883
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -181,52 +181,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3375deadd441bd00",
+  "active": "ffca1d24a6f007c8",
   "lastOpenFiles": [
-    "Home.md",
-    "System Design/images/Pasted image 20260507170538.png",
-    "System Design/images/Pasted image 20260516141450.png",
-    "README.md",
-    "System Design/> System Design.md",
+    "Machine_Learning/Google_Machine_Learning/ML Models/Linear Regression/Exercises.md",
+    "Machine_Learning/personal/evaluation metrics.md",
+    "AI Agent Course/Unit 1 - Introduction to Agents/1) What is an Agent?/> What is an Agent, and how does it work?.md",
+    "Algorithms/CLAUDE.md",
+    "Books/Software Engineering at Google/Chapter 1 - What is Software Engineering?.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Why more Speed or Parallelism.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Parallel Programming Languages and Models.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Overarching Goals.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Introduction (CUDA).md",
+    "Books/Programming Massively Parallel Processors/Introduction/GPUs as Parallel Computers.md",
+    "Books/Programming Massively Parallel Processors/Introduction/Architecture of a Modern GPU.md",
+    "Books/Essential Scrum/Chapter 2 - Scrum Framework.md",
+    "Books/Modern C++ for Finance/Untitled.md",
+    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
+    "Books/Database System Concepts/Database System Applications.md",
+    "Books/Database System Concepts/> Database System Concepts.md",
+    "Books/Database System Concepts/View of Data.md",
+    "System Design/HLD/Patterns/Real-time Updates/> Real-time Updates.md",
     "System Design/HLD/Patterns/Real-time Updates/Real-time Updates.md",
-    "System Design/HLD/Core Concepts/Caching/Caching in System Design.md",
-    "System Design/HLD/Core Concepts/Caching/> Caching.md",
-    "System Design/HLD/> HLD.md",
-    "Books/Database System Concepts/Purpose of Database Systems.md",
-    "System Design/HLD/CLAUDE.md.tmp.272211.5b78793615df",
-    "System Design/HLD/STYLE.md",
-    "System Design/HLD/STYLE.md.tmp.272211.d122f94c7054",
-    "Excalidraw/Drawing 2026-05-08 12.55.39.excalidraw.md",
-    "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md",
-    "System Design/HLD/Patterns/Real-time Updates",
-    "System Design/HLD/Untitled/Untitled",
-    "System Design/HLD/Patterns",
-    "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md.tmp.333232.91600dddd696",
-    "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md.tmp.333232.f9f55e196ef3",
-    "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md.tmp.333232.9f16cf4fd7a1",
-    "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md.tmp.333232.248bc1a551e1",
-    "System Design/HLD/Core Concepts/Numbers To Know/Numbers To Know.md.tmp.333232.27e55c08704a",
-    "System Design/HLD/CLAUDE.md",
-    "CLAUDE.md",
-    "System Design/images/Pasted image 20260507160510.png",
-    "System Design/HLD/Core Concepts/CAP Theorem/CAP Theorem.md",
-    "System Design/images/Pasted image 20260507160820.png",
-    "System Design/images/Pasted image 20260505151812.png",
-    "System Design/HLD/Core Concepts/> Core Concepts.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/When to Use Consistent Hashing.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/Consistent Hashing in the Real World.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/Data Movement in Practice.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/Addressing Hot Spots.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/The Hash Ring.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/Simple Modulo Hashing.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/> Consistent Hashing.md",
-    "System Design/HLD/Core Concepts/Consistent Hashing/Consistent Hashing.md",
-    "System Design/HLD/Core Concepts/Sharding/Sharding in Modern Databases.md",
-    "System Design/HLD/Core Concepts/Sharding/> Sharding.md",
-    "System Design/images/Pasted image 20260505161632.png",
-    "System Design/images/Pasted image 20260505161502.png",
-    "System Design/images/Pasted image 20260505160441.png",
-    "System Design/images/Pasted image 20260505160141.png",
-    "System Design/images/Pasted image 20260505155310.png"
+    "System Design/HLD/Patterns/Real-time Updates/Real-time Updates.md.tmp.236377.888a182fa9f6",
+    "System Design/HLD/Patterns/Real-time Updates/Conclusion.md",
+    "System Design/HLD/Patterns/Real-time Updates/Conclusion.md.tmp.236377.76e61bcc655f",
+    "System Design/HLD/Patterns/Real-time Updates/Common Deep Dives.md",
+    "System Design/HLD/Patterns/Real-time Updates/Common Deep Dives.md.tmp.236377.ec1dcf266a07",
+    "System Design/HLD/Patterns/Real-time Updates/When to Use.md",
+    "System Design/HLD/Patterns/Real-time Updates/When to Use.md.tmp.236377.f6fa443f5330",
+    "System Design/HLD/Patterns/Real-time Updates/Pushing via Pub-Sub.md",
+    "System Design/HLD/Patterns/Real-time Updates/Pushing via Pub-Sub.md.tmp.236377.6ef66108c261",
+    "System Design/HLD/Patterns/Real-time Updates/Pushing via Consistent Hashes.md",
+    "System Design/HLD/Patterns/Real-time Updates/Pushing via Consistent Hashes.md.tmp.236377.be82894bc179",
+    "System Design/HLD/Patterns/Real-time Updates/Pulling with Simple Polling.md",
+    "System Design/HLD/Patterns/Real-time Updates/Pulling with Simple Polling.md.tmp.236377.7fbdb09156a5",
+    "System Design/HLD/Patterns/Real-time Updates/Server-Side Push and Pull.md",
+    "System Design/HLD/Patterns/Real-time Updates/Server-Side Push and Pull.md.tmp.236377.297c5fedb99e",
+    "System Design/HLD/Patterns/Real-time Updates/Choosing a Protocol.md.tmp.236377.1ed30368587f",
+    "System Design/HLD/Patterns/Real-time Updates/WebRTC - Peer-to-Peer.md.tmp.236377.b88807dc7089",
+    "System Design/images/Pasted image 20260524182119.png",
+    "System Design/images/Pasted image 20260525141828.png",
+    "System Design/images/Pasted image 20260525141210.png",
+    "System Design/images/Pasted image 20260525141157.png",
+    "System Design/images/Pasted image 20260525140415.png",
+    "System Design/images/Pasted image 20260525140400.png",
+    "System Design/images/Pasted image 20260525140259.png",
+    "System Design/images/Pasted image 20260525135139.png",
+    "System Design/images/Pasted image 20260524194644.png",
+    "System Design/images/Pasted image 20260524193828.png"
   ]
 }
