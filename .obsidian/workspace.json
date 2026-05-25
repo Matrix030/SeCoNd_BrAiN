@@ -11,14 +11,12 @@
             "id": "c653b558a1dd2546",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Operating System Concepts/images/Pasted image 20260525162750.png"
               },
-              "icon": "lucide-file",
-              "title": "Computer-System Organization"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260525162750"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5004348754883,
-    "collapsed": true
+    "width": 391.5004348754883
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -182,14 +179,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c653b558a1dd2546",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
-    "Pasted image 20260525165531.png",
-    "Pasted image 20260525165527.png",
-    "Pasted image 20260525162945.png",
-    "Pasted image 20260525162750.png",
-    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
     "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
+    "Books/Operating System Concepts/images/Pasted image 20260525165531.png",
+    "Books/Operating System Concepts/images/Pasted image 20260525165527.png",
+    "Books/Operating System Concepts/images/Pasted image 20260525162945.png",
+    "Books/Operating System Concepts/images/Pasted image 20260525162750.png",
+    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
     "Books/Operating System Concepts/Introduction/Computer-System Organization",
     "Books/Operating System Concepts/Introduction/What OSs do/System View.md",
     "Books/Operating System Concepts/Introduction/What OSs do/User View.md",
@@ -228,7 +225,6 @@
     "System Design/images/Pasted image 20260525141828.png",
     "System Design/images/Pasted image 20260525141210.png",
     "System Design/images/Pasted image 20260525141157.png",
-    "System Design/images/Pasted image 20260525140415.png",
-    "System Design/images/Pasted image 20260525140400.png"
+    "System Design/images/Pasted image 20260525140415.png"
   ]
 }
