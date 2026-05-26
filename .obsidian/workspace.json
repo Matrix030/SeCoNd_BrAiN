@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "526ccf695b5547be",
+        "id": "18cd22ff38261d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "c653b558a1dd2546",
+            "id": "53491dde816b4a9c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Books/Operating System Concepts/images/Pasted image 20260525162750.png"
+                "file": "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260525162750"
+              "icon": "lucide-file",
+              "title": "Computer-System Organization"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LRU",
+                "query": "wtf",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,21 +182,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dfb0cd0cdb5b801e",
+  "active": "5aff83ac75398693",
   "lastOpenFiles": [
+    "Books/Operating System Concepts/Introduction/> Introduction.md",
+    "Books/Operating System Concepts/Introduction/Introduction.md",
+    "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md",
+    "Books/Operating System Concepts/images/Pasted image 20260525162750.png",
     "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
     "Books/Operating System Concepts/images/Pasted image 20260525165531.png",
     "Books/Operating System Concepts/images/Pasted image 20260525165527.png",
     "Books/Operating System Concepts/images/Pasted image 20260525162945.png",
-    "Books/Operating System Concepts/images/Pasted image 20260525162750.png",
     "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
     "Books/Operating System Concepts/Introduction/Computer-System Organization",
     "Books/Operating System Concepts/Introduction/What OSs do/System View.md",
     "Books/Operating System Concepts/Introduction/What OSs do/User View.md",
     "Books/Operating System Concepts/Introduction/What OSs do/Computer System Components.md",
-    "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md",
-    "Books/Operating System Concepts/Introduction/> Introduction.md",
-    "Books/Operating System Concepts/Introduction/Introduction.md",
     "Books/Operating System Concepts/CLAUDE.md.tmp.329432.94002002c8da",
     "Books/Operating System Concepts/> Operating System Concepts.md",
     "Books/Operating System Concepts/CLAUDE.md",
