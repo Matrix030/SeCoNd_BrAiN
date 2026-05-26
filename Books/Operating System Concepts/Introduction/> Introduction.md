@@ -17,6 +17,11 @@ aliases: ["Introduction"]
 ## Sub-topics
 
 - [[> What OSs do]] — user view, system view, and defining operating systems
+- [[> Computer-System Organization]] — computer-system operation, storage hierarchy, and I/O structure
+- [[> Computer-System Architecture]] — single-processor, multiprocessor, and clustered systems
+- [[> Operating-System Structure]] — multiprogramming, time sharing, CPU scheduling, and virtual memory
+- [[> Operating-System Operations]] — interrupt-driven OS, dual-mode operation, and timers
+- [[> Process Management]] — process vs program, resources, threads, and OS responsibilities
 
 ---
 
