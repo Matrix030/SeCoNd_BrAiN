@@ -19,6 +19,7 @@ aliases: ["Hands-On ML", "Géron", "Hands-On Machine Learning MOC"]
 ---
 
 ## Related
+- [[> Books]] — all book notes
 - [[Machine Learning]] — root chapter link
 - [[Udemy Machine Learning]]
 - [[> 1. Supervised Machine Learning]]

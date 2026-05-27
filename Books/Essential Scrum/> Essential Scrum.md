@@ -25,4 +25,5 @@ aliases: ["Essential Scrum MOC", "Scrum Book"]
 ---
 
 ## Related
+- [[> Books]] — all book notes
 - [[Chapters]] — bare chapter list

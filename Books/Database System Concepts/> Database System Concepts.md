@@ -25,5 +25,6 @@ aliases: ["DBMS Book", "Database System Concepts MOC"]
 ---
 
 ## Related
+- [[> Books]] — all book notes
 - [[Chapters]] — bare chapter list
 - [[> SQL]]

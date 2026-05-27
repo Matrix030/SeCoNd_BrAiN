@@ -13,9 +13,11 @@ aliases: ["OS Concepts MOC", "Dinosaur Book"]
 ## Chapters
 
 - [[> Introduction]] — what an OS does, its components, and defining operating systems
+- [[> Operating-System Structures]] — OS services, interfaces, and system structure
 
 ---
 
 ## Related
 
+- [[> Books]] — all book notes
 - [[Home]] — vault dashboard
