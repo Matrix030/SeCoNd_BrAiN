@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18cd22ff38261d4c",
+        "id": "6892e9faf6f1a223",
         "type": "tabs",
         "children": [
           {
-            "id": "53491dde816b4a9c",
+            "id": "f44b9d109335088b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
+                "file": "Books/Operating System Concepts/Introduction/Introduction Summary/Introduction Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer-System Organization"
+              "title": "Introduction Summary"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wtf",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5004348754883
+    "width": 404.5
   },
   "right": {
     "id": "34d6bdc9abad0155",
@@ -182,52 +181,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aff83ac75398693",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
+    "Books/Operating System Concepts/Introduction/> Introduction.md.tmp.31038.08101a58c885",
+    "Books/Operating System Concepts/Introduction/Introduction Summary/Introduction Summary.md.tmp.31038.a64b90337db4",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Linux.md",
+    "Books/Operating System Concepts/Introduction/Introduction Summary/Introduction Summary.md.tmp.31038.b032c5f7529f",
+    "Books/Operating System Concepts/Introduction/Summary/Summary.md",
+    "Books/Operating System Concepts/Introduction/Introduction Summary/Introduction Summary.md",
+    "Books/Operating System Concepts/Introduction/Introduction Summary",
+    "Books/Operating System Concepts/Introduction/Summary/Introduction Summary.md",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Utility.md.tmp.31038.d98caf222a2e",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Solaris.md.tmp.31038.adfa1a9d5894",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/BSD UNIX.md.tmp.31038.4e84899f2f2a",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Linux.md.tmp.31038.0a0a4633072e",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/History.md.tmp.31038.fe6de9a51109",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Open-Source Operating Systems.md.tmp.31038.a113e59034eb",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/> Open-Source Operating Systems.md",
     "Books/Operating System Concepts/Introduction/> Introduction.md",
+    "Books/Operating System Concepts/> Operating System Concepts.md",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Open-Source Operating Systems.md",
+    "Books/Operating System Concepts/Introduction/Summary/Summary.md.tmp.31038.f279299b319a",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Utility.md",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Solaris.md",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/BSD UNIX.md",
+    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/History.md",
     "Books/Operating System Concepts/Introduction/Introduction.md",
-    "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md",
+    "Books/Operating System Concepts/Introduction/Special-Purpose Systems/> Special-Purpose Systems.md",
+    "Books/Operating System Concepts/Introduction/Computing Environments/> Computing Environments.md",
+    "Books/Operating System Concepts/Introduction/Computing Environments/Computing Environments.md",
+    "Books/Operating System Concepts/Introduction/Computing Environments/Web-Based Computing.md",
+    "Books/Operating System Concepts/Introduction/Computing Environments/Peer-to-Peer Computing.md",
+    "Books/Operating System Concepts/Introduction/Computing Environments/Client-Server Computing.md",
+    "Books/Operating System Concepts/Introduction/Computing Environments/Traditional Computing.md",
+    "Books/Operating System Concepts/images/Pasted image 20260527165701.png",
+    "Books/Operating System Concepts/Introduction/Special-Purpose Systems/Special-Purpose Systems.md",
+    "Books/Operating System Concepts/Introduction/Special-Purpose Systems/Handheld Systems.md",
+    "Books/Operating System Concepts/Introduction/Special-Purpose Systems/Multimedia Systems.md",
+    "Books/Operating System Concepts/Introduction/Special-Purpose Systems/Real-Time Embedded Systems.md",
+    "Books/Operating System Concepts/Introduction/Process Management/> Process Management.md",
+    "Books/Operating System Concepts/images/Pasted image 20260526222851.png",
+    "Books/Operating System Concepts/images/Pasted image 20260526223937.png",
     "Books/Operating System Concepts/images/Pasted image 20260525162750.png",
-    "Books/Operating System Concepts/Introduction/Computer-System Organization/Computer-System Organization.md",
     "Books/Operating System Concepts/images/Pasted image 20260525165531.png",
     "Books/Operating System Concepts/images/Pasted image 20260525165527.png",
     "Books/Operating System Concepts/images/Pasted image 20260525162945.png",
-    "Books/Operating System Concepts/Introduction/What OSs do/Defining Operating Systems.md",
-    "Books/Operating System Concepts/Introduction/Computer-System Organization",
-    "Books/Operating System Concepts/Introduction/What OSs do/System View.md",
-    "Books/Operating System Concepts/Introduction/What OSs do/User View.md",
-    "Books/Operating System Concepts/Introduction/What OSs do/Computer System Components.md",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.94002002c8da",
-    "Books/Operating System Concepts/> Operating System Concepts.md",
-    "Books/Operating System Concepts/CLAUDE.md",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.666742b68080",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.7defa653753c",
-    "Books/Operating System Concepts/CLAUDE.md.tmp.329432.727137f00501",
-    "Books/Operating System Concepts/Introduction/Introduction.md.tmp.329432.f6d673ba9768",
-    "Books/Operating System Concepts/Introduction/Introduction.md.tmp.329432.17c34152f3dd",
-    "Home.md",
-    "Books/Operating System Concepts/> Operating System Concepts.md.tmp.329432.9648adc2b831",
-    "Books/Operating System Concepts/Introduction/> Introduction.md.tmp.329432.6142ef2d61f7",
-    "Books/Operating System Concepts/Introduction/What OSs do/> What OSs do.md.tmp.329432.e1d68f392dc3",
     "Books/Operating System Concepts/images/Pasted image 20260525153734.png",
-    "Books/Essential Scrum/Chapter 1 - What is Scrum?.md",
-    "Books/Essential Scrum/> Essential Scrum.md",
-    "Books/Machine Learning/The Fundamentals of machine Learning.md",
-    "personal/aboutme.md",
-    "personal/experience.md",
-    "personal/java_project/Java Project.md",
-    "personal/HCI/HCI_Final.md",
-    "CLAUDE.md",
-    "Books/Operating System Concepts/Introduction/What Operating System.md",
-    "Excalidraw/Drawing 2026-05-25 14.59.57.excalidraw.md",
-    "System Design/HLD/CLAUDE.md",
-    "System Design/HLD/Patterns/Dealing with Contention/Dealing with Contention.md",
-    "System Design/HLD/Problems/bit.ly.md",
-    "System Design/HLD/Problems/> Problems.md",
     "System Design/images/Pasted image 20260524182119.png",
-    "System Design/images/Pasted image 20260525141828.png",
-    "System Design/images/Pasted image 20260525141210.png",
-    "System Design/images/Pasted image 20260525141157.png",
-    "System Design/images/Pasted image 20260525140415.png"
+    "System Design/images/Pasted image 20260525141828.png"
   ]
 }
