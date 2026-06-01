@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a040f3309242a8d5",
+        "id": "eb1d5260403d3708",
         "type": "tabs",
         "children": [
           {
-            "id": "f39e4a71607dfe5f",
+            "id": "2df0dbe3696aacca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Operating System Concepts/Operating-System Structures/Operating-System Services/Operating-System Services.md",
+                "file": "Books/Operating System Concepts/Processes/Processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating-System Services"
+              "title": "Processes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/HLD/Core Concepts/Sharding/Sharding.md",
+                "file": "Books/Operating System Concepts/Operating-System Structures/Operating-System Design and Implementation/Operating-System Design and Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sharding"
+              "title": "Backlinks for Operating-System Design and Implementation"
             }
           },
           {
@@ -181,53 +181,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f39e4a71607dfe5f",
+  "active": "2df0dbe3696aacca",
   "lastOpenFiles": [
-    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures.md",
-    "Books/Operating System Concepts/Operating-System Structures/Operating-System Services/Operating-System Services.md",
-    "Books/Operating System Concepts/Operating-System Structures/Operating-System Services/Operating-System Services.md.tmp.90630.ac1eba0a4e5f",
-    "Books/Operating System Concepts/Operating-System Structures/Operating-System Services",
-    "Books/Operating System Concepts/> Operating System Concepts.md.tmp.90630.4240718a4031",
-    "Books/Operating System Concepts/Operating-System Structures/> Operating-System Structures.md",
-    "Books/Operating System Concepts/Operating-System Structures/> Operating-System Structures.md.tmp.90630.991367eb7753",
+    "Books/Operating System Concepts/Processes/> Processes.md",
     "Books/Operating System Concepts/> Operating System Concepts.md",
-    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures.md.tmp.90630.e2571dc454ae",
-    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures.md.tmp.90630.9681707f3394",
-    "Books/Operating System Concepts/Introduction/Introduction.md",
-    "Books/Operating System Concepts/Introduction/> Introduction.md",
-    "Books/Operating System Concepts/> Operating System Concepts.md.tmp.90630.d67bdea40420",
-    "Books/Operating System Concepts/Operating-System Structures/> Operating-System Structures.md.tmp.90630.171af53f7d27",
-    "Books/Operating System Concepts/Operating-System Structures",
-    "Idempotency.md",
-    "swapping.md",
-    "SCSI.md",
-    "Books/> Books.md",
-    "Home.md.tmp.72515.793146827146",
-    "Home.md",
-    "README.md",
-    "CLAUDE.md",
-    "Books/Operating System Concepts/Introduction/Introduction Summary/Introduction Summary.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Linux.md",
-    "Books/Operating System Concepts/Introduction/Summary/Summary.md",
-    "Books/Operating System Concepts/Introduction/Summary/Introduction Summary.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/> Open-Source Operating Systems.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Open-Source Operating Systems.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Utility.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/Solaris.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/BSD UNIX.md",
-    "Books/Operating System Concepts/Introduction/Open-Source Operating Systems/History.md",
-    "Books/Operating System Concepts/Introduction/Special-Purpose Systems/> Special-Purpose Systems.md",
-    "Books/Operating System Concepts/Introduction/Computing Environments/> Computing Environments.md",
-    "Books/Operating System Concepts/Introduction/Computing Environments/Computing Environments.md",
-    "Books/Operating System Concepts/images/Pasted image 20260527165701.png",
-    "Books/Operating System Concepts/images/Pasted image 20260526222851.png",
-    "Books/Operating System Concepts/images/Pasted image 20260526223937.png",
-    "Books/Operating System Concepts/images/Pasted image 20260525162750.png",
-    "Books/Operating System Concepts/images/Pasted image 20260525165531.png",
-    "Books/Operating System Concepts/images/Pasted image 20260525165527.png",
-    "Books/Operating System Concepts/images/Pasted image 20260525162945.png",
-    "Books/Operating System Concepts/images/Pasted image 20260525153734.png",
-    "System Design/images/Pasted image 20260524182119.png",
-    "System Design/images/Pasted image 20260525141828.png"
+    "Books/Operating System Concepts/> Operating System Concepts.md.tmp.212001.94534bfb427c",
+    "Books/Operating System Concepts/Processes/Process Concept/Process Concept.md",
+    "Books/Operating System Concepts/Processes/Process Concept/Process Concept.md.tmp.212001.5c6dd7bac195",
+    "Books/Operating System Concepts/Processes/Process Concept",
+    "Books/Operating System Concepts/Processes/> Processes.md.tmp.212001.db29a66aeafd",
+    "Books/Operating System Concepts/Processes/Processes.md",
+    "Books/Operating System Concepts/Processes/Processes.md.tmp.212001.42b899115756",
+    "Books/Operating System Concepts/Processes",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures Summary/Operating-System Structures Summary.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures Summary/Operating-System Structures Summary.md.tmp.212001.0b4e35803954",
+    "Books/Operating System Concepts/Operating-System Structures/> Operating-System Structures.md",
+    "Books/Operating System Concepts/Operating-System Structures/> Operating-System Structures.md.tmp.212001.f7a31ee4c254",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures Summary/Operating-System Structures Summary.md.tmp.212001.af107041f3cf",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Structures Summary",
+    "Books/Operating System Concepts/Operating-System Structures/System Boot/System Boot.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Generation/Operating-System Generation.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Debugging/Operating-System Debugging.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Debugging/> Operating-System Debugging.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Debugging/DTrace.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Debugging/Performance Tuning.md",
+    "Books/Operating System Concepts/Operating-System Structures/Operating-System Debugging/Failure Analysis.md",
+    "Books/Operating System Concepts/images/Pasted image 20260601132222.png",
+    "Books/Operating System Concepts/images/Pasted image 20260601132327.png",
+    "Books/Operating System Concepts/images/Pasted image 20260601163816.png",
+    "Books/Operating System Concepts/images/Pasted image 20260601163806.png",
+    "Books/Operating System Concepts/images/Pasted image 20260601163751.png",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Virtual Machines.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/> Virtual Machines.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Examples/> Examples.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Examples/The Java Virtual Machine.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Examples/VMware.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Examples/Examples.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Implementation.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Para-virtualization.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Simulation.md",
+    "Books/Operating System Concepts/Operating-System Structures/Virtual Machines/Benefits.md",
+    "personal/aboutme.md",
+    "Books/Operating System Concepts/images/Pasted image 20260601132312.png",
+    "Books/Operating System Concepts/images/Pasted image 20260601132258.png",
+    "Books/Operating System Concepts/images/Pasted image 20260601132244.png",
+    "Books/Operating System Concepts/images/Pasted image 20260529150559.png",
+    "Books/Operating System Concepts/images/Pasted image 20260529212358.png",
+    "CLAUDE.md"
   ]
 }

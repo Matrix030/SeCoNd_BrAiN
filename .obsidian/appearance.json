@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Obsidianite",
-  "baseFontSize": 15,
+  "cssTheme": "Minimal",
+  "baseFontSize": 29,
   "baseFontSizeAction": true,
   "theme": "obsidian",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font",
   "textFontFamily": "CaskaydiaCove Nerd Font",
-  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "nativeMenus": false
 }

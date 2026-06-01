@@ -3,7 +3,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "tabSize": 4,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showIndentGuide": true,
   "promptDelete": false,
   "defaultViewMode": "source",
