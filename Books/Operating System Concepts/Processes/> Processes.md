@@ -16,7 +16,9 @@ aliases: ["Processes"]
 
 ## Sub-topics
 
-- [[Process Concept]] — what a process is: its parts, states, and the process control block
+- [[> Process Concept]] — what a process is: its parts, states, and the process control block
+- [[> Process Scheduling]] — scheduling queues, the schedulers, and context switches
+- [[> Operations on Processes]] — creating and terminating processes dynamically
 
 ---
 

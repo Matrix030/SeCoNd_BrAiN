@@ -2,6 +2,7 @@
 tags: [dev-basics]
 aliases: ["C Basics"]
 ---
+
 [[Welcome to Memory Management]]
 [[C Program Structure]]
 [[Printing Variables]]
