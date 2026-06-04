@@ -11,14 +11,12 @@
             "id": "2df0dbe3696aacca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Books/Operating System Concepts/Threads/> Threads.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Operating System Concepts/images/Pasted image 20260604184734.png"
               },
-              "icon": "lucide-file",
-              "title": "> Threads"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260604184734"
             }
           }
         ]
@@ -74,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,10 +179,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2df0dbe3696aacca",
+  "active": "dfb0cd0cdb5b801e",
   "lastOpenFiles": [
-    "Books/Operating System Concepts/Processes/Processes Summary/Processes Summary.md",
     "Books/Operating System Concepts/Threads/> Threads.md",
+    "Books/Operating System Concepts/Processes/Processes Summary/Processes Summary.md",
     "Books/Operating System Concepts/Processes/> Processes.md",
     "Books/Operating System Concepts/Introduction/Computer-System Organization/Storage Structure.md",
     "Books/Operating System Concepts/> Operating System Concepts.md.tmp.126510.216eb82eee59",
@@ -206,16 +203,16 @@
     "Books/Operating System Concepts/Processes/Communication in Client-Server Systems/Remote Procedure Calls.md",
     "Books/Operating System Concepts/Processes/Communication in Client-Server Systems/Sockets.md",
     "Books/Operating System Concepts/Processes/Communication in Client-Server Systems/Communication in Client-Server Systems.md",
-    "Pasted image 20260604185902.png",
-    "Pasted image 20260604185852.png",
-    "Pasted image 20260604185839.png",
-    "Pasted image 20260604185837.png",
-    "Pasted image 20260604185823.png",
-    "Pasted image 20260604185812.png",
-    "Pasted image 20260604185758.png",
-    "Pasted image 20260604185751.png",
-    "Pasted image 20260604185741.png",
-    "Pasted image 20260604185733.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185902.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185852.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185839.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185837.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185823.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185812.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185758.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185751.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185741.png",
+    "Books/Operating System Concepts/images/Pasted image 20260604185733.png",
     "Books/Operating System Concepts/Processes/Examples of IPC Systems/> Examples of IPC Systems.md",
     "Books/Operating System Concepts/Processes/Examples of IPC Systems/Windows XP.md",
     "Books/Operating System Concepts/Processes/Examples of IPC Systems/Mach.md",
