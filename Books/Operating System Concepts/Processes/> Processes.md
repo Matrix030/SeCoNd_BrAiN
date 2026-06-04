@@ -19,6 +19,16 @@ aliases: ["Processes"]
 - [[> Process Concept]] — what a process is: its parts, states, and the process control block
 - [[> Process Scheduling]] — scheduling queues, the schedulers, and context switches
 - [[> Operations on Processes]] — creating and terminating processes dynamically
+[TODO - wtf, IPC hard]
+- [[> Interprocess Communication]] — how cooperating processes share data: shared memory and message passing
+- [[> Examples of IPC Systems]] — POSIX shared memory, Mach, and Windows XP
+- [[> Communication in Client-Server Systems]] — sockets, remote procedure calls, and pipes
+
+---
+
+## Summary
+
+- [[Processes Summary]] — chapter recap of the key concepts
 
 ---
 

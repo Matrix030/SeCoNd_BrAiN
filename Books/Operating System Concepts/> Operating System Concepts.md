@@ -15,6 +15,7 @@ aliases: ["OS Concepts MOC", "Dinosaur Book"]
 - [[> Introduction]] — what an OS does, its components, and defining operating systems
 - [[> Operating-System Structures]] — OS services, interfaces, and system structure
 - [[> Processes]] — the process concept, scheduling, operations, and interprocess communication
+- [[> Threads]] — threads, multicore programming, and multithreading models
 
 ---
 
