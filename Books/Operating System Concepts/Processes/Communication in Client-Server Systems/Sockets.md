@@ -16,7 +16,7 @@ aliases: ["3.6.1", "Sockets"]
 6) This ensures that all connections consist of a unique pair of sockets.
 7) Java provides three different types of sockets. **Connection-oriented (TCP) sockets** are implemented with the Socket class. **Connectionless (UDP) sockets** use the DatagramSocket class. Finally, the MulticastSocket class is a subclass of the DatagramSocket class. A multicast socket allows data to be sent to multiple recipients.
 8) Our example describes a date server that uses connection-oriented TCP sockets. The operation allows clients to request the current date and time from the server. The server listens to port 6013, although the port could have any arbitrary number greater than 1024. When a connection is received, the server returns the date and time to the client.
-9) The date server is shown in Figure 3.19. The server creates a ServerSocket that specifies it will listen to port 6013. The server then begins listening to the port with the accept() method. The server blocks on the accept() method waiting for a client to request a connection. When a connection request is received, accept() returns a socket that the server can use to communicate with the client.
+9) The date server is shown below. The server creates a ServerSocket that specifies it will listen to port 6013. The server then begins listening to the port with the accept() method. The server blocks on the accept() method waiting for a client to request a connection. When a connection request is received, accept() returns a socket that the server can use to communicate with the client.
 10) The details of how the server communicates with the socket are as follows. 
 	- The server first establishes a **PrintWriter** object that it will use to communicate with the client. 
 	- A **PrintWriter** object allows the server to write to the socket using the routine print() and println() methods for output. 
@@ -27,7 +27,37 @@ aliases: ["3.6.1", "Sockets"]
 14) The IP address 127.0.0.1 is a special IP address known as the **loopback**. 
 15) When a computer refers to IP address 127.0.0.1, it is referring to itself. This mechanism allows a client and server on the same host to communicate using the TCP/IP protocol. The IP address 127.0.0.1 could be replaced with the IP address of another host running the date server. In addition to an IP address, an actual host name, such as _[www.westminstercollege.edu](http://www.westminstercollege.edu)_, can be used as well.
 
-![[Pasted image 20260604185700.png]]
+```java
+import java.net.*;
+import java.io.*;
+
+public class DateServer
+{
+	public static void main(String[] args) {
+		try {
+			ServerSocket sock = new ServerSocket(6013);
+
+			// now listen for connections
+			while (true) {
+				Socket client = sock.accept();
+
+				PrintWriter pout = new
+					PrintWriter(client.getOutputStream(), true);
+
+				// write the Date to the socket
+				pout.println(new java.util.Date().toString());
+
+				// close the socket and resume
+				// listening for connections
+				client.close();
+			}
+		}
+		catch (IOException ioe) {
+			System.err.println(ioe);
+		}
+	}
+}
+```
 
 16) Communication using sockets—although common and efficient—is considered a low-level form of communication between distributed processes. One reason is that sockets allow only an unstructured stream of bytes to be exchanged between the communicating threads.
 17) It is the responsibility of the client or server application to impose a structure on the data. In the next two subsections, we look at two higher-level methods of communication: remote procedure calls (RPCs) and pipes.

@@ -11,7 +11,11 @@ aliases: ["Shell", "2.2.1"]
 4) Many of the commands given at this level manipulate files: create, delete, list, print, copy, execute, and so on.
 5) In one approach, the command interpreter itself contains the code to execute the command. For example, a command to delete a file may cause the command interpreter to jump to a section of its code that sets up the parameters and makes the appropriate [[system call]]. In this case, the number of commands that can be given determines the size of the command interpreter, since each command requires its own implementing code.
 6) An alternative approach—used by UNIX, among other operating systems —implements most commands through system programs. In this case, the command interpreter does not understand the command in any way; it merely uses the command to identify a file to be loaded into memory and executed. Thus, the UNIX command to delete a file
-![[Pasted image 20260528140157.png|837]]
+
+```bash
+rm file.txt
+```
+
 would search for a file called rm, load the file into memory, and execute it with the parameter file.txt. The function associated with the rm command would be defined completely by the code in the file rm.
 7) In this way, programmers can add new commands to the system easily by creating new files with the proper names. The command-interpreter program, which can be small, does not have to be changed for new commands to be added.
 

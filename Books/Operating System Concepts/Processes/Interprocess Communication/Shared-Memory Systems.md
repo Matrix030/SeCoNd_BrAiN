@@ -23,13 +23,46 @@ aliases: ["3.4.1", "Shared-Memory Systems"]
 	- The **bounded buffer** assumes a fixed buffer size. In this case, the consumer must wait if the buffer is empty, and the producer must wait if the buffer is full.
 11) Let’s look more closely at how the bounded buffer can be used to enable processes to share memory. The following variables reside in a region of memory shared by the producer and consumer processes:
 
-![[Pasted image 20260602143825.png]]
+```c
+#define BUFFER_SIZE 10
+
+typedef struct {
+	. . .
+}item;
+
+item buffer[BUFFER_SIZE];
+int in = 0;
+int out = 0;
+```
 
 13) The shared buffer is implemented as a circular array with two logical pointers: in and out. The variable in points to the next free position in the buffer; out points to the first full position in the buffer. The buffer is empty when in == out; the buffer is full when ((in + 1) % BUFFER_SIZE) == out.
 14) The code for the producer and consumer processes is shown in the figures below. The producer process has a local variable nextProduced in which the new item to be produced is stored. The consumer process has a local variable nextConsumed in which the item to be consumed is stored.
 15) This scheme allows at most BUFFER_SIZE—1 items in the buffer at the same time.
 
-![[Pasted image 20260602143834.png]]
+```c
+item nextProduced;
+
+while (true) {
+	/* produce an item in nextProduced */
+	while (((in + 1) % BUFFER_SIZE) == out)
+		; /* do nothing */
+	buffer[in] = nextProduced;
+	in = (in + 1) % BUFFER_SIZE;
+}
+```
+
+```c
+item nextConsumed;
+
+while (true) {
+	while (in == out)
+		; // do nothing
+
+	nextConsumed = buffer[out];
+	out = (out + 1) % BUFFER_SIZE;
+	/* consume the item in nextConsumed */
+}
+```
 
 ## Related
 

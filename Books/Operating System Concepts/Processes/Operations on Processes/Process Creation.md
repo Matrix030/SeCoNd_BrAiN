@@ -31,13 +31,40 @@ aliases: ["3.3.1"]
 17) The exec() system call loads a binary file into memory (destroying the memory image of the program containing the exec() system call) and starts its execution. 
 18) In this manner, the two processes are able to communicate and then go their separate ways. 
 19) The parent can then create more children; or, if it has nothing else to do while the child runs, it can issue a wait() system call to move itself off the [[Scheduling Queues|ready queue]] until the termination of the child.
-20) The C program shown in the figure below illustrates the UNIX system calls previously described. We now have two different processes running copies of the same program. T
+20) The C program shown below illustrates the UNIX system calls previously described. We now have two different processes running copies of the same program. T
 21) he only difference is that the value of pid (the process identifier) for the child process is zero, while that for the parent is an integer value greater than zero (in fact, it is the actual pid of the child process).
 22) The child process inherits privileges and scheduling attributes from the parent, as well certain resources, such as open files. 
 23) The child process then overlays its address space with the UNIX command /bin/ls (used to get a directory listing) using the execlp() system call (execlp() is a version of the exec() system call). 
 24) The parent waits for the child process to complete with the wait() system call. When the child process completes (by either implicitly or explicitly invoking exit()) the parent process resumes from the call to wait(), where it completes using the exit() system call. This is also illustrated in the figure below.
 
-![[Pasted image 20260602135126.png]]
+```c
+#include <sys/types.h>
+#include <stdio.h>
+#include <unistd.h>
+
+int main()
+{
+pid_t pid;
+
+	/* fork a child process */
+	pid = fork();
+
+	if (pid < 0) { /* error occurred */
+		fprintf(stderr, "Fork Failed");
+		return 1;
+	}
+	else if (pid == 0) { /* child process */
+		execlp("/bin/ls","ls",NULL);
+	}
+	else { /* parent process */
+		/* parent will wait for the child to complete */
+		wait(NULL);
+		printf("Child Complete");
+	}
+
+	return 0;
+}
+```
 
 ![[Pasted image 20260602135133.png]]
 

@@ -8,8 +8,6 @@ aliases: ["3.4.2", "Message-Passing Systems"]
 1) In Section 3.4.1, we showed how cooperating processes can communicate in a shared-memory environment. The scheme requires that these processes share a region of memory and that the code for accessing and manipulating the shared memory be written explicitly by the application programmer. Another way to achieve the same effect is for the operating system to provide the means for cooperating processes to communicate with each other via a message-passing facility.
 2) Message passing provides a mechanism to allow processes to communicate and to synchronize their actions without sharing the same address space and is particularly useful in a distributed environment, where the communicating processes may reside on different computers connected by a network. For example, a **chat** program used on the World Wide Web could be designed so that chat participants communicate with one another by exchanging messages.
 
-![[Pasted image 20260602143844.png]]
-
 3) A message-passing facility provides at least two operations: 
 	- send(message) and 
 	- receive(message). 
