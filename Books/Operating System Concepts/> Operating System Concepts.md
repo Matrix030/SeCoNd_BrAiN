@@ -16,6 +16,7 @@ aliases: ["OS Concepts MOC", "Dinosaur Book"]
 - [[> Operating-System Structures]] — OS services, interfaces, and system structure
 - [[> Processes]] — the process concept, scheduling, operations, and interprocess communication
 - [[> Threads]] — threads, multicore programming, and multithreading models
+- [[> CPU Scheduling]] — CPU-scheduling concepts, algorithms, and selecting an algorithm
 
 ---
 

@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Minimal",
-  "baseFontSize": 21,
+  "cssTheme": "",
+  "baseFontSize": 14,
   "baseFontSizeAction": true,
   "theme": "obsidian",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font",
