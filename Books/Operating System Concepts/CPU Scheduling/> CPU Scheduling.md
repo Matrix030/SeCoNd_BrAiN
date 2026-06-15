@@ -19,6 +19,14 @@ aliases: ["CPU Scheduling"]
 - [[> Basic Concepts]] — the CPU–I/O burst cycle, the CPU scheduler, and scheduling criteria
 - [[> Scheduling Criteria]] — the criteria used to compare CPU-scheduling algorithms
 - [[> Scheduling Algorithms]] — the algorithms that decide which process runs next
+- [[> Operating-System Examples]] — how real operating systems schedule the CPU
+- [[> Algorithm Evaluation]] — how to select a CPU-scheduling algorithm for a particular system
+
+---
+
+## Summary
+
+- [[CPU Scheduling Summary]] — chapter recap of the key concepts
 
 ---
 

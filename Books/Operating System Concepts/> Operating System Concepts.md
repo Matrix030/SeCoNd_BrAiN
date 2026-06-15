@@ -17,6 +17,7 @@ aliases: ["OS Concepts MOC", "Dinosaur Book"]
 - [[> Processes]] — the process concept, scheduling, operations, and interprocess communication
 - [[> Threads]] — threads, multicore programming, and multithreading models
 - [[> CPU Scheduling]] — CPU-scheduling concepts, algorithms, and selecting an algorithm
+- [[> Process Synchronization]] — the critical-section problem and tools for coordinating shared data
 
 ---
 
